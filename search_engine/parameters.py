@@ -1,10 +1,3 @@
-NUM_TOPICS = 2
-NUM_WORDS = 2
-NUM_DOCS = NUM_PRETTY = 16
-# import nltk
-# nltk.download('wordnet')  # noqa
-# from nltk.stem.wordnet import WordNetLemmatizer
-
 # STOPWORDS = 'a an and or the do are with from for of on in by if at to into them'.split()
 # STOPWORDS += 'to at it its it\'s that than our you your - -- " \' ? , . !'.split()
 STOPWORDS = []
@@ -20,6 +13,19 @@ STOPWORDS = []
 #     'i i  i  i    i   i    bird    bird birds bird   turtle   turtle turtle  turtle    not'.split())))
 SYNONYMS = {}
 
-stemmer = None  # PorterStemmer()
+STEMMERS = ['porter', 'snowball']
+STEMMER = STEMMERS[0]
 
-# tokenizer =
+TOKENIZERS = ['regexp', 'treebank', 'casual']
+TOKENIZER = TOKENIZERS[2]
+
+VECTORIZERS = ['tfidf', 'bow']
+VECTORIZER = VECTORIZERS[0]
+
+SEMANTIZATORS = ['pca', 'ldia', 'svd']
+SEMANTIZATOR = SEMANTIZATORS[0]
+
+NUM_TOPICS = 4
+
+SIMILARITY_METRICS = ['cosine']
+SIMILARITY_METRIC = SIMILARITY_METRICS[0]

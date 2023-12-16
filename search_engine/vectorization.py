@@ -1,7 +1,22 @@
-# TODO: Bridge implementation
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+import pandas as pd
 
-# bow
-# tf-idf
+from search_engine.parameters import TOKENIZER, VECTORIZER
+from search_engine.tokenizer import get_tokenizer
+# from search_engine.tokenizer import tokenize
 
-class Vectorization:
-    pass
+
+def vectorize(texts: pd.Series, method=VECTORIZER, tokenizer=TOKENIZER):
+    tokenizer = get_tokenizer(tokenizer)
+    if method == 'bow':
+        vectorizer = CountVectorizer(tokenizer=tokenizer)
+    elif method == 'tfidf':
+        vectorizer = TfidfVectorizer(tokenizer=tokenizer)
+    else:
+        raise ValueError("Incorrect vectorizer")
+    # Add other methods
+
+    texts = texts.str.lower()
+    # texts = [text.lower() for text in texts]
+    vectors = vectorizer.fit_transform(texts).toarray()
+    return vectors, vectorizer

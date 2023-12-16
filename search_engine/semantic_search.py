@@ -1,22 +1,26 @@
 # TODO: Builder implementation
-from search_engine.tokenizer import Tokenizer
+import pandas as pd
+
+from search_engine.parameters import TOKENIZER, VECTORIZER, SEMANTIZATOR, NUM_TOPICS, SIMILARITY_METRIC
+from search_engine.semantization import semanticize
+from search_engine.similarity import calculate_similarity
+# from search_engine.tokenizer import tokenize
+from search_engine.vectorization import vectorize
 
 
-class Semantic:
-    pass
+def search(query: str, articles: pd.DataFrame, tokenizer=TOKENIZER, vector_method=VECTORIZER,
+           semantic_method=SEMANTIZATOR, num_topics=NUM_TOPICS, similarity_metric=SIMILARITY_METRIC) -> pd.Series:
+    # Create corpus (articles) topics
+    # tokens = articles['content'].apply(lambda x: tokenize(x, tokenizer))
+    # vectors, vectorizer = vectorize(tokens, method=vector_method)
+    vectors, vectorizer = vectorize(articles['content'], method=vector_method, tokenizer=tokenizer)
+    topic_vectors, model = semanticize(vectors, method=semantic_method, num_topics=num_topics)
 
+    # Create user query topics
+    query_vector = vectorizer.transform([query])
+    query_topic_vector = model.transform(query_vector.toarray())
 
-class Product1:
-    pass
+    # Calc similarity between user query and articles topics
+    similarities = calculate_similarity(query_topic_vector[0], topic_vectors, metric=similarity_metric)
 
-
-class SemanticDocument(Semantic):
-    def __init__(self, tokenizer: Tokenizer) -> None:
-        """
-        A fresh builder instance should contain a blank product object, which is
-        used in further assembly.
-        """
-        self.reset(tokenizer)
-
-    def reset(self, tokenizer: Tokenizer) -> None:
-        self._product = Product1(tokenizer)
+    return similarities
