@@ -1,0 +1,751 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.42.0-wmf.9</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Inhaler spacer</title>
+    <ns>0</ns>
+    <id>307623</id>
+    <revision>
+      <id>1182828226</id>
+      <parentid>1099837027</parentid>
+      <timestamp>2023-10-31T16:40:50Z</timestamp>
+      <contributor>
+        <username>Doomhope</username>
+        <id>42195518</id>
+      </contributor>
+      <comment>added [[Category:Assistive technology]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4845" xml:space="preserve">{{infobox medical equipment
+| name         = Asthma spacer
+| acronym      =
+| synonym      = Valved holding chamber (VHC)
+| image        = File:Respiratory Spacer.png
+| caption      = A spacer with an [[inhaler]] installed
+| alt          = 
+| image_size   = 270px
+| specialty    = [[Respiratory medicine]]
+| intervention = Delivery of medication
+| MedlinePlus  = 
+| eMedicine    = 
+| inventor     = 
+| invention date = 1957
+| manufacturer = 
+| related      = 
+}}
+A '''spacer''' is a device used to increase the ease of administering aerosolized medication from a [[metered-dose inhaler]] (MDI). It adds space in the form of a tube or "chamber" between the mouth and canister of medication. Most spacers have a one-way valve that allows the person to inhale the medication while inhaling and exhaling normally; these are often referred to as '''valved holding chambers''' (VHC).
+
+AeroChamber, InspirEase and Volumatic are examples of a spacer.
+
+Spacers help those unable to breathe deeply, as well as those unable to synchronize their breathing so that they inhale just as the MDI is actuated; the latter is known as poor "hand-lung coordination".&lt;ref name=Nikanderp5&gt;{{Cite journal |last1=Nikander |first1=Kurt|last2=Nicholls|first2=Clare|last3=Denyer|first3=John|last4=Pritchard|first4=John|year=2014|title=The Evolution of Spacers and Valved Holding Chambers |journal=Journal of Aerosol Medicine and Pulmonary Drug Delivery|volume=27|issue=1|pages=(S4–S23), S5 |url=https://www.liebertpub.com/doi/abs/10.1089/jamp.2013.1076 |pmid=25054481|doi=10.1089/jamp.2013.1076}}&lt;/ref&gt;
+__TOC__
+==Terminology==
+The term spacer is often used to refer to any tube-like MDI add-on device. Some spacers (e.g., InspirEase) utilize a collapsing bag design to provide visual feedback that successful inspiration is taking place. Another type (e.g., Volumatic) is transparent plastic in two vase-shaped parts that come together forming a barrel shape. Valved holding chambers (VHC) are commonly called "spacers" as well. 
+
+==Application and benefits==
+[[File:Asthma Inhaler (29172634251).jpg|thumb|[[Metered-dose inhaler]] (MDI); the mouthpiece slots into the back of the spacer.]]
+To use an inhaler without a spacer requires coordinating several actions in a set order (pressing down on the inhaler, breathing in deeply as soon as the medication is released, holding your breath, exhaling), and not everyone is able to master this sequence. Use of a spacer, particularly a valved holding chamber, avoids such timing issues. Valved holding chambers are particularly useful for children, people with severe shortness of breath, and those with cognitive impairment.{{sfn|Nikander|Nicholls|Denyer|Pritchard|2014|p=S13}}
+
+After removing the MDI's cap, the MDI mouthpiece is inserted into the back of the spacer. The front part of the chamber is closed off by either a mouthpiece or a mask that covers the mouth and nose. To administer the medication, the MDI is depressed once, resulting in the release of one dose of medication. The medication from the MDI is then suspended in the spacer's chamber while the person inhales the aerosolized medication by breathing in and out. The exhaled breath exits the device through the [[valve]]s rather than entering the chamber. Some spacers are equipped with a whistle, which sounds if the person is inhaling too quickly.
+
+Spacers slow down the speed of the [[Particulate|aerosol]] coming from the inhaler, meaning that less of the [[asthma medication|asthma drug]] impacts on the back of the mouth and somewhat more may get into the lungs.&lt;ref name=Nikanderp5/&gt;&lt;ref&gt;''Merck Manual of Diagnosis and Therapy''. 18th ed, Wiley, 2006, p.&amp;nbsp;405.&lt;/ref&gt; In the case of [[corticosteroid]]s, less residue in the mouth reduces the risk of developing [[oral candidiasis]], a yeast infection. Rinsing the mouth after application of inhaled steroids has a similar effect.&lt;ref&gt;{{cite web|url=http://www.asthma.partners.org/newfiles/inhaledsteroids.html |title=Asthma and Inhaled Steroids |website=Asthma.partners.org|access-date=23 November 2016}}&lt;/ref&gt;
+
+Whereas people with asthma can keep an MDI close-by at all times, the bulkiness of spacers can limit their use outside the home. Some research suggests that homemade spacers, using plastic bottles, may be as effective as commercially made versions, but homemade versions may have more variability.&lt;ref&gt;{{Cite web|url=http://globalasthmareport.org/Global%20Asthma%20Report%202018.pdf|title=Global Asthma Report 2018|last=|first=|date=|website=Global Asthma Network|url-status=live|archive-url=https://web.archive.org/web/20181024182328/http://globalasthmareport.org:80/Global%20Asthma%20Report%202018.pdf |archive-date=2018-10-24 |access-date=}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Asthma|Spacer. Asthma]]
+[[Category:Medical equipment]]
+[[Category:Assistive technology]]</text>
+      <sha1>d33y5xzic05iu2o5ykc39kesnvn32f9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>World Asthma Day</title>
+    <ns>0</ns>
+    <id>634587</id>
+    <revision>
+      <id>1131875535</id>
+      <parentid>1089572374</parentid>
+      <timestamp>2023-01-06T05:10:25Z</timestamp>
+      <contributor>
+        <ip>2405:201:4022:D059:75B8:3221:1BC7:8BD</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2002" xml:space="preserve">{{Infobox holiday
+|holiday_name  = World Asthma Day
+|type          = health
+|longtype      = 6
+|image         = 
+|caption       = 
+|official_name = 
+|nickname      = 
+|observedby    = 
+|begins        = May 3rd
+|ends          = 
+|date          = 
+&lt;!-- next three if holiday is the same day of the same week every year --&gt;
+|week_ordinal  = 
+|weekday       = 3rd
+|month         = May
+|celebrations  = 
+|duration   = 1 day
+|frequency   = annual
+|observances   = 
+|relatedto     = 
+}}
+
+'''World Asthma Day''' is an annual event organized by the [[Global Initiative for Asthma]] (GINA) to improve [[asthma]] awareness and care around the world. World Asthma Day is held on the first Tuesday in May.&lt;ref&gt;{{cite web |title=NIH Statement on World Asthma Day 2021 |url=https://www.nih.gov/news-events/news-releases/nih-statement-world-asthma-day-2021 |website=nih.gov |publisher=[[National Institutes of Health]] |date=5 May 2021 |access-date=22 December 2021}}&lt;/ref&gt; The theme of 2021's event was "Uncovering Asthma Misconceptions," and for 2022, "Closing Gaps in Asthma Care."&lt;ref&gt;{{cite web |title=World Asthma Day 2022 |url=https://ginasthma.org/world-asthma-day-2022/ |website=ginasthma.org|publisher=[[Global Initiative for Asthma]] |date=2 May 2022 |access-date=2 May 2022}}&lt;/ref&gt;
+
+The inaugural World Asthma Day was held in 1998.&lt;ref&gt;{{cite news | title = World Asthma Day 2011: "You Can Control Your Asthma" | work = Medical News Today | publisher = www.medilexicon.org| date = May 3, 2011 | url =  http://www.medicalnewstoday.com/articles/224073.php| accessdate =  2012-04-14}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://ginasthma.org/wad/ World Asthma Day]
+* [http://www.atsdr.cdc.gov/HEC/CSEM/asthma/ Case Studies in Environmental Medicine (CSEM):  Environmental Triggers of Asthma] – Agency for Toxic Substances and Disease Registry, U.S. Department of Health and Human Services.
+
+[[Category:Asthma]]
+[[Category:May observances]]
+[[Category:Health awareness days|Asthma]]</text>
+      <sha1>79q7pz4nb45uknkvzwje1nlbaadoh9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Exercise-induced bronchoconstriction</title>
+    <ns>0</ns>
+    <id>3193479</id>
+    <revision>
+      <id>1189129409</id>
+      <parentid>1184857190</parentid>
+      <timestamp>2023-12-09T22:27:05Z</timestamp>
+      <contributor>
+        <username>Adhiyana</username>
+        <id>31257521</id>
+      </contributor>
+      <comment>/* top */If the term is no longer preferred I feel it would be best if it were not the first term used in the article</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19923" xml:space="preserve">{{Infobox medical condition (new)
+| name            = Exercise-induced Bronchoconstriction 
+| synonyms        = EIA
+| image           = 
+| caption         = 
+| pronounce       = 
+| field           = 
+| symptoms        = Shortness of breath on vigorous exercise
+| complications   = 
+| onset           = Rapid, on exercise
+| duration        = For the duration of activity and some time afterwards 
+| types           = 
+| causes          = Moderate to high intensity exercise 
+| risks           = 
+| diagnosis       =
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+
+'''Exercise-induced bronchoconstriction''' ('''EIB''') occurs when the airways narrow as a result of exercise.  This condition has been referred to as '''exercise-induced asthma''' ('''EIA'''), however this term is no longer preferred. While exercise does not cause [[asthma]], it is frequently an [[asthma trigger]].&lt;ref&gt;{{cite journal|last=Khan|first=DA|title=Exercise-induced bronchoconstriction: burden and prevalence|journal=Allergy and Asthma Proceedings|date=Jan–Feb 2012|volume=33|issue=1|pages=1–6|pmid=22370526|doi=10.2500/aap.2012.33.3507}}&lt;/ref&gt;
+
+It might be expected that people with E.I.B. would present with [[dyspnea|shortness of breath]], and/or an [[tachypnea|elevated respiratory rate]] and [[wheezing]], consistent with an asthma attack.  However, many will present with decreased stamina, or difficulty in recovering from exertion compared to team members, or paroxysmal coughing from an irritable airway.&lt;ref name=Parsons&gt;{{cite journal | title=Screening for exercise-induced bronchoconstriction in college athletes |vauthors=Parsons JP, Cosmar D, Phillips G, Kaeding C, Best TM, Mastronarde JG | date=March 2012 | journal=J Asthma | volume=49 |issue=2 | pages=153–7 | pmid=22276571 |  doi= 10.3109/02770903.2011.652329 |pmc=3832203 }}&lt;/ref&gt;  Similarly, examination may reveal wheezing and  prolonged expiratory phase, or may be quite normal.  Consequently, a potential for under-diagnosis exists.  Measurement of airflow, such as peak expiratory flow rates, which can be done inexpensively on the track or sideline, may prove helpful. In athletes, symptoms of bronchospasm such as chest discomfort, breathlessness, and fatigue are often falsely attributed to the individual being “out of shape”, having asthma, or possessing a hyperreactive airway rather than EIB &lt;ref name="Parsons &amp; Mastronade"&gt;{{cite journal | title=Exercise-Induced Bronchoconstriction in Athletes |vauthors=Parsons JP, Mastronarde JG |journal=Chest |date=24 December 2015 |volume=128 |issue=6 |pages=3966–3974 |doi=10.1016/S0012-3692(15)49641-2 |pmid=16354868 |s2cid=38398971 |url=https://www.sciencedirect.com/science/article/pii/S0012369215496412 |access-date=28 November 2020}}&lt;/ref&gt;
+
+== Cause==
+While the potential triggering events for EIB are well recognized, the underlying pathogenesis is poorly understood.&lt;ref name=CAAR&gt;{{cite journal | title=Exercise-induced bronchoconstriction: Pathogenesis |vauthors=Anderson SD, Kippelen P |date=March 2005 | journal=Current Allergy and Asthma Reports | volume=5 |issue=2 | pages=116–22 | doi= 10.1007/s11882-005-0084-y |pmid=15683611|s2cid=11816261 }}&lt;/ref&gt; It usually occurs after at least several minutes of vigorous, [[Aerobic exercise|aerobic]] activity, which increases oxygen demand to the point where breathing through the nose (nasal breathing) must be supplemented by mouth breathing.  The resultant inhalation of air that has not been warmed and humidified by the nasal passages seems to generate increased blood flow to the linings of the bronchial tree, resulting in [[edema]].  Constriction of these small airways then follows, worsening the degree of obstruction to airflow.  There is increasing evidence that the smooth muscle that lines the airways becomes progressively more sensitive to changes that occur as a result of injury to the airways from dehydration.  The chemical mediators that provoke the muscle spasm appear to arise from [[mast cell]]s.&lt;ref name=CAAR /&gt; Mouth breathing as a result of decreased nasal breathing also increases lung surface exposure to irritants, pollutants, and allergens, causing neutrophilic inflammation in response to reactive oxygen species formation; research has found that individuals with genetically hindered glutathione counteraction of this oxidative stress are likely at a higher risk of developing EIB.&lt;ref name=TIFL&gt; {{cite book | last1=Gerow |first1=M |last2= Bruner |first2=PJ |date=January 2023 | title=Exercise-Induced Asthma |url=https://www.ncbi.nlm.nih.gov/books/NBK557554/ |location=Treasure Island (FL) |publisher=StatPearls Publishing LLC |pmid=32491486 }}&lt;/ref&gt;
+
+==Diagnosis==
+Exercise-induced bronchoconstriction can be difficult to diagnose clinically given the lack of specific symptoms&lt;ref name=Parsons /&gt; and frequent misinterpretation as manifestations of vigorous exercise.  There are many mimics that present with similar symptoms, such as [[vocal cord dysfunction]], [[cardiac arrhythmias]], [[cardiomyopathies]], and [[gastroesophageal reflux disease]].  It is also important to distinguish those who have asthma with exercise worsening, and who consequently will have abnormal testing at rest, from true exercise-induced bronchoconstriction, where there will be normal baseline results.  Because of the wide differential diagnosis of exertional respiratory complaints, the diagnosis of exercise-induced bronchoconstriction based on history and self-reported symptoms alone has been shown to be inaccurate &lt;ref&gt;{{cite journal  |vauthors=Hallstrand TS, Curtis JR, Koepsell TD, etal |title=Effectiveness of screening examinations to detect unrecognized exercise-induced bronchoconstriction |journal=J. Pediatr. |volume=141 |issue=3 |pages=343–8 |date=September 2002 |pmid=12219053 |doi=10.1067/mpd.2002.125729 |doi-access=free }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |vauthors=Rundell KW, Im J, Mayers LB, Wilber RL, Szmedra L, Schmitz HR |title=Self-reported symptoms and exercise-induced asthma in the elite athlete |journal=Med Sci Sports Exerc |volume=33 |issue=2 |pages=208–13 |date=February 2001 |pmid=11224807 |doi=10.1097/00005768-200102000-00006 }}&lt;/ref&gt; and will result in an incorrect diagnosis more than 50% of the time.&lt;ref&gt;{{cite journal |vauthors=Parsons JP, Kaeding C, Phillips G, Jarjoura D, Wadley G, Mastronarde JG |title=Prevalence of exercise-induced bronchospasm in a cohort of varsity college athletes |journal=Med Sci Sports Exerc |volume=39 |issue=9 |pages=1487–92 |date=September 2007 |pmid=17805078 |doi=10.1249/mss.0b013e3180986e45 |doi-access=free }}&lt;/ref&gt; An important and often overlooked differential diagnosis is [[Exercise-induced laryngeal obstruction | Exercise-induced laryngeal obstruction (EILO)]]. The latter can co-exist with EIB and is best differentiated using objective testing and continuous laryngoscopy during exercise (CLE) testing. 
+
+===Spirometry===
+Objective testing should begin with [[spirometry]] at rest. In true exercise-induced bronchoconstriction, the results should be within normal limits. Should resting values be abnormal, then asthma, or some other chronic lung condition, is present. There is, of course, no reason why asthma and exercise-induced bronchoconstriction should not co-exist but the distinction is important because without successful treatment of underlying asthma, treatment of an exercise component will likely be unsuccessful.  If baseline testing is normal, some form of exercise or pharmacologic stress will be required, either on the sideline or practice venue, or in the laboratory.&lt;ref name=ERS&gt;{{cite journal | title=Exercise-induced asthma, respiratory and allergic disorders in elite athletes: epidemiology, mechanisms and diagnosis: Part I of the report from the Joint Task Force of the European Respiratory Society (ERS) and the European Academy of Allergy and Clinical Immunology (EAACI) in cooperation with GA2LEN  |vauthors=Carlsen KH, Anderson SD, Bjermer L, etal | date=April 2008 | journal=Allergy | volume=63 |issue=4 | pages=387–403 | doi=10.1111/j.1398-9995.2008.01662.x |pmid=18315727| doi-access=free }}&lt;/ref&gt;
+
+=== Exercise testing ===
+Treadmill or ergometer-based testing in lung function laboratories are effective methods for diagnosing exercise-induced bronchoconstriction, but may result in false negatives if the exercise stimulus is not intense enough.
+
+=== Field-exercise challenge ===
+Field-exercise challenge tests that involve the athlete performing the sport in which they are normally involved and assessing [[FEV1/FVC ratio|FEV&lt;sub&gt;1&lt;/sub&gt;]] after exercise are helpful if abnormal but have been shown to be less sensitive than eucapnic voluntary hyperventilation.&lt;ref name="pmid10084470"&gt;{{cite journal|vauthors=Mannix ET, Manfredi F, Farber MO | s2cid=2599863 | title=A comparison of two challenge tests for identifying exercise-induced bronchospasm in figure skaters | journal=Chest | year= 1999 | volume= 115 | issue= 3 | pages= 649–53 | pmid=10084470 | doi= 10.1378/chest.115.3.649}}&lt;/ref&gt;
+
+==== Eucapnic voluntary hyperventilation challenge ====
+The [[International Olympic Committee]] recommends the [[eucapnic voluntary hyperventilation]] (EVH) challenge as the test to document exercise-induced asthma  in [[Olympic Games|Olympic]] athletes.&lt;ref name="McKeagMoeller2007"&gt;{{cite book|author1=Douglas B. McKeag|author2=James L. Moeller|author3=American College of Sports Medicine|title=ACSM's Primary Care Sports Medicine|url=https://books.google.com/books?id=KoeRrA_-td0C&amp;pg=PA167|access-date=21 April 2012|date=3 July 2007|publisher=Lippincott Williams &amp; Wilkins|isbn=978-0-7817-7028-6|page=167}}&lt;/ref&gt;  In the EVH challenge, the patient voluntarily, without exercising, rapidly breathes dry air enriched with 5% {{CO2}} for six minutes.  The presence of the enriched {{CO2}} compensates for the {{CO2}} losses in the expired air, not matched by metabolic production, that occurs during hyperventilation, and so maintains {{CO2}} levels at normal.&lt;ref&gt;{{cite web |last=Rosenthal |first=Richard |title=Eucapnic Voluntary Hyperventilation (EVH) A Test for the Presence of Asthma |url=http://image.lifeservant.com/siteuploadfiles/VSYM/E771344B-4428-4E27-8A0E0700B4A4CA31/098823F8-C29A-8FCE-4EC63CCB218901DC.doc |access-date=2014-05-30 |archive-url=https://web.archive.org/web/20140531104931/http://image.lifeservant.com/siteuploadfiles/VSYM/E771344B-4428-4E27-8A0E0700B4A4CA31/098823F8-C29A-8FCE-4EC63CCB218901DC.doc |archive-date=2014-05-31 |url-status=dead }}&lt;/ref&gt;
+
+==== Medication challenge ====
+Medication challenge tests, such as the [[methacholine]] challenge test, have a lower sensitivity for detection of exercise-induced bronchoconstriction in athletes and are also not a recommended first-line approach in the evaluation of exercise-induced asthma.&lt;ref name="pmid17433829"&gt;{{cite journal |vauthors=Weiler JM, Bonini S, Coifman R, Craig T, Delgado L, Capão-Filipe M, etal | title=American Academy of Allergy, Asthma &amp; Immunology Work Group report: exercise-induced asthma. | journal=J Allergy Clin Immunol | year= 2007 | volume= 119 | issue= 6 | pages= 1349–58 | pmid=17433829 | doi=10.1016/j.jaci.2007.02.041 | doi-access=free }}&lt;/ref&gt;
+
+[[Mannitol]] inhalation&lt;ref name="pmid9769270"&gt;{{cite journal|vauthors=Brannan JD, Koskela H, Anderson SD, Chew N | title=Responsiveness to mannitol in asthmatic subjects with exercise- and hyperventilation-induced asthma. | journal=Am J Respir Crit Care Med | year= 1998 | volume= 158 | issue= 4 | pages= 1120–6 | pmid=9769270 | doi= 10.1164/ajrccm.158.4.9802087}}&lt;/ref&gt;&lt;ref name="pmid18756011"&gt;{{cite journal |vauthors=Muñoz PA, Gómez FP, Manrique HA, Roca J, Barberà JA, Young IH, etal | s2cid=17712937 | title=Pulmonary gas exchange response to exercise- and mannitol-induced bronchoconstriction in mild asthma. | journal=J Appl Physiol | year= 2008 | volume= 105 | issue= 5 | pages= 1477–85 | pmid=18756011 | doi=10.1152/japplphysiol.00108.2008 }}&lt;/ref&gt; has been recently approved for use in the United States.
+
+A relatively recent review of the literature has concluded that there is currently insufficient available evidence to conclude that either mannitol inhalation or eucapnic voluntary hyperventilation are suitable alternatives to exercise challenge testing to detect exercise-induced bronchoconstriction and that additional research is required.&lt;ref&gt;{{cite journal | title=Accuracy of eucapnic hyperpnea or mannitol to diagnose exercise-induced bronchoconstriction: a systematic review |vauthors=Stickland MK, Rowe BH, Spooner CH, Vandermeer B, Dryden DM | date=September 2011 | journal=Ann Allergy Asthma Immunol | volume=107 | pages=229–34 | pmid=21875541 | doi=10.1016/j.anai.2011.06.013 | issue=3}}&lt;/ref&gt;
+
+==Treatment==
+{{further|Asthma#Management}}
+
+===Lifestyle===
+The best treatment is avoidance of conditions predisposing to attacks, when possible.  In athletes who wish to continue their sport or do so in adverse conditions, preventive measures include altered training techniques and medications.
+
+Some take advantage of the [[Refractory period (physiology)|refractory period]] by precipitating an attack by "warming up," and then timing competition such that it occurs during the refractory period.  Step-wise training works in a similar fashion.  Warm up occurs in stages of increasing intensity, using the refractory period generated by each stage to reach a full workload.&lt;ref&gt;{{cite journal | title=Effect of warm-up exercise on exercise-induced bronchoconstriction |vauthors=Stickland MK, Rowe BH, Spooner CH, Vandermeer B, Dryden DM |s2cid=343413 | date=March 2012 | journal=Med Sci Sports Exerc | volume=44 | pages=383–91 | pmid=21811185 | doi=10.1249/MSS.0b013e31822fb73a | issue=3| doi-access=free }}&lt;/ref&gt;
+
+===Medication===
+There is no evidence supporting different treatment for EIB in asthmatic athletes and nonathletes.&lt;ref name=ERS2/&gt; The most common medication used is a [[beta agonist]] taken about 20 minutes before exercise.&lt;ref name=ERS2&gt;{{cite journal | title=Treatment of exercise-induced asthma, respiratory and allergic disorders in sports and the relationship to doping: Part II of the report from the Joint Task Force of European Respiratory Society (ERS) and European Academy of Allergy and Clinical Immunology (EAACI) in cooperation with GA2LEN  |vauthors=Carlsen KH, Anderson SD, Bjermer L, etal | date=April 2008 | journal=Allergy | volume=63 |issue=4 | pages=492–505 | doi=10.1111/j.1398-9995.2008.01663.x | pmid=18394123| doi-access=free }}&lt;/ref&gt; Some physicians prescribe inhaled anti-inflammatory mists such as [[corticosteroids]] or [[leukotriene antagonist]]s, and [[mast cell stabilizer]]s have also proven effective.&lt;ref name=ERS2 /&gt;
+
+In May 2013, the [[American Thoracic Society]] issued the first treatment guidelines for EIB, recommending use of "a short-acting β2-agonist before exercise in all patients with EIB. For patients who continue to have symptoms of EIB despite the administration of a short-acting β2-agonist before exercise, strong recommendations were made for a daily inhaled corticosteroid, a daily leukotriene receptor antagonist, or a mast cell stabilizing agent before exercise."&lt;ref name=ATS2013&gt;{{cite journal  |vauthors=Parsons JP, Hallstrand TS, Mastronarde JG, etal |s2cid=32941118 |title=An Official American Thoracic Society Clinical Practice Guideline: Exercise-induced Bronchoconstriction |journal=American Journal of Respiratory and Critical Care Medicine |volume=187 |issue=9 |pages=1016–27 |date=May 2013 |pmid=23634861 |doi=10.1164/rccm.201303-0437ST|url=https://www.atsjournals.org/doi/full/10.1164/rccm.201303-0437ST}}&lt;/ref&gt;
+
+There is conflicting information about the value of theophylline and other methylxanthines as prophylaxis against [[Exercise-induced bronchoconstriction]].&lt;ref&gt;{{cite journal |last1=Pigakis |first1=Konstantinos M |last2=Stavrou |first2=Vasileios T |last3=Pantazopoulos |first3=Ioannis |last4=Daniil |first4=Zoe |last5=Kontopodi |first5=Aggeliki K |last6=Gourgoulianis |first6=Konstantinos |title=Exercise-Induced Bronchospasm in Elite Athletes |journal=Cureus |date=3 January 2022 |volume=14 |issue=1 |pages=e20898 |doi=10.7759/cureus.20898|pmid=35145802 |pmc=8807463 }}&lt;/ref&gt;
+
+===Research===
+A [[crossover study]] compared oral [[montelukast]] with inhaled [[salmeterol]], both given two hours before exercise, showing that the drugs had similar benefit.&lt;ref name="pmid17573489"&gt;{{cite journal  |vauthors=Philip G, Pearlman DS, Villarán C, etal |title=Single-dose montelukast or salmeterol as protection against exercise-induced bronchoconstriction |journal=Chest |volume=132 |issue=3 |pages=875–83 |year=2007 |pmid=17573489 |doi=10.1378/chest.07-0550}}&lt;/ref&gt;
+
+A [[meta-analysis]] of preliminary research indicated that [[vitamin C]] may be useful to relieve respiratory symptoms such as cough during exercise.&lt;ref name=Hemila2013&gt;{{cite journal |last=Hemilä |first=H |url= |title=Vitamin C may alleviate exercise-induced bronchoconstriction: a meta-analysis |journal=[[BMJ Open]] |volume=3 |issue=6 |pages=e002416 |date=7 June 2013 |doi=10.1136/bmjopen-2012-002416 |pmid=23794586 |pmc=3686214}} {{open access}}&lt;/ref&gt;
+
+==Prognosis==
+As evidenced by many professional athletes who have overcome EIB using some combination of accepted treatments, the prognosis is usually very good.{{dubious|date=August 2013}} Olympic swimmers [[Tom Dolan]], [[Amy Van Dyken]], and [[Nancy Hogshead]], Olympic track star [[Jackie Joyner-Kersee]], baseball Hall of Famer [[Catfish Hunter]], and American football player [[Jerome Bettis]] are among the many who have done so. Tour de France winner [[Chris Froome]] reported that he suffers from the condition, after being spotted using a nasal inhaler during race.&lt;ref&gt;{{cite web| url=http://www.cyclingnews.com/news/froome-surprised-at-controversy-over-in-race-inhaler-use|title=Froome surprised at controversy over in-race inhaler use|date=10 June 2014}}&lt;/ref&gt; Other athletes with EIB include racing cyclist [[Simon Yates (cyclist)|Simon Yates]], distance runner [[Paula Radcliffe]]&lt;ref name=graun&gt;{{cite web |url=https://www.theguardian.com/sport/2016/apr/29/elite-athletes-asthma-simon-yates-team-sky-swimmers |title=Why do so many elite athletes have asthma?  |last1=Walker |first1=Peter|date=29 April 2016 |website=[[theguardian.com]] |access-date=29 April 2016}}&lt;/ref&gt; and cross-country skier [[Marit Bjørgen]].&lt;ref name=cnn&gt;{{cite web |url=http://edition.cnn.com/2010/HEALTH/02/17/exercise.asthma.winter/ |title=For Olympians and weekend warriors, winter sports can trigger asthma |last1=Gardner |first1=Amanda  |date=17 February 2010 |website=[[cnn.com]] |access-date=29 April 2016}}&lt;/ref&gt; Research by sports scientist John Dickinson found that 70 percent of UK-based members of the British swimming team had some form of asthma, as did a third of {{ct|SKY|2016}} cyclists, compared to a national asthma rate of eight to ten percent,&lt;ref name=graun /&gt; whilst a study by the [[United States Olympic Committee]] in 2000 found that half of cross-country skiers had EIB.&lt;ref name=cnn /&gt;
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{cite web |url= http://www.aaaai.org/patients/publicedmat/tips/exerciseinducedasthma.stm|title= Tips to Remember: Exercise-induced asthma|access-date= 2007-04-12|publisher= [[American Academy of Allergy, Asthma, and Immunology]]}}
+* [https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0033704/ Fact sheet: Exercise-induced asthma]
+{{Medical resources
+|  DiseasesDB     = 31728
+|  ICD10          = J45.990
+|  ICD9           = {{ICD9|493.81}}
+|  ICDO           = 
+|  OMIM           = 
+|  MedlinePlus    = 000036
+|  eMedicineSubj  = sports
+|  eMedicineTopic = 155
+|  MeshID         = D001250
+}}
+{{Respiratory_pathology}}
+
+[[Category:Asthma]]
+[[Category:Exercise physiology]]
+[[Category:Respiration]]
+[[Category:Respiratory therapy]]</text>
+      <sha1>hd1i3i3xc40mlrvv1yis7m4u79x8ctm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Deaths from asthma</title>
+    <ns>14</ns>
+    <id>3970415</id>
+    <revision>
+      <id>970567719</id>
+      <parentid>912983122</parentid>
+      <timestamp>2020-08-01T02:28:43Z</timestamp>
+      <contributor>
+        <ip>50.26.172.216</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" xml:space="preserve">{{Portal|Medicine|Biography}}
+[[Asthma]]-related deaths
+
+[[Category:Asthma]]
+[[Category:Deaths from respiratory disease|Asthma]]
+[[Category:Deaths from asphyxiation|Asthma]]
+{{CatAutoTOC}}</text>
+      <sha1>0gy2m5v0e6k30xp2ltv2zv5lnpsbljd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heliox</title>
+    <ns>0</ns>
+    <id>38010</id>
+    <revision>
+      <id>1180985030</id>
+      <parentid>1180415732</parentid>
+      <timestamp>2023-10-20T02:50:24Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Add: doi-access. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 141/454</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13405" xml:space="preserve">{{short description| A breathing gas mixed from helium and oxygen }}
+{{about|the breathing gas|the cryogenic system|Heliox (cryogenic equipment)}}
+{{Infobox drug
+| drug_name          = Heliox
+| CAS_number = 58933-55-4 
+| PubChem            = 123812
+| chemical_formula   = HeO&lt;sub&gt;2&lt;/sub&gt;
+| molecular_weight   = 36.001
+}}
+
+'''Heliox''' is a [[breathing gas]] mixture of [[helium]] (He) and [[oxygen]] (O&lt;sub&gt;2&lt;/sub&gt;). It is used as a medical treatment for patients with difficulty breathing because this mixture generates less resistance than atmospheric air when passing through the airways of the lungs, and thus requires less effort by a patient to breathe in and out of the lungs. It is also used as a breathing gas diluent for deep ambient pressure diving as it is not narcotic at high pressure, and for its low work of breathing.
+
+Heliox has been used medically since the 1930s, and although the medical community adopted it initially to alleviate symptoms of upper airway obstruction, its range of medical uses has since expanded greatly, mostly because of the low density of the gas.&lt;ref&gt;{{cite journal | vauthors = Barach AL, Eckman M | title = The effects of inhalation of helium mixed with oxygen on the mechanics of respiration | journal = The Journal of Clinical Investigation | volume = 15 | issue = 1 | pages = 47–61 | date = January 1936 | pmid = 16694380 | pmc = 424760 | doi = 10.1172/JCI100758 }}&lt;/ref&gt;&lt;ref name="BOCMprod"&gt;{{cite web |url=http://www.bocmedical.co.uk/product_information/heliox.asp |title=Heliox product information |publisher=BOC Medical |archive-url=https://web.archive.org/web/20081121031022/http://www.bocmedical.co.uk/product_information/heliox.asp |archive-date=21 November 2008}}&lt;/ref&gt; Heliox is also used in [[saturation diving]] and sometimes during the deep phase of [[technical diving|technical dives]].&lt;ref name=usn&gt;{{cite book |title=US Navy Diving Manual, 6th revision |year=2008 |publisher=US Naval Sea Systems Command |location=United States |url=http://www.supsalv.org/00c3_publications.asp?destPage=00c3&amp;pageID=3.9 |access-date=2008-07-08 |archive-date=2008-05-02 |archive-url=https://web.archive.org/web/20080502023541/http://www.supsalv.org/00c3_publications.asp?destPage=00c3&amp;pageId=3.9 |url-status=dead }}&lt;/ref&gt;&lt;ref name=Brubakk&gt;{{cite book |title=Bennett and Elliott's physiology and medicine of diving | edition = 5th Rev | vauthors = Brubakk AO, Neuman TS |year=2003 |publisher=Saunders Ltd. |location=United States |isbn=0-7020-2571-2 |pages=800 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.divingheritage.com/moderncomex.htm | title = COMEX PRO }}&lt;/ref&gt;
+
+== Medical uses ==
+In [[medicine]] heliox may refer to a mixture of 21% O&lt;sub&gt;2&lt;/sub&gt; (the same as [[air]]) and 79% He, although other combinations are available (70/30 and 60/40).
+
+Heliox generates less airway resistance than air and thereby requires less mechanical energy to ventilate the lungs.&lt;ref name="BOCheox21"&gt;{{cite web |url=http://www.bochealthcare.co.uk/en/products/heliox/index.shtml |title=Heliox21 |publisher=Linde Gas Therapeutics |date=27 January 2009 |access-date=13 April 2011}}&lt;/ref&gt; "[[Work of breathing]]" (WOB) is reduced by two mechanisms:
+# increased tendency to [[laminar flow]];
+# reduced resistance in [[turbulent flow]] due to lower density.
+Heliox 20/80 diffuses 1.8 times faster than oxygen, and the flow of heliox 20/80 from an oxygen flowmeter is 1.8 times the normal flow for oxygen.&lt;ref&gt;{{cite journal | vauthors = Hess DR, Fink JB, Venkataraman ST, Kim IK, Myers TR, Tano BD | title = The history and physics of heliox | journal = Respiratory Care | volume = 51 | issue = 6 | pages = 608–612 | date = June 2006 | pmid = 16723037 | url = https://rc.rcjournal.com/content/respcare/51/6/608.full.pdf | url-status = live | archive-url = https://ghostarchive.org/archive/20221009/https://rc.rcjournal.com/content/respcare/51/6/608.full.pdf | archive-date = 2022-10-09 }}&lt;/ref&gt;
+
+Heliox has a similar [[viscosity]] to air but a significantly lower [[density]] (0.5&amp;nbsp;g/L versus 1.25&amp;nbsp;g/L at [[Standard temperature and pressure|STP]]). Flow of gas through the airway comprises laminar flow, transitional flow and turbulent flow. The tendency for each type of flow is described by the [[Reynolds number]]. Heliox's low density produces a lower Reynolds number and hence higher probability of laminar flow for any given airway. Laminar flow tends to generate less resistance than turbulent flow.
+
+In the small airways where flow is laminar, resistance is proportional to gas viscosity and is not related to density and so heliox has little effect. The [[Hagen–Poiseuille equation]] describes laminar resistance. In the large airways where flow is turbulent, resistance is proportional to density, so heliox has a significant effect.
+
+There is also some use of heliox in conditions of the medium airways ([[croup]], asthma and [[chronic obstructive pulmonary disease]]). A recent trial has suggested that lower fractions of helium (below 40%){{snd}} thus allowing a higher fraction of oxygen{{snd}} might also have the same beneficial effect on upper airway obstruction.&lt;ref&gt;{{cite journal | vauthors = Truebel H, Wuester S, Boehme P, Doll H, Schmiedl S, Szymanski J, Langer T, Ostermann T, Cysarz D, Thuermann P | display-authors = 6 | title = A proof-of-concept trial of HELIOX with different fractions of helium in a human study modeling upper airway obstruction | journal = European Journal of Applied Physiology | volume = 119 | issue = 5 | pages = 1253–1260 | date = May 2019 | pmid = 30850876 | doi = 10.1007/s00421-019-04116-7 | s2cid = 71715570 }}&lt;/ref&gt;
+
+Patients with these conditions may develop a range of symptoms including [[dyspnea]] (breathlessness), hypoxemia (below-normal oxygen content in the arterial blood) and eventually a weakening of the respiratory muscles due to [[Fatigue|exhaustion]], which can lead to respiratory failure and require intubation and mechanical ventilation. Heliox may reduce all these effects, making it easier for the patient to breathe.&lt;ref name="BOCMdata"&gt;{{cite web |url=http://www.bocmedical.co.uk/product_information/Medical_Helium_Oxygen_Mix_172.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.bocmedical.co.uk/product_information/Medical_Helium_Oxygen_Mix_172.pdf |archive-date=2022-10-09 |url-status=live |title=Heliox data sheet |author=BOC Medical}}&lt;/ref&gt; Heliox has also found utility in the weaning of patients off mechanical ventilation, and in the nebulization of inhalable drugs, particularly for the elderly.&lt;ref name="AnaesUK"&gt;{{cite journal | vauthors = Lee DL, Hsu CW, Lee H, Chang HW, Huang YC | title = Beneficial effects of albuterol therapy driven by heliox versus by oxygen in severe asthma exacerbation | journal = Academic Emergency Medicine | volume = 12 | issue = 9 | pages = 820–827 | date = September 2005 | pmid = 16141015 | doi = 10.1197/j.aem.2005.04.020 | doi-access = free }}&lt;/ref&gt; Research has also indicated advantages in using helium–oxygen mixtures in delivery of [[anaesthesia]].&lt;ref name="BJA"&gt;{{cite journal | vauthors = Buczkowski PW, Fombon FN, Russell WC, Thompson JP | title = Effects of helium on high frequency jet ventilation in model of airway stenosis | journal = British Journal of Anaesthesia | volume = 95 | issue = 5 | pages = 701–705 | date = November 2005 | pmid = 16143576 | doi = 10.1093/bja/aei229 | doi-access = free }}&lt;/ref&gt;
+
+=== History ===
+Heliox has been used medically since the early 1930s. It was the mainstay of treatment in acute [[asthma]] before the advent of [[bronchodilators]]. Currently, heliox is mainly used in conditions of large airway narrowing (upper airway obstruction from tumors or foreign bodies and [[vocal cord dysfunction]]).
+
+== Usage in diving ==
+{{Listen|right|filename=Helium article read with helium.ogg|title=Effect of helium on a human voice|description=The effect of helium on a human voice|format=[[Ogg]]}}
+
+Helium diluted breathing gases are used to eliminate or reduce the effects of [[inert gas narcosis]], and to reduce [[work of breathing]] due to increased gas density at depth. From the 1960s saturation diving physiology studies were conducted with helium from {{convert|45|to|610|m|ft|abbr=on}} over several decades by a Hyperbaric Experimental Centre operated by the French company [[Compagnie maritime d'expertises|COMEX]] specializing in engineering and deep diving operations.&lt;ref name="Hydra 8"&gt;{{cite web |url=http://www.comex.fr/suite/ceh/histo/histo%20anglais.html |title=Extreme Environment Engineering Departement Hyperbaric Experimental Centre - History |access-date=2009-02-22 |url-status=dead |archive-url=https://web.archive.org/web/20081005073910/http://www.comex.fr/suite/ceh/histo/histo%20anglais.html |archive-date=October 5, 2008 }}&lt;/ref&gt; Owing to the expense of helium,&lt;ref name="Fills"&gt;{{cite web |url=http://www.fillexpress.com/fills.shtml#prices |title=Example pricing for filling cylinders |access-date=2008-01-10 |archive-url=https://web.archive.org/web/20080116133910/http://fillexpress.com/fills.shtml#prices |archive-date=2008-01-16 |url-status=dead }}&lt;/ref&gt; heliox is most likely to be used in deep [[saturation diving]]. It is also sometimes used by [[Technical diving|technical divers]], particularly those using [[Diving rebreather|rebreathers]], which conserve the breathing gas at depth much better than [[open circuit scuba]].
+
+[[File:IMCA Heliox shoulder quartered.svg|thumb|[[Diving_cylinder#Surface_finish,_colour-coding_and_labeling|Heliox  Diving cylinder coloring ]] Illustration of cylinder shoulder painted in brown and white quarters]][[File:IMCA Heliox shoulder.svg|thumb|Illustration of cylinder shoulder painted in brown (lower) and white (upper) bands, Brown and white&lt;br /&gt; quarters or bands or Brown and white&lt;br /&gt; short ({{convert|8|in|cm}})&lt;br /&gt; alternating bands ]]
+
+The proportion of oxygen in a diving mix depends on the maximum depth of the dive plan, but it is often [[wiktionary:hypoxic|hypoxic]] and may be less than 10%. Each mix is custom made using [[gas blending]] techniques, which often involve the use of [[booster pump]]s to achieve typical [[diving cylinder]] pressures of {{convert|200 to 300|bar|psi|abbr=on|lk=on}} from lower pressure banks of oxygen and helium cylinders.
+
+Because [[sound]] travels faster in heliox than in air, [[human voice|voice]] [[formant]]s are raised, making divers' speech very high-pitched and hard to understand to people not used to it.&lt;ref&gt;{{cite journal | vauthors = Ackerman MJ, Maitland G | title = Calculation of the relative speed of sound in a gas mixture | journal = Undersea Biomedical Research | volume = 2 | issue = 4 | pages = 305–310 | date = December 1975 | pmid = 1226588 | url = http://archive.rubicon-foundation.org/2738 | access-date = 2008-07-08 | url-status = usurped | archive-url = https://web.archive.org/web/20110127113335/http://archive.rubicon-foundation.org/2738 | archive-date = 2011-01-27 }}&lt;/ref&gt; Surface personnel often employ a piece of communications equipment called a "helium de-scrambler", which electronically lowers the pitch of the diver's voice as it is relayed through the communications gear, making it easier to understand.
+
+[[Trimix (breathing gas)|Trimix]] is a less expensive alternative to heliox for deep diving, which uses only enough helium to limit narcosis and gas density to tolerable levels for the planned depth.&lt;ref name=stone&gt;{{cite journal | vauthors = Stone WC |year=1992 |title=The case for heliox: a matter of narcosis and economics. |journal=AquaCorps |volume=3 |issue=1 |pages=11–16 }}&lt;/ref&gt; Trimix is often used in [[technical diving]], and is also sometimes used in [[professional diving]].
+
+In 2015, the [[United States Navy Experimental Diving Unit]] showed that decompression from bounce dives using trimix is not more efficient  than dives on heliox.&lt;ref name=NEDU2015-4&gt;{{cite journal |vauthors=Doolette DJ, Gault KA, Gerth WA |year=2015 |title=Decompression from He-N2-O2 (trimix) bounce dives is not more efficient than from He-O2 (heliox) bounce dives. |journal=US Navy Experimental Diving Unit Technical Report 15-4 |url=http://archive.rubicon-foundation.org/10576 |access-date=2015-12-30 |archive-date=2017-07-07 |archive-url=https://web.archive.org/web/20170707084659/http://archive.rubicon-foundation.org/xmlui/handle/123456789/10576 |url-status=usurped }}&lt;/ref&gt;
+
+== See also ==
+* {{annotated link|Argox}}
+* {{annotated link|Nitrox}}
+* {{annotated link|Hydreliox}}
+* {{annotated link|Hydrox (breathing gas)|Hydrox}}
+* {{annotated link|Trimix (breathing gas)|Trimix}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{cite journal | vauthors = Hashemian SM, Fallahian F | title = The use of heliox in critical care | journal = International Journal of Critical Illness and Injury Science | volume = 4 | issue = 2 | pages = 138–142 | date = April 2014 | pmid = 25024941 | pmc = 4093964 | doi = 10.4103/2229-5151.134153 | doi-access = free }}
+
+== External links ==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/heliox | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Heliox }}
+
+{{Respiratory system procedures}}
+{{Underwater diving|divequ}}
+{{Portal bar | Medicine}}
+
+[[Category:Breathing gases]]
+[[Category:Asthma]]
+[[Category:Helium]]
+[[Category:Medical treatments]]
+[[Category:Respiratory therapy]]
+
+[[ro:Heliox]]</text>
+      <sha1>125fszfuivp0g5r7iry8hziew6lhgzz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Inhaler</title>
+    <ns>0</ns>
+    <id>1335820</id>
+    <revision>
+      <id>1185073926</id>
+      <parentid>1184090558</parentid>
+      <timestamp>2023-11-14T11:08:48Z</timestamp>
+      <contributor>
+        <username>Isla</username>
+        <id>43126470</id>
+      </contributor>
+      <comment>/* Propellants */  generics now available for HFA so not true anymore</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31523" xml:space="preserve">{{short description|Medical device}}
+{{other uses}}
+{{Distinguish|Inhalant}}
+{{Infobox medical intervention
+| name         = Inhaler
+| synonym      =
+| image        = AsthmaInhaler.jpg
+| caption      = [[Metered-dose inhaler]] (MDI)
+| alt          = 
+| pronounce    = 
+| specialty    =pulmonology
+| synonyms     = 
+| ICD10        = 
+| ICD9         = 
+| ICD9unlinked = 
+| CPT          = 
+| MeshID       = 
+| LOINC        = 
+| other_codes  =  
+| MedlinePlus  = 
+| eMedicine    = 
+}}
+
+An '''inhaler''' (also known as a '''puffer''', '''pump''' or '''allergy spray''') is a medical device used for delivering medicines into the lungs through the work of a person's breathing. This allows medicines to be delivered to and absorbed in the lungs, which provides the ability for targeted medical treatment to this specific region of the body, as well as a reduction in the side effects of oral medications. There are a wide variety of inhalers, and they are commonly used to treat numerous medical conditions with [[asthma]] and [[chronic obstructive pulmonary disease]] (COPD) being among the most notable.&lt;ref name=":0" /&gt;
+
+Some of the common types of inhalers include [[metered-dose inhaler]]s, [[dry powder inhaler]]s, soft mist inhalers, and [[nebulizer]]s. Each device has advantages and disadvantages and can be selected based on individually specific patient needs, as well as age, pathological conditions, coordination, and lung function.&lt;ref name=":3"&gt;{{cite journal | vauthors = DePietro M, Gilbert I, Millette LA, Riebe M | title = Inhalation device options for the management of chronic obstructive pulmonary disease | journal = Postgraduate Medicine | volume = 130 | issue = 1 | pages = 83–97 | date = January 2018 | pmid = 29210318 | doi = 10.1080/00325481.2018.1399042 | s2cid = 705448 }}&lt;/ref&gt; Proper education on inhaler use is important to ensure that inhaled medication creates its proper effects in the lungs.&lt;ref name=":4" /&gt;
+
+==Medical uses==
+Inhalers are designed to deliver medication directly to the lungs through a person's own breathing. This may benefit a patient by providing medicines directly to areas of disease, allowing medication to take a greater effect on its intended target, and limit side effects of medications when administered locally.&lt;ref name=":0" /&gt; Inhalers are used in a variety of different medical conditions with [[Pulmonary diseases|diseases of the lungs]] and [[respiratory system]] being among the most common. Individuals with these diseases/conditions need medications designed to decrease airway inflammation and obstruction to allow for easier and comfortable breathing.&lt;ref name=":1" /&gt; Antibiotic medications have even been developed for inhalers to allow for direct delivery to areas of infection within the lungs.&lt;ref&gt;{{cite journal | vauthors = Vardakas KZ, Voulgaris GL, Samonis G, Falagas ME | title = Inhaled colistin monotherapy for respiratory tract infections in adults without cystic fibrosis: a systematic review and meta-analysis | journal = International Journal of Antimicrobial Agents | volume = 51 | issue = 1 | pages = 1–9 | date = January 2018 | pmid = 28669836 | doi = 10.1016/j.ijantimicag.2017.05.016 }}&lt;/ref&gt; Two of the most common conditions that warrant inhaler therapy are [[asthma]] and [[chronic obstructive pulmonary disease]].&lt;ref name=":1"&gt;{{cite journal | vauthors = Rothe T, Spagnolo P, Bridevaux PO, Clarenbach C, Eich-Wanger C, Meyer F, Miedinger D, Möller A, Nicod LP, Nicolet-Chatelain G, Sauty A, Steurer-Stey C, Leuppi JD | display-authors = 6 | title = Diagnosis and Management of Asthma - The Swiss Guidelines | journal = Respiration; International Review of Thoracic Diseases | volume = 95 | issue = 5 | pages = 364–380 | date = 2018 | pmid = 29614508 | doi = 10.1159/000486797 | doi-access = free }}&lt;/ref&gt;&lt;ref name=":2"&gt;{{cite journal | vauthors = Stolz D, Barandun J, Borer H, Bridevaux PO, Brun P, Brutsche M, Clarenbach C, Eich C, Fiechter R, Frey M, Geiser T, Grob M, Helfenstein E, Junker L, Kohler M, Latshang T, Lechmann A, Maurer M, Nicod L, Quadri F, Schilter D, Sigrist T, Soccal P, Tarr P, Thurnheer R, Turk A, Tamm M | display-authors = 6 | title = Diagnosis, Prevention and Treatment of Stable COPD and Acute Exacerbations of COPD: The Swiss Recommendations 2018 | journal = Respiration; International Review of Thoracic Diseases | volume = 96 | issue = 4 | pages = 382–398 | date = 2018 | pmid = 30138943 | doi = 10.1159/000490551 | s2cid = 52074520 | doi-access = free }}&lt;/ref&gt;
+
+===Asthma===
+
+[[Asthma]] is a condition of intermittent [[airway obstruction]] due to [[Inflammation|inflammatory]] processes in the lungs. Inhaled medications are used to calm down the inflammation present in the lungs and allow for relief of the airway obstruction. Common inhaled medications used for treatment of asthma are [[bronchodilator]]s such as [[salbutamol]], [[corticosteroid]]s, and [[salmeterol]]. These medications allow for patients to have relief of airway obstruction symptoms and reduced inflammation.&lt;ref name=":1" /&gt; If some people are unable to use inhalers, [[Nonsteroidal anti-inflammatory drug|non-steroidal anti-inflammatory drugs (NSAIDs)]] may be used, but with caution since they may cause immunological [[hypersensitivity]] to NSAIDs, resulting in respiratory-related symptoms such as [[bronchospasm]]s, acute [[asthma exacerbation]], and severe asthma morbidity.&lt;ref&gt;{{Cite journal|last1=Lo|first1=Pei-Chia|last2=Tsai|first2=Yueh-Ting|last3=Lin|first3=Shun-Ku|last4=Lai|first4=Jung-Nien|date=14 October 2016|title=Risk of asthma exacerbation associated with nonsteroidal anti-inflammatory drugs in childhood asthma|journal=Medicine|volume=95|issue=41|pages=e5109|doi=10.1097/MD.0000000000005109|issn=0025-7974|pmc=5072955|pmid=27741128}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last1=Woo|first1=Seong-Dae|last2=Luu|first2=Quoc Quang|last3=Park|first3=Hae-Sim|date=28 July 2020|title=NSAID-Exacerbated Respiratory Disease (NERD): From Pathogenesis to Improved Care|journal=Frontiers in Pharmacology|volume=11|pages=1147|doi=10.3389/fphar.2020.01147|pmid=32848759|pmc=7399220|issn=1663-9812|doi-access=free}}&lt;/ref&gt;
+
+===Chronic obstructive pulmonary disease (COPD)===
+
+COPD is an obstructive lung disease due to long-term damage to the airways of the lungs. The long-term damage leads to the inability of the airways to open properly, causing [[airway obstruction]]. Inhaled medications allow patients to see improvement in symptoms and better function of daily living. Some commonly used inhaled medications in patient's with COPD are [[Ipratropium bromide|ipratroprium]], [[salmeterol]], and [[corticosteroid]]s.&lt;ref name=":2" /&gt;
+
+==Types==
+===Meter-dosed inhaler (MDI)===
+The most common type of inhaler is the pressurized [[metered-dose inhaler]] (MDI) which is made up of 3 standard components- a metal canister, plastic actuator, and a metering valve. The medication is typically stored in solution in a pressurized canister that contains a propellant or suspension. The MDI canister is attached to a plastic, hand-operated actuator. On activation, the metered-dose inhaler releases a fixed dose of medication in [[Aerosol spray|aerosol]] form through the actuator and into a patient's lungs.&lt;ref&gt;{{cite book|url=https://archive.org/details/pharmaceuticalin134anth|title=Pharmaceutical Inhalation Aerosol Technology|publisher=Marcel Dekker|year=2004|editor=Hickey, A.J.|edition=2nd|location=NY|isbn=9780824742539|url-access=registration}}&lt;/ref&gt;  These devices require significant coordination as a person must discharge the medication at or near the same time that they inhale in order for the medication to be effective.&lt;ref name=":5"&gt;{{cite journal | vauthors = Navaie M, Dembek C, Cho-Reyes S, Yeh K, Celli BR | title = Device use errors with soft mist inhalers: A global systematic literature review and meta-analysis | journal = Chronic Respiratory Disease | volume = 17 | pages = 1479973119901234 | date = January 2020 | pmid = 31984767 | pmc = 6985977 | doi = 10.1177/1479973119901234 }}&lt;/ref&gt;
+[[File:Dry powder inhalers.jpg|alt=|thumb|Different types of [[Dry-powder inhaler|dry powder inhalers]]]]
+
+===Dry powder inhaler (DPI)===
+[[Dry-powder inhaler|Dry powder inhaler]]s release a metered or device-measured dose of powdered medication that is inhaled through a DPI device. This device usually contains a chamber in which the powdered medication is deposited prior to each dosage.&lt;ref name=":4" /&gt; The powder can then be inhaled with a quick breath.&lt;ref name=":0" /&gt;  This allows for medication to be delivered to the lungs without the need for use of propellant/suspension.&lt;ref name=":5" /&gt;
+
+===Soft mist inhaler (SMI)===
+[[File:Nebulizer Mask (Child).png|thumb|[[Nebulizer]] with face mask]]
+Soft mist inhalers release a light mist containing medication without the need for a propellant/suspension. Upon pressing a button, the inhaler creates a mist of medication, allowing for inhalation into the lungs. SMIs suspend inhaled medications for roughly 1.2 seconds, which is longer than the average MDI inhaler suspension time period.  This requires less coordination when using and may be helpful for young patients or patients that find the MDI inhalers difficult to use.&lt;ref name=":5" /&gt;
+
+===Nebulizer===
+[[Nebulizer]]s are designed to deliver medications over an extended period of time over multiple breaths through a mouthpiece or face mask.  They generate a continuous mist with aerosolized medication, allowing a patient to breathe normally and receive medications.&lt;ref name=":5" /&gt;  They are commonly used in infants and toddlers requiring inhaled medications or in patients in the hospital who require inhaled medications.&lt;ref name=":3" /&gt;
+
+===Smart inhaler===
+The smart-inhaler is an inhaler that will automatically update an app with information that includes the time of day, air quality, and how many times it has been used through sensor technology on the device.&lt;ref name = "Himes_2019"&gt;{{cite journal | vauthors = Himes BE, Leszinsky L, Walsh R, Hepner H, Wu AC | title = Mobile Health and Inhaler-Based Monitoring Devices for Asthma Management | journal = The Journal of Allergy and Clinical Immunology. In Practice | volume = 7 | issue = 8 | pages = 2535–2543 | date = November 2019 | pmid = 31706485 | pmc = 6917046 | doi = 10.1016/j.jaip.2019.08.034 }}&lt;/ref&gt; The first smart-inhaler was approved in 2019 by the FDA, its purpose is to track patient use of the device and some other circumstantial factors that could affect the effectiveness of the dosage.&lt;ref name = "Himes_2019" /&gt; This information is sent via Bluetooth to a mobile device app, and is later shared with their physician to determine what kind of things can trigger issues with asthma and other problems.&lt;ref name = "Himes_2019" /&gt; This technology presents a great way to cut down on medical costs associated with asthma and also help patients better manage their condition with fewer emergencies.
+
+The Teva ProAir Digihaler was the first FDA approved smart inhaler.&lt;ref name = "Chrystyn_2019"&gt;{{Cite journal| vauthors = Chrystyn H, Safioti G, Buck D, Granovsky L, Calderon E, Li T, Reich M, Hill T, Depietro M, Pleasants R | display-authors = 6 |date=2019-09-28|title=Real-life inhaler technique in asthma patients using the electronic ProAir Digihaler |journal=Airway Pharmacology and Treatment|publisher=European Respiratory Society|pages=PA4258|doi=10.1183/13993003.congress-2019.PA4258| s2cid = 214096707 }}&lt;/ref&gt; It shows how effective the device is at aiding patients in using the proper dose amount for their asthma. In a study published by the European Respiratory Journal, the ProAir Digihaler accurately identified when patients were using their inhalers and whether they were effectively administering the dose in a 370 patient trial with the device.&lt;ref name = "Chrystyn_2019" /&gt; This study further gives an overview on the technology regarding applications and devices that help aid in the tracking and medication management for asthma and other lung conditions. Another study showed that smart inhalers accurately recorded all doses administered by patients with their technology, which signifies their importance in providing accurate dosage information to patients and their physicians.&lt;ref&gt;{{cite journal | vauthors = Burgess SW, Wilson SS, Cooper DM, Sly PD, Devadason SG | title = In vitro evaluation of an asthma dosing device: the smart-inhaler | journal = Respiratory Medicine | volume = 100 | issue = 5 | pages = 841–5 | date = May 2006 | pmid = 16216485 | doi = 10.1016/j.rmed.2005.09.004 | doi-access = free }}&lt;/ref&gt;
+
+==Propellants==
+In 2009, the FDA banned the use of inhalers that use [[chlorofluorocarbons]] (CFC) as [[Propellant#Compressed_fluid_propellants|propellants]]. In their place, inhalers now use [[hydrofluoroalkane]] (HFA). HFA is not environmentally inert as it is a [[greenhouse gas]] but it does not affect the [[ozone layer]].&lt;ref name=baumann/&gt; While some people with asthma and advocacy groups contend that HFA inhalers are not as effective,&lt;ref name="storyid1"&gt;{{cite web|url=http://www.ksdk.com/news/living_green/story.aspx?storyid=149094&amp;catid=116 |title=Asthma Group Concerned "Green" Inhalers May Not be as Effective &amp;#124; ksdk.com &amp;#124; St. Louis, MO |publisher=ksdk.com |access-date=2010-11-21}}&lt;/ref&gt; published clinical studies indicate CFC and HFA inhalers are equally effective in controlling asthma.&lt;ref&gt;{{cite journal |vauthors=Hendeles L, Colice GL, Meyer RJ |title=Withdrawal of albuterol inhalers containing chlorofluorocarbon propellants |journal=N. Engl. J. Med. |volume=356 |issue=13 |pages=1344–51 |date=March 2007 |pmid=17392304 |doi=10.1056/NEJMra050380 }}&lt;/ref&gt;
+
+While the impact of CFCs from inhalers on the ozone layer had been minuscule (dwarfed by industrial processes using CFCs), the FDA in its interpretation of the [[Montreal Protocol]] mandated the switch in propellants.&lt;ref name=baumann&gt;{{cite journal |url=http://motherjones.com/environment/2011/07/cost-increase-asthma-inhalers-expensive |author=Nick Baumann |title=Why You're Paying More to Breathe| journal=[[Mother Jones (magazine)|Mother Jones]] |date=July–August 2011 }}&lt;/ref&gt; Patients expressed concern about the high price of the HFA inhalers as there were initially no generic versions, whereas generic CFC inhalers had been available.&lt;ref name="storyid1"/&gt;
+
+==Proper use==
+{{manual|section|date=August 2021}}
+It is important to use proper technique when administering inhalers to self or others. Improper use of inhalers is very common, can lead to distribution of the medicine into the mouth or throat where it cannot create its desired effect and may cause harm.&lt;ref name=":0"&gt;{{cite journal | title = Expert Panel Report 3 (EPR-3): Guidelines for the Diagnosis and Management of Asthma-Summary Report 2007 | journal = The Journal of Allergy and Clinical Immunology | volume = 120 | issue = 5 Suppl | pages = S94-138 | date = November 2007 | pmid = 17983880 | doi = 10.1016/j.jaci.2007.09.043 | author1 = National Asthma Education Prevention Program }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Cho-Reyes S, Celli BR, Dembek C, Yeh K, Navaie M | title = Inhalation Technique Errors with Metered-Dose Inhalers Among Patients with Obstructive Lung Diseases: A Systematic Review and Meta-Analysis of U.S. Studies | journal = Chronic Obstructive Pulmonary Diseases | volume = 6 | issue = 3 | pages = 267–280 | date = July 2019 | pmid = 31342732 | pmc = 6872219 | doi = 10.15326/jcopdf.6.3.2018.0168 }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last1=Sanchis|first1=Joaquin|last2=Gich|first2=Ignasi|last3=Pedersen|first3=Soren|date=1 August 2016|title=Systematic Review of Errors in Inhaler Use: Has Patient Technique Improved Over Time?|journal=Chest|language=en|volume=150|issue=2|pages=394–406|doi=10.1016/j.chest.2016.03.041|pmid=27060726|s2cid=27941333 |issn=0012-3692|doi-access=free}}&lt;/ref&gt; Education on the correct use of inhalers for delivery of medications is a commonly cited topic in medical studies and a great deal of thought has been put into how best to help people learn to use their inhalers effectively.&lt;ref&gt;{{cite journal | vauthors = Harris K, Kneale D, Lasserson TJ, McDonald VM, Grigg J, Thomas J | title = School-based self-management interventions for asthma in children and adolescents: a mixed methods systematic review | journal = The Cochrane Database of Systematic Reviews | volume = 1 | pages = CD011651 | date = January 2019 | issue = 1 | pmid = 30687940 | pmc = 6353176 | doi = 10.1002/14651858.CD011651.pub2 }}&lt;/ref&gt;&lt;ref name=":4"&gt;{{cite journal | vauthors = Maricoto T, Monteiro L, Gama JM, Correia-de-Sousa J, Taborda-Barata L | title = Inhaler Technique Education and Exacerbation Risk in Older Adults with Asthma or Chronic Obstructive Pulmonary Disease: A Meta-Analysis | journal = Journal of the American Geriatrics Society | volume = 67 | issue = 1 | pages = 57–66 | date = January 2019 | pmid = 30291745 | doi = 10.1111/jgs.15602 | doi-access = free }}&lt;/ref&gt; Below is a description of proper inhaler technique for each different type of inhaler as well as a helpful video explaining what the text states.
+
+[[File:Using an inhaler.webm|thumb|Using an inhaler]]
+
+===Meter-dosed inhalers===
+
+1. The mouthpiece is removed and the inhaler is shaken for 5–10 seconds
+
+2. The inhaler is gripped with mouthpiece on the bottom and canister on top.  A finger is placed on the canister to allow for delivery of medicine.
+
+3. Once complete exhalation is done, mouth is placed over mouthpiece.
+
+4. As inhalation begins, the canister is pressed down to releases the medicine into the lungs.
+
+5. Slow [[deep breathing]] is continued and breath is held for 5–10 seconds, keeping the medicine in the lungs and preventing escape of aerosolized form of the medicine.
+
+6. Complete exhalation is done again. If multiple puffs of the medicine have to be taken, steps 1–5 are repeated after waiting for 15–30 seconds.
+
+7. Mouthpiece is replaced.&lt;ref name=":0" /&gt;
+
+===With spacer===
+
+Spacer is placed at the mouthpiece of a meter-dosed inhaler while keeping mouth at the end of the spacer. Deep breathing is done to be ready for the delivery of the medicine to the lungs, and then the canister is pressed down.  This minimizes need for coordination of breathing with inhaler activation.&lt;ref name=":0" /&gt;
+
+===Dry powder inhalers===
+1. Inhaler medication chamber is prepared (this will be different based on the type of inhaler but will involve preparing and opening the chamber with the medication)
+
+2. The inhaler is held with the chamber pointing towards the patient and complete exhalation is done with their head turned away from the inhaler.
+
+3. Mouth is placed over the chamber and a quick, deep breath is taken allowing medication to dispense in the lungs.
+
+4. Breath is held for 5–10 seconds and then slow exhalation is done.
+
+5. After waiting for a few minutes, steps 1-4 are repeated if another dose is needed.&lt;ref name=":0" /&gt;
+
+===Soft mist inhalers===
+
+1. The inhaler is primed by loading the cartridge and discharging the inhaler until a fine mist is visible ([[:File:Using an inhaler.webm|more explanation in the video]]).
+
+2. Once complete exhalation is done, mouth is placed around the mouthpiece while leaving space for the small holes on the side of the mouthpiece.
+
+3. Slow inhalation is done while simultaneously pressing the button to release the medication.
+
+4. Breath is held for 5–10 seconds.
+
+5. Slow exhalation is done and steps 1-4 are repeated if another dose of medication is required after waiting for a few minutes.
+
+If inhaler is used everyday, the inhaler usually has to be primed the first time using a new cartridge, but it may need to be primed again if it has not been used in multiple days.&lt;ref name=":0" /&gt;
+
+===After use===
+
+If using inhaled [[corticosteroid]]s, rinse mouth out directly after use of inhaler. This helps to prevent [[infection]].&lt;ref name=":0" /&gt;
+
+===Nebulizer===
+
+1. Mouth is placed over mouthpiece or face mask is placed over nose and mouth
+
+2. The nebulizer machine is turned on.
+
+3. Normal breathing is done for 10-20 min (or time allotted for treatment).
+
+4.  Machine is turned off and face mask/mouthpiece remove is removed.&lt;ref name=":0" /&gt;
+
+==Price and availability==
+
+In the United States, pharmaceutical manufacturers use legal and regulatory strategies to keep inhaler prices artificially high. There has been little innovation in inhaler technology for decades {{mdash}} the most recent drug to be approved by the FDA for treating asthma or COPD via a novel [[Biological target|target of action]] was [[Ipratropium bromide]] in 1986. Since then, manufacturers have used small changes to drug delivery mechanisms, or have switched active ingredients from one inhaler device to another (a strategy known as a "device hop") to keep patents active. This has the effect of limiting competition, keeping inhalers expensive.&lt;ref&gt;{{cite journal |title=Patents And Regulatory Exclusivities On Inhalers For Asthma And COPD, 1986–2020 |date=May 17, 2022 |first1=William B. |last1=Feldman |first2=Doni |last2=Bloomfield |first3=Reed F. |last3=Beall |first4=Aaron S. |last4=Kesselheim |doi=10.1377/hlthaff.2021.01874 |journal=Health Affairs |volume=41 |number=6 |pages=787–796 |pmid=35579925 |pmc=10328096 }}&lt;/ref&gt; Because of high prices, patients sometimes skip doses or give up using their inhalers.
+
+==History==
+[[File:PenetroInhalador.JPG|thumb|upright|Penetro brand inhaler from mid 20th century Mexico, part of the permanent collection of the [[Museo del Objeto del Objeto]]]]
+[[File:Mudge inhaler.jpg|thumb|upright|Inhaler designed by John Mudge in 1778]]
+The idea of directly delivering medication into the lungs was based on ancient traditional cures that involved the use of aromatic and medicinal vapors. These did not involve any special devices beyond the apparatus used for burning or heating to produce fumes. Early inhalation devices included one devised by John Mudge in 1778. It had a pewter mug with a hole allowing attachment of a flexible tube. Mudge used it for the treatment of coughs using opium. These devices evolved with modifications by Wolfe, Mackenzie (1872) and better mouth attachments such as by Beigel in 1866. Many of these early inhalers needed heat to vaporize the active chemical ingredient. The benefits of forced expiration and inspiration to treat asthma were noted by J. S. Monell in 1865. Chemicals used in inhalers included ammonia, chlorine, iodine, tar, balsams, turpentine camphor and numerous others in combinations.&lt;ref&gt;{{cite book| title=Inhalation in the treatment of disease: its therapeutics and practice| author=Cohen, J. Solis| year=1876| publisher=Lindsay &amp; Blakiston| place=Philadelphia|url=https://archive.org/stream/63720410R.nlm.nih.gov/63720410R}}&lt;/ref&gt; [[Julius Mount Bleyer]] used a variation in 1890 in New York.&lt;ref&gt;{{cite journal|year=1890| title=A new method of larygeal and bronchial medication by means of a spray and tube during the act of deep inspiration. Read in the Section of Laryngology and Otology at the Forty-first Annual Meeting of the American Medical Association, Nashville, Tenn., May, 1890.|author=Bleyer, J. Mount| journal=Journal of the American Medical Association|volume=15|issue=18|pages=634–636|doi=10.1001/jama.1890.02410440006001a| url=https://zenodo.org/record/1447247}}&lt;/ref&gt;
+
+[[File:Beigel mouthpiece.jpg|thumb|left|upright|Mouthpiece for an inhaler designed by Dr Beigel (1867)]]
+In 1968, Robert Wexler of [[Abbott Laboratories]] developed the Analgizer, a disposable inhaler that allowed the self-administration of [[methoxyflurane]] [[vapor]] in air for [[analgesia]].&lt;ref name=Wexler1968/&gt; The Analgizer consisted of a [[polyethylene]] cylinder 5&amp;nbsp;inches long and 1&amp;nbsp;inch in diameter with a 1&amp;nbsp;inch long mouthpiece. The device contained a rolled [[Candle wick|wick]] of [[polypropylene]] [[felt]] which held 15&amp;nbsp;[[Litre#SI prefixes applied to the litre|milliliters]] of methoxyflurane.
+
+Because of the simplicity of the Analgizer and the [[Pharmacology|pharmacological]] characteristics of methoxyflurane, it was easy for patients to self-administer the drug and rapidly achieve a level of [[Procedural sedation and analgesia|conscious analgesia]] which could be maintained and adjusted as necessary over a period of time lasting from a few minutes to several hours. The 15&amp;nbsp;milliliter supply of methoxyflurane would typically last for two to three hours, during which time the user would often be partly [[Amnesia|amnesic]] to the sense of pain; the device could be refilled if necessary.&lt;ref name=Romagnoli1970/&gt;
+
+The Analgizer was found to be safe, effective, and simple to administer in [[Obstetrics|obstetric]] patients during childbirth, as well as for patients with [[bone fracture]]s and [[joint dislocation]]s,&lt;ref name=Romagnoli1970/&gt; and for dressing changes on [[burn]] patients.&lt;ref name=Packer1969/&gt; When used for labor analgesia, the Analgizer allows labor to progress normally and with no apparent [[adverse effect]] on [[Apgar score]]s.&lt;ref name=Romagnoli1970/&gt; All [[vital signs]] remain normal in obstetric patients, newborns, and injured patients.&lt;ref name=Romagnoli1970/&gt; The Analgizer was widely utilized for analgesia and [[sedation]] until the early 1970s, in a manner that foreshadowed the [[patient-controlled analgesia]] [[infusion pump]]s of today.&lt;ref name=Major1966/&gt;&lt;ref name=Dragon1967/&gt;&lt;ref name=Firn1972/&gt;&lt;ref name=Josephson1974/&gt; The Analgizer inhaler was withdrawn in 1974, but use of methoxyflurane as a sedative and analgesic continues in Australia and New Zealand in the form of the [[Penthrox inhaler]].&lt;ref name=Babl2007/&gt;&lt;ref name=Grindlay2009/&gt;&lt;ref name=Babl2006/&gt;&lt;ref name=McLennan2007/&gt;&lt;ref name=Penthrox2009/&gt;&lt;ref name=RADAR2010/&gt;
+
+==See also==
+* [[List of medical inhalants]]
+* [[Decongestant]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+&lt;ref name=Babl2006&gt;{{cite journal|vauthors=Babl FE, Jamison SR, Spicer M, Bernard S |title=Inhaled methoxyflurane as a prehospital analgesic in children (subscription required)|journal=Emergency Medicine Australasia|volume=18|issue=4|pages=404–10|year=2006|doi=10.1111/j.1742-6723.2006.00874.x|pmid=16842312|s2cid=1619160}}&lt;/ref&gt;
+
+&lt;ref name=Babl2007&gt;{{cite journal|vauthors=Babl F, Barnett P, Palmer G, Oakley E, Davidson A |title=A pilot study of inhaled methoxyflurane for procedural analgesia in children (subscription required)|journal=Pediatric Anesthesia|volume=17|issue=2|pages=148–53|year=2007|doi=10.1111/j.1460-9592.2006.02037.x|pmid=17238886|s2cid=30105092}}&lt;/ref&gt;
+
+&lt;ref name=Dragon1967&gt;{{cite journal|vauthors=Dragon A, Goldstein I |title=Methoxyflurane: preliminary report on analgesic and mood modifying properties in dentistry (subscription required)|journal=Journal of the American Dental Association|volume=75|issue=5|pages=1176–81|year=1967|doi=10.14219/jada.archive.1967.0358|pmid=5233333}}&lt;/ref&gt;
+
+&lt;ref name=Firn1972&gt;{{cite journal|author=Firn S|title=Methoxyflurane analgesia for burns dressings and other painful ward procedures in children (subscription required)|journal=British Journal of Anaesthesia|volume=44|issue=5|pages=517–22|year=1972|doi=10.1093/bja/44.5.517|pmid=5044082|doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name=Grindlay2009&gt;{{cite journal|vauthors=Grindlay J, Babl FE |title=Efficacy and safety of methoxyflurane analgesia in the emergency department and prehospital setting|journal=Emergency Medicine Australasia|volume=21|issue=1|pages=4–11|year=2009|pmid=19254307|doi=10.1111/j.1742-6723.2009.01153.x|s2cid=40158248|doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name=Josephson1974&gt;{{cite journal|vauthors=Josephson CA, Schwartz W |title=The Cardiff Inhaler and Penthrane. A method of sedation analgesia in routine dentistry|journal=Journal of the Dental Association of South Africa|volume=29|issue=2|pages=77–80|year=1974|pmid=4534883}}&lt;/ref&gt;
+
+&lt;ref name=Major1966&gt;{{cite journal|vauthors=Major V, Rosen M, Mushin WW |title=Methoxyflurane as an obstetric analgesic: a comparison with trichloroethylene|journal=[[BMJ]]|volume=2|issue=5529|pages=1554–61|year=1966|doi=10.1136/bmj.2.5529.1554|pmid=5926260|pmc=1944957}}&lt;/ref&gt;
+
+&lt;ref name=McLennan2007&gt;{{cite journal|author=McLennan JV|title=Is methoxyflurane a suitable battlefield analgesic?|journal=Journal of the Royal Army Medical Corps|volume=153|issue=2|pages=111–3|year=2007|doi=10.1136/jramc-153-02-08|pmid=17896540|s2cid=38517296|url=http://ramcjournal.com/2007/jun07/mclennan.pdf|url-status=dead|archive-url=https://web.archive.org/web/20110715152612/http://ramcjournal.com/2007/jun07/mclennan.pdf|archive-date=2011-07-15}}&lt;/ref&gt;
+
+&lt;ref name=Packer1969&gt;{{cite journal|vauthors=Packer KJ, Titel JH |title=Methoxyflurane analgesia for burns dressings: experience with the Analgizer (subscription required)|journal=[[British Journal of Anaesthesia]]|volume=41|issue=12|pages=1080–5|year=1969|doi=10.1093/bja/41.12.1080|pmid=4903969|citeseerx=10.1.1.1028.6601}}&lt;/ref&gt;
+
+&lt;ref name=Penthrox2009&gt;{{cite web|author=Medical Developments International Pty. Ltd.|title=PENTHROX (methoxyflurane) Inhalation: Product Information|publisher=Medical Developments International Limited|location=Springvale, Victoria, Australia|year=2009|url=http://www.medicaldev.com/pdf_files/Products_Pain_Relief_Healthcare_Professionals_Medical/Product%20Information%20Sheet.pdf|access-date=2010-11-21 }}&lt;/ref&gt;
+
+&lt;ref name=RADAR2010&gt;{{cite web|author=National Prescribing Service|title=Methoxyflurane (Penthrox) for analgesia (doctor's bag listing)|work=NPS RADAR|publisher=National Prescribing Service, [[Department of Health and Ageing]]|location=Canberra, Australia|year=2010|url=http://www.nps.org.au/__data/assets/pdf_file/0008/87866/OKA7754_NPS_RADAR_Methoxyflurane_V3.pdf|access-date=2010-11-21|author-link=National Prescribing Service}}{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+&lt;ref name=Romagnoli1970&gt;{{cite journal|vauthors=Romagnoli A, Busque L, Power DJ |title=The "analgizer" in a general hospital: a preliminary report|journal=Canadian Journal of Anesthesia|volume=17|issue=3|pages=275–8|year=1970|doi=10.1007/BF03004607|pmid=5512851|doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name=Wexler1968&gt;{{cite journal|title=Analgizer: Inhaler for supervised self-administration of inhalation anesthesia|author=Wexler RE|publisher=Abbott Laboratories|location=Abbott Park, Illinois|year=1968|url=http://www.trademarkia.com/analgizer-72302697.html|access-date=2010-11-21}}&lt;/ref&gt;
+
+}}
+
+==Further reading==
+{{refbegin}}
+*{{cite journal |author=Patton J |title=Breathing life into protein drugs — Inhalation of therapeutic macromolecules is a feasible, natural, more people-friendly, delivery system |journal=Nat. Biotechnol. |volume=16 |issue=2 |pages=141–3 |date=February 1998 |pmid=9487516 |doi=10.1038/nbt0198-141 |s2cid=20224465 }}
+{{refend}}
+
+==External links==
+*[http://www.mece.ualberta.ca/arla/tutorial.htm Basics aspects of inhaled pharmaceutical aerosols] {{Webarchive|url=https://web.archive.org/web/20120804040900/http://www.mece.ualberta.ca/arla/tutorial.htm |date=2012-08-04 }}
+*[https://web.archive.org/web/20061125020922/http://www.normanchigier.com/SpraySystemsusedinAerosolMedicationandTabletCoatings.html Recent advances in spray medication technology]
+*[https://web.archive.org/web/20110707071434/http://zhenbo.9f.com/ Discrete simulation of powder dispersion in pharmaceutical aerosol inhalers]
+
+{{Dosage forms|state=expanded}}
+
+[[Category:Respiratory therapy]]
+[[Category:Medical pumps]]
+[[Category:Drug delivery devices]]
+[[Category:Asthma]]
+[[Category:Dosage forms]]</text>
+      <sha1>pek9s0ggs6ao5lv3ay8kehjwproiri9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Acute severe asthma</title>
+    <ns>0</ns>
+    <id>3154534</id>
+    <revision>
+      <id>1182652195</id>
+      <parentid>1172426558</parentid>
+      <timestamp>2023-10-30T15:35:19Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} ([[d:Q826759|1 ID]] from [[Wikidata]]); [[WP:GenFixes]] &amp; cleanup on</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14399" xml:space="preserve">{{Infobox medical condition (new)
+| name          = Acute severe asthma
+| synonyms      = Status asthmaticus, asthmatic status
+| image         =
+| caption       =
+| pronounce     =
+| field         = [[Respirology]]
+| symptoms      = Anxiety, panic, laboring to breath, [[Labored breathing#retractions|tightened neck and chest muscle]]s, difficulty performing normal daily activities&lt;ref name="WebMD 2019"&gt;{{cite web | title=What Is an Asthma Attack? | website=WebMD | date=2019-01-30 | url=https://www.webmd.com/asthma/asthma-attack | access-date=2020-03-24}}&lt;/ref&gt;
+| complications =
+| onset         = Silent chest, worsening symptoms despite use of medication.&lt;ref name="WebMD 2019"/&gt;
+| duration      =
+| types         =
+| causes        =
+| risks         =
+| diagnosis     =
+| differential  =
+| prevention    =
+| treatment     =
+| medication    =
+| prognosis     =
+| frequency     =
+| deaths        =
+| alt           =
+}}
+'''Acute severe asthma,''' also known as '''status asthmaticus''', is an [[Acute (medical)|acute]] exacerbation of [[asthma]] that does not respond to standard treatments of [[bronchodilators]] (inhalers) and [[corticosteroid]]s.&lt;ref&gt;{{Cite journal|url=https://www.ingentaconnect.com/content/ocean/aap/2012/00000033/a00103s1/art00016;jsessionid=5qo1cipdtq7kk.x-ic-live-01|title=Chapter 14: Acute severe asthma (status asthmaticus)|last1=Shah|first1=Rachna|last2=Saltoun|first2=Carol A.|date=May–June 2012|journal=Allergy and Asthma Proceedings|volume=33 Suppl 1|issue=3|pages=47–50|doi=10.2500/aap.2012.33.3547|pmid=22794687|language=en|access-date=2019-11-06}}&lt;/ref&gt; Asthma is caused by multiple [[gene]]s, some having protective effect, with each gene having its own tendency to be influenced by the environment although a genetic link leading to acute severe asthma is still unknown.&lt;ref&gt;{{cite web |url= https://www.lecturio.com/concepts/asthma/ | title= Asthma | website= The Lecturio Medical Concept Library | date= 25 November 2020 |access-date= 1 July 2021}}&lt;/ref&gt; Symptoms include chest tightness, rapidly progressive [[dyspnea]] (shortness of breath), dry [[cough]], use of accessory [[Muscles of respiration|respiratory muscles]], fast and/or labored breathing, and extreme [[Wheeze|wheezing]]. It is a life-threatening episode of airway obstruction and is considered a medical emergency. Complications include cardiac and/or respiratory arrest. The increasing prevalence of [[atopy]] and asthma remains unexplained but may be due to infection with respiratory viruses.&lt;ref name=":2"&gt;{{Cite journal|last1=Cheung|first1=Dorothy S.|last2=Ehlenbach|first2=Sarah J.|last3=Kitchens|first3=Robert T.|last4=Riley|first4=Desiré A.|last5=Thomas|first5=Larry L.|last6=Holtzman|first6=Michael J.|last7=Grayson|first7=Mitchell H.|date=2010-11-01|title=CD49d+ neutrophils induce FcεRI expression on lung dendritic cells in a mouse model of postviral asthma|journal=Journal of Immunology|volume=185|issue=9|pages=4983–4987|doi=10.4049/jimmunol.1002456|issn=0022-1767|pmc=2959147|pmid=20876348}}&lt;/ref&gt;{{TOC limit}}
+
+==Signs and symptoms==
+An exacerbation (attack) of asthma is experienced as a worsening of asthma symptoms with breathlessness and cough (often worse at night). In acute severe asthma, breathlessness may be so severe that it is impossible to speak more than a few words (inability to complete sentences).&lt;ref&gt;{{Cite web|last=Kumar|first=Varun|date=2020-10-15|title=Asthma|url=https://www.getbibo.com/asthma/|access-date=2020-11-04|website=Bibo|language=en-US}}&lt;/ref&gt;&lt;ref name=BTS&gt;{{cite web | series=Clinical guideline: asthma | url=https://www.brit-thoracic.org.uk/document-library/clinical-information/asthma/btssign-asthma-guideline-2014/ | title=SIGN 141 • British guideline on the management of asthma | publisher=British Thoracic Society and Scottish Intercollegiate Guidelines Network (BTS/SIGN) | location=London | date=October 2014 | access-date=19 October 2014 | archive-url=https://web.archive.org/web/20170912123433/https://www.brit-thoracic.org.uk/document-library/clinical-information/asthma/btssign-asthma-guideline-2014/ | archive-date=12 September 2017 | url-status=dead }}&lt;/ref&gt;
+
+On examination, the [[tachypnoea|respiratory rate may be elevated]] (more than 25 breaths per minute), and the [[tachycardia|heart rate may be rapid]] (110 beats per minute or faster). Reduced oxygen saturation levels (but above 92%) are often encountered. Examination of the lungs with a stethoscope may reveal reduced air entry and/or widespread wheeze.&lt;ref name=BTS/&gt; The [[peak expiratory flow]] can be measured at the bedside; in acute severe asthma, the flow is less than 50% of a person's normal or predicted flow.&lt;ref name=BTS/&gt;
+
+Very severe acute asthma (termed "near-fatal" as there is an immediate risk to life) is characterised by a peak flow of less than 33% predicted, oxygen saturations below 92% or [[cyanosis]] (blue discoloration, usually of the lips), absence of audible breath sounds over the chest ("silent chest" : wheezing is not heard because there is not enough air movement to generate it), reduced respiratory effort and visible exhaustion or drowsiness. Irregularities in the heartbeat and [[hypotension|abnormal lowering of the blood pressure]] may be observed.&lt;ref name=BTS/&gt;
+
+Severe asthma attack can cause symptoms such as:&lt;ref name=":0" /&gt;
+* [[Shortness of breath]]
+* Inability to speak in full sentences
+* Feeling [[Shortness of breath|breathless]] even when lying down
+* Chest feels tight
+* Bluish tint to the lips
+* Hunched shoulders, and [[Strain (injury)|strained muscles]] in stomach and neck
+* Feeling the need to sit or stand up to breathe more easily
+
+== Cause ==
+The cause for acute severe asthma attacks is still unknown and experts are also unsure of why it developed and why it does not respond to typical asthma treatments.&lt;ref name=":0"&gt;{{Cite news|url=https://www.webmd.com/asthma/guide/status-asthmaticus|title=Status Asthmaticus (Severe Acute Asthma)|website=WebMD|language=en|access-date=2019-11-06}}&lt;/ref&gt;{{medical citation needed|date=July 2023}}
+* Not seeing a doctor regularly, therefore asthma is not under good control
+* Coming in contact with asthma [[Asthma trigger|triggers]]
+* [[Allergy|Allergies]] or severe allergic reactions
+* Not using the [[Peak expiratory flow|peak flow meter]] and not taking asthma medication as directed by a [[primary care physician]] (PCP) correctly
+* Not following an asthma action plan correctly
+* Respiratory infections
+* Severe stress
+* [[Cold|Cold weather]]
+* [[Air pollution]]
+* Exposure to chemicals and other irritants
+* [[Smoking]]
+
+== Mechanism ==
+Inflammation in asthma is characterized by an influx of [[eosinophil]]s during the early-phase reaction and a mixed cellular infiltrate composed of eosinophils, [[mast cell]]s, [[lymphocyte]]s, and [[neutrophil]]s during the late-phase (or chronic) reaction. The simple explanation for allergic inflammation in asthma begins with the development of a predominantly helper T2 [[lymphocyte]]–driven, as opposed to helper T1 [[lymphocyte]]–driven, immune milieu, perhaps caused by certain types of immune stimulation early in life. This is followed by allergen exposure in a genetically susceptible individual.
+
+Specific allergen exposure (e.g., [[dust mite]]s) under the influence of helper [[T helper cell#Th1/Th2 model|T&lt;sub&gt;h&lt;/sub&gt;2 helper T cells]] leads to [[B-lymphocyte]] elaboration of [[immunoglobulin E]] (IgE) antibodies specific to that allergen. The IgE antibody attaches to surface receptors on the airway [[Mucous membrane|mucosal]] [[mast cell]]s. One important question is whether [[Atopy|atopic]] individuals with asthma, in contrast to atopic persons without asthma, have a defect in mucosal integrity that makes them susceptible to penetration of allergens into the mucosa.
+
+Subsequent specific allergen exposure leads to cross-bridging of [[Immunoglobulin E|IgE]] molecules and activation of mast cells, with elaboration and release of a vast array of mediators. These mediators include [[histamine]]; [[leukotriene]]s C4, D4, and E4; and a host of [[cytokine]]s. Together, these mediators cause bronchial smooth muscle constriction, vascular leakage, inflammatory cell recruitment (with further mediator release), and mucous gland secretion. These processes lead to airway obstruction by constriction of the [[smooth muscle]]s, edema of the airways, influx of inflammatory cells, and formation of intraluminal mucus. In addition, ongoing airway inflammation is thought to cause airway hyperreactivity characteristic of asthma. The more severe the airway obstruction, the more likely ventilation-perfusion mismatching will result in impaired gas exchange and [[Hypoxemia|low levels of oxygen in the blood]].
+
+==Diagnosis==
+Severe acute asthma can be diagnosed by a primary care physician (PCP). A [[Primary care physician|PCP]] will ask questions in regards to symptoms and breathing; they will also ask if fatigue or wheezing has been experienced when breathing in or out; and also test using a peak expiratory flow and an oxygen saturation.
+
+Status [[asthma]]ticus can be misdiagnosed when wheezing occurs from an acute cause other than asthma. Some of these alternative causes of wheezing are discussed below.
+
+=== Extrinsic compression ===
+Airways can be compressed from vascular structures, such as vascular rings, lymphadenopathy, or tumors.
+
+=== [[Heart failure|Congestive heart failure]] ===
+Airway edema may cause wheezing in CHF. In addition, vascular compression may compress the airways during systole with cardiac ejection, resulting in a pulsatile wheeze that corresponds to the heart rate. This is sometimes erroneously referred to as [[cardiac asthma]].
+
+=== Differential diagnoses ===
+* [[Allergic bronchopulmonary aspergillosis]]
+* [[Aspiration pneumonia|Aspiration syndromes]]
+* [[Bronchiectasis]]
+* [[Bronchiolitis]]
+* [[Obliterative bronchiolitis|Bronchiolitis obliterans]]
+* [[Chronic obstructive pulmonary disease|Chronic bronchitis]]
+* [[Chronic obstructive pulmonary disease]] (COPD)
+* [[Eosinophilic granulomatosis with polyangiitis]] (Churg–Strauss syndrome)
+* [[Croup]]
+* [[Cystic fibrosis]]
+* Emphysema
+* Foreign bodies of the airway
+* [[Gastroesophageal reflux disease]]
+* [[Heart failure]]
+* Idiopathic pulmonary arterial [[hypertension]]
+* Inhalation injury
+* [[Pulmonary artery]] sling
+* [[Vocal cords|Vocal cord]] dysfunction
+
+==Treatment==
+Interventions include [[intravenous]] (IV) medications (e.g. [[magnesium sulfate]]), aerosolized medications to dilate the airways (bronchodilation) (e.g., [[albuterol]] or [[ipratropium bromide/salbutamol]]), and [[positive-pressure]] therapy, including [[mechanical ventilation]]. Multiple therapies may be used simultaneously to rapidly reverse the effects of status asthmaticus and reduce permanent damage of the airways. Intravenous [[corticosteroid]]s&lt;ref&gt;{{Cite journal|last1=Ratto|first1=David|last2=Alfaro|first2=Carlos|last3=Sipsey|first3=Jeff|last4=Glovsky|first4=M. Michael|last5=Sharma|first5=Om P.|date=1988-07-22|title=Are Intravenous Corticosteroids Required in Status Asthmaticus?|journal=JAMA|language=en|volume=260|issue=4|pages=527–529|doi=10.1001/jama.1988.03410040099036|pmid=3385910|issn=0098-7484}}&lt;/ref&gt; and [[methylxanthine]]s are often given. If the person with a severe asthma exacerbation is on a mechanical ventilator, certain sedating medications such as [[ketamine]] or [[propofol]], have bronchodilating properties. According to a new randomized control trial [[ketamine]] and [[aminophylline]] are also effective in children with acute asthma who responds poorly to standard therapy.&lt;ref&gt;{{Cite journal|last1=Jat|first1=KanaRam|last2=Tiwari|first2=Abhimanyu|last3=Guglani|first3=Vishal|date=2016|title=Ketamine versus aminophylline for acute asthma in children: A randomized, controlled trial|journal=Annals of Thoracic Medicine|volume=11|issue=4|pages=283–288|doi=10.4103/1817-1737.191874|pmid=27803755|pmc=5070438|issn=1817-1737 |doi-access=free }}&lt;/ref&gt;
+
+== Recent research ==
+A recent study proposed that the interaction between host airway [[Epithelium|epithelial cells]] and respiratory viruses is another aspect of innate immunity that is also a critical determination of [[asthma]].&lt;ref&gt;{{Cite journal|last1=Holtzman|first1=Michael J.|last2=Patel|first2=Dhara|last3=Zhang|first3=Yong|last4=Patel|first4=Anand C.|date=August 2011|title=Host epithelial-viral interactions as cause and cure for asthma|journal=Current Opinion in Immunology|volume=23|issue=4|pages=487–494|doi=10.1016/j.coi.2011.05.010|issn=0952-7915|pmc=3163712|pmid=21703838}}&lt;/ref&gt; It was also proposed that a rationale for how antiviral performance at the epithelial cell level might be improved to prevent acute infectious illness and chronic inflammatory disease caused by respiratory viruses.
+
+Another study aimed to show that experimental [[asthma]] after viral infection inmate depended on Type I [[Interferon gamma|IFN]]-driven up-regulation of the high-affinity receptor for IgE ([[FCER1|FcεRI]]) on conventional dendritic cells (cDCs) in the lungs.&lt;ref name=":2" /&gt; The study found that a Novell PMN-cDc interaction in the lung is necessary for a viral infection to induce atopic disease.
+
+==Epidemiology==
+Status asthmaticus is slightly more common in males and is more common among people of African and Hispanic origin. The gene locus [[glutathione dependent S-nitrosoglutathione]] (GSNOR) has been suggested as one possible correlation to development of status asthmaticus.&lt;ref&gt;{{cite journal |vauthors=Moore PE, Ryckman KK, Williams SM, Patel N, Summar ML, Sheller JR |title=Genetic variants of GSNOR and ADRB2 influence response to albuterol in African-American children with severe asthma.|journal=Pediatric Pulmonology|date=9 July 2009|volume=44|issue=7|pages=649–654|pmid=19514054|doi=10.1002/ppul.21033|s2cid=30530302}}&lt;/ref&gt;
+
+== See also ==
+* [[Status epilepticus]]
+* [[Status angiotensus]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Medical resources
+|  DiseasesDB     =
+|  ICD10          = {{ICD10|J|46||j|40}}
+|  ICD9           = {{ICD9|493.01}}, {{ICD9|493.91}}
+|  ICDO           =
+|  OMIM           =
+|  MedlinePlus    =
+|  eMedicineSubj  = article
+|  eMedicineTopic = 302238
+|  MeshID         = D013224
+}}
+
+{{Respiratory pathology}}
+{{Authority control}}
+
+[[Category:Asthma]]
+[[Category:Medical emergencies]]
+[[Category:Chronic lower respiratory diseases]]</text>
+      <sha1>rft5htsipquhqso6ju45it3risa0pna</sha1>
+    </revision>
+  </page>
+</mediawiki>
