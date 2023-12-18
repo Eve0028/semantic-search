@@ -4292,4 +4292,1059 @@ Due to heterogeneity of diagnostic criteria and a paucity of clinical trials, th
       <sha1>njy6x78h2lldumcrx1dnbcoa6cmb0ja</sha1>
     </revision>
   </page>
+    <page>
+    <title>Dry-powder inhaler</title>
+    <ns>0</ns>
+    <id>10173852</id>
+    <revision>
+      <id>1188091369</id>
+      <parentid>1172379391</parentid>
+      <timestamp>2023-12-03T08:05:59Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Add: doi-access. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6870" xml:space="preserve">{{Short description|Device that delivers medication to the lungs in the form of a dry powder}}
+[[File:Dry powder inhalers.jpg|thumb|right|Three types of dry powder inhalers: Turbuhaler, Accuhaler and Ellipta devices.]]
+
+A '''dry-powder inhaler''' ('''DPI''') is a device that delivers medication to the lungs in the form of a dry powder.  DPIs are commonly used to treat [[respiratory disease]]s such as [[asthma]], [[bronchitis]], [[emphysema]] and [[Chronic obstructive pulmonary disease|COPD]] although DPIs (such as [[Inhalable insulin]]) have also been used in the treatment of [[diabetes mellitus]].&lt;ref&gt;{{cite web|url=https://www.fda.gov/cder/foi/label/2006/021868mg.pdf |title=Exubera Prescribing Information |access-date=2009-02-27 |website=FDA.gov |publisher=Pfizer |date=April 2008 |archive-url=https://web.archive.org/web/20090118010209/https://www.fda.gov/cder/foi/label/2006/021868mg.pdf |archive-date=January 18, 2009 }}&lt;/ref&gt;
+
+DPIs are an alternative to the aerosol-based inhalers commonly called [[metered-dose inhaler]] (or MDI). The DPIs may require some procedure to allow a measured dose of powder to be ready for the patient to take. The medication is commonly held either in a capsule for manual loading or in a proprietary form inside the inhaler. Once loaded or actuated, the operator puts the mouthpiece of the inhaler into their mouth and takes a sharp, deep inhalation (ensuring that the medication reaches the lower parts of the lungs), holding their breath for 5–10 seconds.
+
+There are a variety of such devices. The dose that can be delivered is typically less than a few tens of milligrams in a single breath since larger powder doses may lead to provocation of [[cough]].
+
+Most DPIs rely on the force of patient inhalation to entrain powder from the device and subsequently break-up the powder into particles that are small enough to reach the lungs.&lt;ref name="isbn0-12-256971-7"&gt;{{cite book |author=Finlay, Warren H. |title=The mechanics of inhaled pharmaceutical aerosols: an introduction |publisher=Academic Press |location=Boston |year=2001 |isbn=978-0-12-256971-5 }}&lt;/ref&gt; For this reason, insufficient patient inhalation flow rates may lead to reduced dose delivery and incomplete deaggregation of the powder, leading to unsatisfactory device performance. Thus, most DPIs have a minimum inspiratory effort that is needed for proper use and it is for this reason that such DPIs are normally used only in older children and adults.
+
+== Inhaler Technique and Use ==
+While DPIs are commonly used in the treatment of lung-based disorders, their use requires dexterity to complete the required sequential steps to achieve application of these devices. Incorrect completion of one or more steps in the use of a DPI can substantially reduce the delivery of the administrated medication and consequently its effectiveness and safety. Numerous studies have demonstrated that between 50 and 100% of patients do not use their inhaler devices correctly, with patients often unaware that they are using their inhaled medication incorrectly.&lt;ref&gt;{{Cite journal|title=Inhaler Misuse in an Older Adult Population|last1=Vanderman|first1=Adam J.|last2=Moss|first2=Jason M.|date=February 2015|journal=The Consultant Pharmacist|volume=30|issue=2|pages=92–100|doi=10.4140/tcp.n.2015.92|pmid=25695415|last3=Bailey|first3=Janine C.|last4=Melnyk|first4=S. Dee|last5=Brown|first5=Jamie N.}}&lt;/ref&gt;&lt;ref name=":0"&gt;{{Cite journal|last1=Gregoriano|first1=Claudia|last2=Dieterle|first2=Thomas|last3=Breitenstein|first3=Anna-Lisa|last4=Dürr|first4=Selina|last5=Baum|first5=Amanda|last6=Maier|first6=Sabrina|last7=Arnet|first7=Isabelle|last8=Hersberger|first8=Kurt E.|last9=Leuppi|first9=Jörg D.|date=2018-12-03|title=Use and inhalation technique of inhaled medication in patients with asthma and COPD: data from a randomized controlled trial|journal=Respiratory Research|volume=19|issue=1|pages=237|doi=10.1186/s12931-018-0936-3|issn=1465-993X|pmc=6276152|pmid=30509268 |doi-access=free }}&lt;/ref&gt; Incorrect inhaler technique has been associated with poorer outcomes.&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite journal|last1=Maricoto|first1=Tiago|last2=Monteiro|first2=Luís|last3=Gama|first3=Jorge M. R.|last4=Correia-de-Sousa|first4=Jaime|last5=Taborda-Barata|first5=Luís|date=2018-10-06|title=Inhaler Technique Education and Exacerbation Risk in Older Adults with Asthma or Chronic Obstructive Pulmonary Disease: A Meta-Analysis|journal=Journal of the American Geriatrics Society|volume=67|issue=1|pages=57–66|doi=10.1111/jgs.15602|issn=1532-5415|pmid=30291745|doi-access=free}}&lt;/ref&gt;
+
+== Lactose ==
+Some powder inhalers use [[lactose]] to:
+
+# Carry the fine particles of the active pharmaceutical ingredient (which must be fine to reach its target)
+# Improve the flow-ability of the powder during manufacturing and to aid handling
+# Act as a bulking agent
+# Aid in powder uptake from the device during inhalation and aerosolization
+
+It has been suggested that such [[lactose]] may be harmful to [[lactose intolerant]] people,&lt;ref&gt;[http://www.redorbit.com/news/health/156919/changes_in_inhaler_devices_for_asthma_and_copd/index.html Changes in Inhaler Devices for Asthma And COPD – Health – RedOrbit&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  and some doctors advise patients not to use lactose containing DPIs&lt;ref&gt;[http://www.aaia.ca/en/milk_proteins_and_allergy_medications.htm Milk Proteins and Allergy Medications]&lt;/ref&gt; to minimize the risk of hypersensitivity reactions.&lt;ref&gt;{{cite journal | pmc = 4187530 | pmid=25309152 | doi=10.5863/1551-6776-19.3.206 | volume=19 | issue=3 | title=Hypersensitivity reaction after inhalation of a lactose-containing dry powder inhaler | journal=J Pediatr Pharmacol Ther | pages=206–11 | last1 = Robles | first1 = J | last2 = Motheral | first2 = L| year=2014 }}&lt;/ref&gt;
+
+== Storage ==
+DPI medication must be stored in a dry place in a temperature of not more than 25&amp;nbsp;°C (77&amp;nbsp;°F) and humidity between 40 and 50% in a sealed packaging, since exposure of the powder to moisture degrades the ability of the device to disperse its medication as a fine powder upon inhalation. Some medication also needs photo protection.
+
+== See also ==
+* [[Inhaler]]
+* [[Metered-dose inhaler]]
+* [[Nebulizer]]
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* [https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070573.pdf Guidance for Industry: Metered Dose Inhaler (MDI) and Dry Powder Inhaler (DPI) Drug Products] – Food and Drug Administration Center for Drug Evaluation and Research (CDER)
+* [http://www.medscape.com/viewarticle/406144_2 The Diskus(tm) Inhaler] – Medscape Today clinical drug investigation{{Dead link|date=March 2016}}
+
+{{Dosage forms|state=expanded}}
+
+[[Category:Dosage forms]]
+[[Category:Drug delivery devices]]
+[[Category:Medical treatments]]
+[[Category:Powders]]</text>
+      <sha1>cqo4r37h57q7qjw4y35xllnoqejeq4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Metered-dose inhaler</title>
+    <ns>0</ns>
+    <id>2996528</id>
+    <revision>
+      <id>1180985259</id>
+      <parentid>1179888468</parentid>
+      <timestamp>2023-10-20T02:53:07Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Add: doi-access. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 143/454</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21126" xml:space="preserve">{{Short description|Device that helps deliver a specific amount of medication to the lungs}}
+{{more citations needed|date=September 2015}}
+[[File:Metered-dose Inhaler.JPG|thumb|Metered-dose Inhaler]]
+A '''metered-dose inhaler''' ('''MDI''') is a device that delivers a specific amount of medication to the [[lung]]s, in the form of a short burst of aerosolized medicine that is usually self-administered by the patient via inhalation. It is the most commonly used delivery system for treating [[asthma]], [[chronic obstructive pulmonary disease]] (COPD) and other respiratory diseases. The medication in a metered dose inhaler is most commonly a [[bronchodilator]], [[corticosteroid]] or a combination of both for the treatment of asthma and COPD. Other medications less commonly used but also administered by MDI are mast cell stabilizers, such as [[cromoglicate]] or [[nedocromil]].
+
+== Description ==
+[[File:MDI components.jpg|thumb|MDI canister and actuator components from H&amp;T Presspart]]
+
+A metered-dose inhaler consists of three major components; the canister which is produced in aluminium or stainless steel by means of [[deep drawing]], where the formulation resides; the metering valve, which allows a metered quantity of the formulation to be dispensed with each actuation; and an actuator (or mouthpiece) which allows the patient to operate the device and directs the aerosol into the patient's lungs.&lt;ref&gt;''Pharmaceutical Inhalation Aerosol Technology'', ed. A. J. Hickey, 2nd edition, Marcel Dekker Inc., NY, 2004.&lt;/ref&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;ref name="EoPT" /&gt; The formulation itself is made up of the drug, a liquefied gas propellant and, in many cases, stabilising [[excipients]]. The actuator contains the mating discharge nozzle and generally includes a dust cap to prevent contamination.
+
+To use the inhaler the patient presses down on the top of the canister, with their thumb supporting the lower portion of the actuator. Actuation of the device releases a single metered dose of the formulation which contains the medication either dissolved or suspended in the propellant. Breakup of the volatile propellant into droplets, followed by rapid evaporation of these droplets, results in the generation of an aerosol consisting of micrometer-sized medication particles that are then inhaled.&lt;ref&gt;Finlay, W. H., ''The Mechanics of Inhaled Pharmaceutical Aerosols: An Introduction'', Academic Press, 2001.&lt;/ref&gt;
+
+== Uses ==
+[[File:Nicorette Inhalator.jpg|thumb|[[Nicorette]] Inhalator is a vapour inhalator.]]
+
+Metered-dose inhalers are only one type of [[inhaler]], but they are the most commonly used type. The replacement of [[chlorofluorocarbons]] propellants with [[hydrofluoroalkanes]] (HFA) resulted in the redesign of metered-dose inhalers in the 1990s. For one variety of [[beclomethasone]] inhaler, this redesign resulted in considerably smaller aerosol particles being produced, and led to an increase of potency by a factor of 2.6.&lt;ref&gt;{{cite journal |vauthors=Busse W, Colice G, Hannon S | year = 1998 | title = CFC-BDP require 2.6 times the dose to achieve equivalent improvement in FEV1 as HFA-BDP | journal = Am J Respir Crit Med | volume = 157 | page = A405 }}&lt;/ref&gt;
+
+*'''Asthma inhalers'''&lt;!--Term redirects here; bolded per MOS:BOLD--&gt; contain a [[asthma medication|medication]] that treats the symptoms of asthma.
+*'''Nicotine inhalers'''&lt;!--Term redirects here; bolded per MOS:BOLD--&gt; allows [[cigarette]] smokers to get [[nicotine]] without using [[tobacco]], much like nicotine gum or a nicotine patch. The US [[Food and Drug Administration]] (FDA) has approved some nicotine inhaler products for [[smoking cessation]].&lt;ref name=Drummond2014&gt;{{cite journal|last1=Drummond|first1=MB|last2=Upson|first2=D|title=Electronic cigarettes. Potential harms and benefits.|journal=Annals of the American Thoracic Society|date=February 2014|volume=11|issue=2|pages=236–42|pmid=24575993|doi=10.1513/annalsats.201311-391fr|pmc=5469426}}&lt;/ref&gt; Nicotine inhalers that are marketed as [[nicotine replacement therapy]] should not be confused with [[electronic cigarette]]s, which produce an aerosol, usually from a tobacco extract, using a heating coil, while nicotine inhalers produce a noncombusted nicotine aerosol.&lt;ref name=Drummond2014/&gt; A study found that "levels of carcinogens and toxins in e-cigarettes typically exceeded those measured in an FDA-approved nicotine inhaler".&lt;ref name=Drummond2014/&gt; Nicotine inhalers are also known by their nickname of “the puffer”. These devices are made of thin plastic, sometimes resembling a cigarette, or a cylinder shape. They contain a porous nicotine-filled plug, located in the base of the product. When you puff on the inhaler, nicotine aerosol is inhaled and absorbed in the mouth’s lining. Every inhaler delivers almost four hundred puffs of this nicotine vapor. The nicotine inhaler is also temperature sensitive. In cooler weather, less nicotine is delivered. The nicotine inhaler is considered easier to use than the electronic cigarette as it is usually disposable, and contains fewer parts than the electronic cigarette.
+** Nicotine inhalers also exist as non-MDIs, for example, the format for the Nicorette Inhalator is an “inhalation vapour solution”.
+*''[[Dry powder inhaler]]s''  involve micronised powder often packaged in single dose quantities in [[Blister pack|blisters]] or gel capsules containing the powdered medication to be drawn into the [[lung]]s by the user's own breath. These systems tend to be more expensive than the MDI, and patients with severely compromised lung function, such as occurs during an asthma attack, may find it difficult to generate enough airflow to get good function from them.
+*Metered-dose inhalers can be used to treat COPD, both in stable state and during lung attacks.&lt;ref&gt;{{Cite journal|title=Bronchodilators delivered by nebuliser versus pMDI with spacer or DPI for exacerbations of COPD|journal = Cochrane Database of Systematic Reviews|issue = 8|pages = CD011826|last1=van Geffen|first1=Wouter H|last2=Douma|first2=W R|last3=Slebos|first3=Dirk Jan|last4=Kerstjens|first4=Huib AM|date=2016-08-29| volume=2016 |doi=10.1002/14651858.cd011826.pub2|pmid = 27569680| pmc=8487315 |url = https://pure.rug.nl/ws/files/36833530/Geffen_et_al_2016_The_Cochrane_Library.pdf}}&lt;/ref&gt;
+
+== History ==
+
+Before the invention of the MDI, asthma medication was delivered using a squeeze bulb [[nebulizer]] which was fragile and unreliable.&lt;ref name="Purewal 1997"&gt;{{cite book|last=Purewal|first=Tol S.|author2=D. Grant|title=Metered Dose Inhaler Technology|publisher=Informa Health Care|year=1997|edition=Illustrated|isbn=978-1-57491-065-0}}&lt;/ref&gt;  The relatively crude nature of these devices also meant that the particles that they generated were relatively large, too large for effective drug delivery to the lungs.&lt;ref name="EoPT"&gt;{{Cite book| edition = 3rd Illustrated| publisher = Informa Health Care| isbn = 978-0-8493-9394-5| pages = 1170| last = Swarbrick| first = James| title = Encyclopedia of Pharmaceutical Technology| year = 2007}}&lt;/ref&gt;  Nonetheless these nebulizers paved the way for inhalation drug delivery providing the inspiration for the MDI.
+
+MDIs were first developed in 1955 by Riker Laboratories, now a subsidiary of [[3M|3M Healthcare]].&lt;ref name="Purewal 1997" /&gt;  At that time MDIs represented a convergence of two relatively new technologies, the [[Chlorofluorocarbon|CFC]] propellant and the Meshburg metering valve which was originally designed for dispensing perfume.&lt;ref name="Clark 1995"&gt;{{Cite journal| doi = 10.1080/02786829408959755| volume = 22| issue = 4| pages = 374–391| last = Clark| first = A. R| title = Medical Aerosol Inhalers: Past, Present, and Future| journal = Aerosol Science and Technology| year = 1995| bibcode = 1995AerST..22..374C| doi-access = free}}&lt;/ref&gt; The initial design by Riker used a glass canister coated with a vinyl plastic to improve its resilience.&lt;ref name="Purewal 1997" /&gt;  By 1956 Riker had developed two MDI based products, the Medihaler-Ept containing [[epinephrine]] and the Medihaler-Iso containing [[Isoprenaline]].&lt;ref name="EoPT" /&gt;  Both products are [[agonist]]s which provide short term relief from asthma symptoms and have now largely been replaced in asthma treatment by [[salbutamol]], which is more selective.
+
+== Spacers ==
+{{main|Asthma spacer}}
+Metered-dose inhalers are sometimes used with add-on devices referred to as holding chambers or spacers, which are tubes attached to the inhaler that act as a reservoir or holding chamber and reduce the speed at which the aerosol enters the mouth. They serve to hold the medication that is sprayed by the inhaler. This makes it easier to use the inhaler and helps ensure that more of the medication gets into the lungs instead of just into the mouth or the air. With proper use, a spacer can make an inhaler somewhat more effective in delivering medicine.&lt;ref&gt;{{cite journal | author = Togger D., Brenner P. | year = 2001 | title = Metered dose inhalers | journal = American Journal of Nursing | volume = 101 | issue = 10| page = 29 | doi = 10.1097/00000446-200110000-00020 | pmid = 11680341 }}&lt;/ref&gt;
+
+Spacers can be especially helpful to adults and children who find a regular metered dose inhaler hard to use. People who use corticosteroid inhalers should use a spacer to prevent getting the medicine in their mouth, where [[Oral candidiasis|oral yeast infections]] and [[dysphonia]] can occur.&lt;ref&gt;""Inhalation Aerosols: Physical and Biological Basis for Therapy"", ed. A. J. Hickey, 2nd edition, Informa Healthcare, NY, 2007.&lt;/ref&gt;
+
+== Lifespan and replacement ==
+
+
+The deposition of the content of drug formulation on the canister surface can result in a shorter shelf life of an MDI [[inhaler]]. Applying a suitable surface coating to the components helps to extend this shelf life. Over the years a range of coating processes have been developed that can be applied to both the canister and valve to protect the contents from deposition and degradation.
+Gas plasma processing is an industrial technique that is carried out in a vacuum to coat the entire MDI [[inhaler]] and involves constant or pulsed excitation of gas by either Radio Frequency (RF) or microwave field to produce an energetic plasma. This coating ensures that the drug formulation does not stick to the interior wall of the MD [[inhaler]] and results in the patient receiving the prescribed dose of medication, whilst also extending the product's shelf-life.
+
+A metered dose inhaler contains enough medication for a certain number of actuations (or "puffs") which is printed on the canister.  Even though the inhaler may continue to work beyond that number of uses, the amount of medication delivered may not be correct. It is important to keep track of the number of times an inhaler was used, so that it can be replaced after its recommended number of uses. For this reason, several regulatory authorities have requested that manufacturers add a dose counter or dose indicator to the actuator. Several inhalation products are now sold with a dose counter-actuator. Depending on the manufacturer and the product, inhalers are sold as a complete unit or the individual canister as a refill prescription.
+
+== Inhaler technique and use ==
+While MDIs are commonly used in the treatment of lung-based disorders, their use requires dexterity to complete the required sequential steps to achieve application of these devices.  Incorrect completion of one or more steps in the use of an MDI can substantially reduce the delivery of the administered medication and consequently its effectiveness and safety. Numerous studies have demonstrated that between 50-100% of patients do not use their inhaler devices correctly, with patients often unaware that they are using their inhaled medication incorrectly.&lt;ref&gt;{{Cite journal|last1=Vanderman|first1=Adam J.|last2=Moss|first2=Jason M.|last3=Bailey|first3=Janine C.|last4=Melnyk|first4=S. Dee|last5=Brown|first5=Jamie N.|date=February 2015|title=Inhaler misuse in an older adult population|journal=The Consultant Pharmacist|volume=30|issue=2|pages=92–100|doi=10.4140/TCP.n.2015.92|issn=0888-5109|pmid=25695415}}&lt;/ref&gt;&lt;ref name=":0"&gt;{{Cite journal|last1=Gregoriano|first1=Claudia|last2=Dieterle|first2=Thomas|last3=Breitenstein|first3=Anna-Lisa|last4=Dürr|first4=Selina|last5=Baum|first5=Amanda|last6=Maier|first6=Sabrina|last7=Arnet|first7=Isabelle|last8=Hersberger|first8=Kurt E.|last9=Leuppi|first9=Jörg D.|date=2018-12-03|title=Use and inhalation technique of inhaled medication in patients with asthma and COPD: data from a randomized controlled trial|journal=Respiratory Research|volume=19|issue=1|pages=237|doi=10.1186/s12931-018-0936-3|issn=1465-993X|pmc=6276152|pmid=30509268 |doi-access=free }}&lt;/ref&gt; Incorrect inhaler technique has been associated with poorer outcomes.&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite journal|last1=Maricoto|first1=Tiago|last2=Monteiro|first2=Luís|last3=Gama|first3=Jorge M. R.|last4=Correia-de-Sousa|first4=Jaime|last5=Taborda-Barata|first5=Luís|date=2018-10-06|title=Inhaler Technique Education and Exacerbation Risk in Older Adults with Asthma or Chronic Obstructive Pulmonary Disease: A Meta-Analysis|journal=Journal of the American Geriatrics Society|volume=67|issue=1|pages=57–66|doi=10.1111/jgs.15602|issn=1532-5415|pmid=30291745|doi-access=free}}&lt;/ref&gt; Incorrect maintenance and cleaning of metered dose inhalers is also an issue identified in many users, highlighting the need for clear guidance for patients prescribed MDIs.&lt;ref&gt;{{Cite journal|last1=Tay|first1=Ee Tein|last2=Needleman|first2=Joshua P.|last3=Avner|first3=Jeffrey R.|date=March 2009|title=Nebulizer and spacer device maintenance in children with asthma|journal=The Journal of Asthma|volume=46|issue=2|pages=153–155|doi=10.1080/02770900802538244|issn=1532-4303|pmid=19253121|s2cid=22194306}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://e-surgery.com/how-to-clean-a-ventolin-and-salbutamol-asthma-inhaler/|title=How Properly To Clean Your Blue Asthma Inhaler|last=Caufield|first=Madeleine|website=e-Surgery|date=8 November 2019 |language=en-GB|access-date=2019-12-21}}&lt;/ref&gt;
+
+== Propellants ==
+[[File:Cipla inhaler.jpg|thumb|CFC-free Asthalin HFA inhaler]]
+One of the most crucial components of a MDI is its propellant. The propellant provides the force to generate the aerosol cloud and is also the medium in which the active component must be suspended or dissolved. Propellants in MDIs typically make up more than 99% of the delivered dose,&lt;ref name=Noakes&gt;{{Cite journal  | last = Noakes| first = T | title = Medical Aerosol Propellants  | journal = Journal of Fluorine Chemistry  | volume = 118  | issue = 1–2  | pages = 35–45  | year = 2002  | doi =   10.1016/S0022-1139(02)00191-4  }}&lt;/ref&gt; so it is the properties of the propellant that dominate more than any other individual factor.  This is often overlooked in literature and in industry because so few propellants are used and their contribution is often taken for granted.  Suitable propellants must pass a stringent set of criteria, they must:
+* have a boiling point in the range -100 to +30&amp;nbsp;°C &lt;ref&gt;{{cite web|url=http://www.ipacmdi.com/documents/EPC.pdf|title=Ensuring Patient Care|author1=William Gore|author2=Ian Tansey|publisher=[[International Pharmaceutical Aerosol Consortium|IPAC]]|access-date=2009-04-14|display-authors=etal|url-status=dead|archive-url=https://web.archive.org/web/20080828041328/http://www.ipacmdi.com/documents/EPC.pdf|archive-date=2008-08-28}}&lt;/ref&gt;
+* have a density of approximately 1.2 to 1.5 g cm&lt;sup&gt;−3&lt;/sup&gt; (approximately that of the drug to be suspended or dissolved)&lt;ref name=Noakes/&gt;
+* have a [[vapour pressure]] of 40 to 80 psig &lt;ref name=Leach&gt;{{Cite journal  | last = Leach| first = C L | title = Approaches and Challenges to Use Freon Propellant Replacements  | journal = Aerosol Science and Technology  | volume = 22  | issue = 4  | pages = 328–334  | year = 1995  | doi =   10.1080/02786829408959750| bibcode = 1995AerST..22..328L | doi-access = free}}&lt;/ref&gt;
+* have no toxicity to the patient &lt;ref name=Noakes/&gt;&lt;ref name=Leach/&gt;
+* be non-flammable &lt;ref name=Noakes/&gt;&lt;ref name=Leach/&gt;
+* be able to dissolve common additives (active ingredients should be either fully soluble or fully insoluble)&lt;ref name=Noakes/&gt;
+
+=== Chlorofluorocarbons (CFCs) ===
+In the early days of MDIs the most commonly used propellants were the [[chlorofluorocarbons]] [[CFC-11]], [[CFC-12]] and [[CFC-114]].
+
+In 2008 the [[Food and Drug Administration]] announced that inhalers using [[chlorofluorocarbon]]s as a propellant, such as [[Primatene Mist]], could no longer be manufactured or sold as of 2012.&lt;ref name="cnn2011"&gt;{{cite news|url=http://thechart.blogs.cnn.com/2011/09/22/no-more-primatene-mist-in-the-u-s-after-this-year/|title=No more Primatene Mist in the U.S. after this year|author=Saundra Young|date=September 22, 2011|work=The Chart (blog)|access-date=2011-09-22|publisher=CNN|archive-date=2011-09-22|archive-url=https://web.archive.org/web/20110922181217/http://thechart.blogs.cnn.com/2011/09/22/no-more-primatene-mist-in-the-u-s-after-this-year/|url-status=dead}}&lt;/ref&gt; This followed from the U.S. decision to agree to the 1987 [[Montreal Protocol]] on Substances that deplete the ozone layer.&lt;ref name="CFCdiscontinued"&gt;{{cite web|url=http://www.undp.org/gef/05/documents/publications/MontrealProtocol_WEB.pdf|title=The Montreal Protocol on Substances that Deplete the Ozone Layer|publisher=United Nations Environment Programme|archive-url=https://web.archive.org/web/20090227134139/http://www.undp.org/gef/05/documents/publications/MontrealProtocol_WEB.pdf|archive-date=2009-02-27|url-status=dead}}&lt;/ref&gt;
+
+=== Hydrofluorocarbons ===
+CFC propellants have been replaced by [[hydrofluorocarbon]] propellants.&lt;ref&gt;{{Cite web|url=https://www.fluorocarbons.org/metered-dose-inhalers-mdis/|title=Metered Dose Inhalers (MDIs)|website=Fluorocarbons|language=en-US|access-date=2019-04-09}}&lt;/ref&gt; Concerns about the use of [[hydrofluorocarbon]] propellants have however since arisen since these compounds are potent [[greenhouse gas]]es; propellant released during the use of a single inhaler results in a greenhouse footprint equivalent to greenhouse gases released during a 180-mile car journey.&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/news/2019/04/08/asthma-inhalers-bad-environment-180-mile-car-journey-health/|title=Asthma inhalers as bad for the environment as 180-mile car journey, health chiefs say|last=Bodkin|first=Henry|date=2019-04-08|work=The Telegraph|access-date=2019-04-09|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+== Surfactant lipids ==
+[[Phospholipids]] are important natural [[surfactant]] lipids &lt;ref&gt;[http://www.freepatentsonline.com/EP1658851A1.pdf Anti-asthmatic combinations comprising surface active phospholipids]&lt;/ref&gt; used in enhancing penetration and bioavailability.&lt;ref&gt;[http://www.freepatentsonline.com/20120308617.pdf PHOSPHOLIPID-BASED INHALATION SYSTEM]&lt;/ref&gt; Phospholipids act by reducing the high [[surface tension]] forces at the air-water interface within the [[Pulmonary alveolus|alveoli]], thereby reducing the pressure needed to expand the lungs, Thus, commercially available formulations of phospholipids have been designed to spread rapidly over an air-aqueous interface, thereby reducing what is otherwise a very high surface tension of water.
+
+== Colours ==
+For ease of identification, many MDI's are colour-coded
+
+{| class="wikitable"
+|-
+! Name !! Use !! United Kingdom !! New Zealand  !! United States
+|-
+| Salbutamol || Reliever || Light Blue || Light Blue (Ventolin, Respigen) Gray (Salair) ||Bright Red (generics) Light Blue (brand name)
+|-
+| Beclometasone || Steroid || Brown || Brown ||Light Green
+|-
+| Seretide (Advair in US)|| Combination || Purple || Purple || Purple
+|-
+| Fostair || Combination || Pink ||
+|-
+
+|}
+[[Epinephrine]] in the United States is brown and [[beclometasone]] is light green
+
+== See also ==
+*[[Inhaler]]
+*[[Dry powder inhaler]]
+*[[Asthma]]
+*[[Spray bottle]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.uptodate.com/patients/content/topic.do?topicKey=~qqnO9LIC/_PY_l UpToDate Patient Information: Metered dose inhaler techniques in adults]
+* [http://www.aboutkidshealth.ca/En/ResourceCentres/Asthma/AsthmaMedicines/Pages/Using-a-Metered-Dose-Inhaler-MDI-with-a-Spacer.aspx Using a metered-dose inhaler with a spacer: techniques for children, illustrated]
+* [http://www.aboutkidshealth.ca/En/ResourceCentres/Asthma/AsthmaMedicines/Pages/Using-a-Metered-Dose-Inhaler-MDI-without-a-Spacer.aspx Using a metered-dose inhaler without a spacer: techniques for children, illustrated]
+* {{cite web | title=Aerosol Properties of Metered-Dose Inhalers | website=U.S. [[Food and Drug Administration]] (FDA) | date=23 May 2022 | url=https://www.fda.gov/drugs/regulatory-science-action/effects-realistic-in-vitro-test-factors-aerosol-properties-metered-dose-inhalers }}
+
+{{Dosage forms|state=expanded}}
+{{Portal bar|Medicine}}
+
+{{DEFAULTSORT:Metered-Dose Inhaler}}
+[[Category:Asthma]]
+[[Category:Drug delivery devices]]
+[[Category:Smoking cessation]]
+[[Category:Dosage forms]]</text>
+      <sha1>rtim5tanb3xc1g8920c07ar8qr5trfb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Salbutamol</title>
+    <ns>0</ns>
+    <id>463271</id>
+    <revision>
+      <id>1188497912</id>
+      <parentid>1187239078</parentid>
+      <timestamp>2023-12-05T20:35:53Z</timestamp>
+      <contributor>
+        <username>Nothinkol</username>
+        <id>46384292</id>
+      </contributor>
+      <minor/>
+      <comment>made inhalation link to inhaler</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34822" xml:space="preserve">{{Short description|Medication}}
+{{Use British English|date=June 2017}}
+{{Use dmy dates|date=October 2022}}
+{{drugbox
+| Verifiedfields     = changed
+| Watchedfields      = changed
+| verifiedrevid      = 418791908
+| drug_name          =
+| image              = Salbutamol.svg
+| width              = 200
+| image2             = RS-salbutamol-from-xtal-3D-balls.png
+| alt                =
+| type               =
+| caption            = Salbutamol (top),&lt;br /&gt;(''R'')-(−)-salbutamol (center) and&lt;br /&gt;(''S'')-(+)-salbutamol (bottom)
+| chirality          = [[Racemic mixture]]
+| USAN               = Albuterol
+
+&lt;!-- Clinical data --&gt;| pronounce          =
+| tradename          = Ventolin, Proventil, ProAir, others&lt;ref name=brands/&gt;
+| Drugs.com          = {{drugs.com|monograph|albuterol}}
+| MedlinePlus        = a607004
+| licence_CA         = &lt;!-- Health Canada may use generic or brand name (generic name preferred) --&gt;
+| licence_EU         = &lt;!-- EMA uses INN (or special INN_EMA) --&gt;
+| DailyMedID         = Albuterol
+| licence_US         = Albuterol
+| pregnancy_AU       = A
+| pregnancy_AU_comment = &lt;ref&gt;{{cite web| title=Prescribing medicines in pregnancy database | author=Thereaputic Goods Administration | publisher=Australian Government | url=https://www.tga.gov.au/prescribing-medicines-pregnancy-database| date=19 December 2018 }}&lt;/ref&gt;&lt;ref name="Drugs.com Pregnancy"&gt;{{cite web | title=Albuterol Use During Pregnancy | website=Drugs.com | date=8 March 2019 | url=https://www.drugs.com/pregnancy/albuterol.html | access-date=21 December 2019}}&lt;/ref&gt;
+| pregnancy_category =
+| routes_of_administration = [[Oral administration|By mouth]], [[Inhaler|Inhalational]], [[Intravenous therapy|Intravenous]]
+| class              = Antiasthmatic Agents
+| ATCvet             =
+| ATC_prefix         = R03
+| ATC_suffix         = AC02
+| ATC_supplemental   = {{ATC|R03|CC02}} {{ATC|R03|AK04}} {{ATC|R03|AK13}} {{ATC|R03|AL02}}
+
+&lt;!-- Legal status --&gt;| legal_AU           = S3/S4
+| legal_AU_comment   = &lt;ref&gt;{{cite web|title=Poisons Standard October 2017|url=https://www.legislation.gov.au/Details/F2017L01285/Html/Text#_Toc471222305| author=Thereaputic Goods Administration | publisher=Australian Government}}&lt;/ref&gt;
+| legal_BR           = &lt;!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F--&gt;
+| legal_BR_comment   =
+| legal_CA           = Rx-only
+| legal_CA_comment   = &lt;ref&gt;{{cite web|title=Prescription Drug List|date=23 October 2014|publisher=Government of Canada|url=https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/list.html}}&lt;/ref&gt;
+| legal_DE           = &lt;!-- Anlage I, II, III or Unscheduled--&gt;
+| legal_DE_comment   =
+| legal_NZ           = &lt;!-- Class A, B, C --&gt;
+| legal_NZ_comment   =
+| legal_UK           = POM
+| legal_UK_comment   =
+| legal_US           = Rx-only
+| legal_US_comment   =
+| legal_UN           = &lt;!-- N I, II, III, IV / P I, II, III, IV--&gt;
+| legal_UN_comment   =
+| legal_status       = &lt;!--For countries not listed above--&gt;
+
+&lt;!-- Pharmacokinetic data --&gt;| metabolism         = [[Liver]]
+| elimination_half-life = 3.8–6 hours
+| excretion          = [[Kidney]]
+| onset              = &lt;15 min (inhaled), &lt;30 min (pill)&lt;ref name=AHFS2015/&gt;
+| duration_of_action = 2–6 hrs&lt;ref name=AHFS2015/&gt;
+
+&lt;!-- Identifiers --&gt;| CAS_number_Ref     = {{cascite|correct|??}}
+| CAS_number         = 18559-94-9
+| CAS_supplemental   =
+| PubChem            = 2083
+| PubChemSubstance   = 46505312
+| IUPHAR_ligand      = 558
+| DrugBank_Ref       = {{drugbankcite|changed|drugbank}}
+| DrugBank           = DB01001
+| ChemSpiderID_Ref   = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID       = 1999
+| UNII_Ref           = {{fdacite|correct|FDA}}
+| UNII               = QF8SVZ843E
+| KEGG_Ref           = {{keggcite|correct|kegg}}
+| KEGG               = D02147
+| ChEBI_Ref          = {{ebicite|changed|EBI}}
+| ChEBI              = 2549
+| ChEMBL_Ref         = {{ebicite|correct|EBI}}
+| ChEMBL             = 714
+| NIAID_ChemDB       =
+| PDB_ligand         =
+| synonyms           = &lt;!-- Chemical and physical data --&gt;
+| IUPAC_name         = (''RS'')-4-[2-(''tert''-Butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol
+| C                  = 13
+| H                  = 21
+| N                  = 1
+| O                  = 3
+| SMILES             = CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O
+| StdInChI_Ref       = {{stdinchicite|correct|chemspider}}
+| StdInChI           = 1S/C13H21NO3/c1-13(2,3)14-7-12(17)9-4-5-11(16)10(6-9)8-15/h4-6,12,14-17H,7-8H2,1-3H3
+| StdInChI_comment   =
+| StdInChIKey_Ref    = {{stdinchicite|correct|chemspider}}
+| StdInChIKey        = NDAUXUAQIAJITI-UHFFFAOYSA-N
+| density            =
+| density_notes      =
+| melting_point      =
+| melting_high       =
+| melting_notes      =
+| boiling_point      =
+| boiling_notes      =
+| solubility         =
+| sol_units          =
+| specific_rotation  =
+}}
+
+&lt;!-- Definition and medical uses --&gt;
+'''Salbutamol''', also known as '''albuterol''' and sold under the brand name '''Ventolin''' among others,&lt;ref name=brands/&gt; is a medication that [[bronchodilator|opens up the medium and large airways in the lungs]].&lt;ref name=AHFS2015&gt;{{cite web|url=https://www.drugs.com/monograph/albuterol.html|title=Albuterol|website=Drugs.com|publisher=The American Society of Health-System Pharmacists|archive-url=https://web.archive.org/web/20151208181121/http://www.drugs.com/monograph/albuterol.html|archive-date=8 December 2015|url-status=live|access-date=2 December 2015}}&lt;/ref&gt; It is a short-acting [[Beta2-adrenergic agonist|β&lt;sub&gt;2&lt;/sub&gt; adrenergic receptor agonist]] which works by causing relaxation of airway [[smooth muscle]].&lt;ref name="AHFS2015" /&gt; It is used to treat [[asthma]], including [[asthma attacks]] and [[exercise-induced bronchoconstriction]], as well as [[chronic obstructive pulmonary disease]] (COPD).&lt;ref name=AHFS2015/&gt; It may also be used to treat [[hyperkalemia|high blood potassium levels]].&lt;ref name=Mah2005&gt;{{cite journal | vauthors = Mahoney BA, Smith WA, Lo DS, Tsoi K, Tonelli M, Clase CM | title = Emergency interventions for hyperkalaemia | journal = The Cochrane Database of Systematic Reviews | issue = 2 | pages = CD003235 | date = April 2005 | volume = 2005 | pmid = 15846652 | doi = 10.1002/14651858.CD003235.pub2 | pmc = 6457842 }}&lt;/ref&gt; Salbutamol is usually used with an [[metered-dose inhaler|inhaler]] or [[nebulizer]], but it is also available in a pill, liquid, and [[intravenous]] solution.&lt;ref name=AHFS2015/&gt;&lt;ref name=starkey&gt;{{cite journal | vauthors = Starkey ES, Mulla H, Sammons HM, Pandya HC | title = Intravenous salbutamol for childhood asthma: evidence-based medicine? | journal = Archives of Disease in Childhood | volume = 99 | issue = 9 | pages = 873–7 | date = September 2014 | pmid = 24938536 | doi = 10.1136/archdischild-2013-304467 | s2cid = 2070868 | url = https://derbyhospitals-nhs.archive.knowledgearc.net/bitstream/handle/123456789/297/%2814%29%20Arch%20Dis%20Child.pdf?sequence=1&amp;isAllowed=y | archive-url = https://web.archive.org/web/20170908175627/https://derbyhospitals-nhs.archive.knowledgearc.net/bitstream/handle/123456789/297/%2814%29%20Arch%20Dis%20Child.pdf?sequence=1&amp;isAllowed=y | url-status = dead | archive-date = 8 September 2017 }}&lt;/ref&gt; Onset of action of the inhaled version is typically within 15 minutes and lasts for two to six hours.&lt;ref name=AHFS2015/&gt;
+
+&lt;!-- Side effects and mechanism --&gt;
+Common side effects include shakiness, headache, [[tachycardia|fast heart rate]], dizziness, and feeling anxious.&lt;ref name=AHFS2015/&gt; Serious side effects may include worsening [[bronchospasm]], [[irregular heartbeat]], and [[hypokalemia|low blood potassium levels]].&lt;ref name=AHFS2015/&gt; It can be used during [[pregnancy]] and [[breastfeeding]], but safety is not entirely clear.&lt;ref name=AHFS2015/&gt;&lt;ref&gt;{{cite book| vauthors = Yaffe SJ |title=Drugs in pregnancy and lactation: a reference guide to fetal and neonatal risk|date=2011|publisher=Wolters Kluwer Health/Lippincott Williams &amp; Wilkins |location=Philadelphia |isbn=9781608317080 |page=32 |edition=9th |url=https://books.google.com/books?id=OIgTE4aynrMC&amp;pg=PA32 |url-status=live|archive-url=https://web.archive.org/web/20151208061118/https://books.google.ca/books?id=OIgTE4aynrMC&amp;pg=PA32 |archive-date=8 December 2015}}&lt;/ref&gt;
+
+&lt;!-- History, society, and culture --&gt;
+Salbutamol was patented in 1966 in Britain and became commercially available in the UK in 1969.&lt;ref&gt;{{cite book| vauthors = Landau R |title=Pharmaceutical innovation: revolutionizing human health |date=1999 |publisher=Chemical Heritage Press |location=Philadelphia |isbn=9780941901215 |page=226 |url=https://books.google.com/books?id=IH4lPs6S1bMC&amp;pg=PA226 |url-status=live |archive-url= https://web.archive.org/web/20151208072936/https://books.google.ca/books?id=IH4lPs6S1bMC&amp;pg=PA226 |archive-date=8 December 2015}}&lt;/ref&gt;&lt;ref name=Fis2006&gt;{{cite book | vauthors = Fischer J, Ganellin CR | title=Analogue-based Drug Discovery |date=2006 |publisher=John Wiley &amp; Sons |isbn=9783527607495 |page=542 |url= https://books.google.com/books?id=FjKfqkaKkAAC&amp;pg=PA542}}&lt;/ref&gt; It was approved for medical use in the United States in 1982.&lt;ref name=AHFS2015/&gt; It is on the [[WHO Model List of Essential Medicines|World Health Organization's List of Essential Medicines]].&lt;ref name="WHO21st"&gt;{{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 21st list 2019 | year = 2019 | hdl = 10665/325771 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MVP/EMP/IAU/2019.06. License: CC BY-NC-SA 3.0 IGO | hdl-access=free }}&lt;/ref&gt; Salbutamol is available as a [[generic medication]].&lt;ref name=AHFS2015/&gt; In 2020, it was the seventh most commonly prescribed medication in the United States, with more than 61{{nbsp}}million prescriptions.&lt;ref&gt;{{cite web |title=The Top 300 of 2020 |url=https://clincalc.com/DrugStats/Top300Drugs.aspx |website=ClinCalc |access-date=7 October 2022}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=Albuterol - Drug Usage Statistics | website=ClinCalc | url=https://clincalc.com/DrugStats/Drugs/Albuterol | access-date=7 October 2022}}&lt;/ref&gt;
+
+==Medical uses==
+Salbutamol is typically used to treat [[bronchospasm]] (due to any cause—allergic [[asthma]] or exercise-induced), as well as [[chronic obstructive pulmonary disease]].&lt;ref name=AHFS2015 /&gt; It is also one of the most common medicines used in rescue inhalers (short-term bronchodilators to alleviate [[asthma attacks]]).&lt;ref name=webmd&gt;{{Cite web | vauthors = Hatfield H | title=Asthma: The Rescue Inhaler -- Now a Cornerstone of Asthma Treatment | work=WebMD | access-date=27 June 2017 | url=http://www.webmd.com/asthma/features/asthma-rescue-inhaler-cornerstone-asthma-treatment | url-status=live | archive-url=https://web.archive.org/web/20170716061632/http://www.webmd.com/asthma/features/asthma-rescue-inhaler-cornerstone-asthma-treatment | archive-date=16 July 2017 }}&lt;/ref&gt;
+
+As a β&lt;sub&gt;2&lt;/sub&gt; agonist, salbutamol also has use in [[obstetrics]]. Intravenous salbutamol can be used as a [[tocolytic]] to relax the [[uterus|uterine]] [[smooth muscle]] to delay [[Preterm birth|premature labor]]. While preferred over agents such as [[atosiban]] and [[ritodrine]], its role has largely been replaced by the calcium channel blocker [[nifedipine]], which is more effective and better tolerated.&lt;ref name="rossi"&gt;{{cite book|title=Australian Medicines Handbook| vauthors = Rossi S |publisher=AMH|year=2004|isbn=978-0-9578521-4-3}}&lt;/ref&gt;
+
+Salbutamol has been used to treat acute [[hyperkalemia]], as it stimulates potassium flow into cells, thus lowering the potassium in the blood.&lt;ref name=Mah2005/&gt;
+
+==Adverse effects==
+The most common side effects are fine [[tremor]], [[anxiety]], [[headache]], [[muscle cramps]], [[dry mouth]], and [[palpitation]].&lt;ref name=BNF57&gt;{{cite book |title=British National Formulary |publisher=[[BMJ Publishing Group Ltd]] and [[Royal Pharmaceutical Society of Great Britain|Royal Pharmaceutical Society Publishing]] |location=London |date=March 2008 |edition=57 |chapter=3.1.1.1 Selective beta2 agonists – side effects |isbn=978-0-85369-778-7 |chapter-url-access=registration |chapter-url=https://archive.org/details/britishnationalf0000unse_k4e9 }}&lt;/ref&gt; Other symptoms may include [[tachycardia]], [[Heart arrhythmia|arrhythmia]], [[Flushing (physiology)|flushing of the skin]], [[myocardial ischemia]] (rare), and disturbances of sleep and behaviour.&lt;ref name=BNF57/&gt; Rarely occurring, but of importance, are allergic reactions of [[Paradoxical reaction|paradoxical]] bronchospasms, [[urticaria]] (hives), [[angioedema]], [[hypotension]], and collapse. High doses or prolonged use may cause [[hypokalemia]], which is of concern especially in patients with [[kidney failure]] and those on certain [[diuretics]] and [[xanthine]] derivatives.&lt;ref name=BNF57/&gt;
+
+Salbutamol metered dose inhalers have been described as the "single biggest source of carbon emissions from [[National Health Service|NHS]] medicines prescribing" due to the propellants used in the inhalers. Dry powder inhalers are recommended as a low-carbon alternative.&lt;ref&gt;{{cite news |title=Primary care networks incentivised to switch patients to more environmentally friendly inhalers |url=https://pharmaceutical-journal.com/article/news/primary-care-networks-incentivised-to-switch-patients-to-more-environmentally-friendly-inhalers? |access-date=16 October 2021 |publisher=Pharmaceutical Journal |date=3 September 2021}}&lt;/ref&gt;
+
+==Pharmacology==
+The tertiary [[butyl group]] in salbutamol makes it more selective for β&lt;sub&gt;2&lt;/sub&gt; receptors,&lt;ref name="Lemke2013"&gt;{{cite book|url=https://books.google.com/books?id=Sd6ot9ul-bUC&amp;pg=PA1315|title=Foye's Principles of Medicinal Chemistry| vauthors = Lemke TL, Williams DA, Roche VF, Zito SW |date=2013|publisher=Lippincott Williams &amp; Wilkins|isbn=9781609133450|location=Philadelphia, PA|pages=1314–1320|oclc=748675182|url-status=live|archive-url=https://web.archive.org/web/20170908175627/https://books.google.com/books?id=Sd6ot9ul-bUC&amp;pg=PA1315|archive-date=8 September 2017}}&lt;/ref&gt; which are the predominant receptors on the bronchial [[smooth muscle]]s. Activation of these receptors causes [[adenylyl cyclase]] to convert ATP to [[Cyclic adenosine monophosphate|cAMP]], beginning the [[signalling cascade]] that ends with the inhibition of [[myosin]] phosphorylation and lowering the intracellular concentration of calcium ions (myosin phosphorylation and calcium ions are necessary for muscle contractions). The increase in cAMP also inhibits inflammatory cells in the airway, such as [[basophil]]s, [[eosinophil]]s, and most especially [[mast cell]]s, from releasing inflammatory mediators and cytokines.&lt;ref name=rxlist /&gt;&lt;ref&gt;{{Cite book |  vauthors = Papich MG | title=Saunders Handbook of Veterinary Drugs | chapter=Albuterol Sulfate | location=St. Louis, Mo | date=2007 | edition=2nd | publisher=Saunders/Elsevier | isbn=9781416028888 | pages=10–11}}&lt;/ref&gt; Salbutamol and other β&lt;sub&gt;2&lt;/sub&gt; receptor agonists also increase the conductance of channels sensitive to calcium and potassium ions, leading to [[Hyperpolarization (biology)|hyperpolarization]] and relaxation of bronchial smooth muscles.&lt;ref name=chemm&gt;{{cite web | publisher = US Department of Health and Human Services | title=Albuterol - Medical Countermeasures Database | work=CHEMM | access-date=23 June 2017 | date=28 April 2017 | url=https://chemm.nlm.nih.gov/countermeasure_albuterol.htm | url-status=live | archive-url=https://web.archive.org/web/20170803045423/https://chemm.nlm.nih.gov/countermeasure_albuterol.htm | archive-date=3 August 2017 }}&lt;/ref&gt;
+
+Salbutamol is either filtered out by the kidneys directly or is first metabolized into the 4′-''O''-sulfate, which is excreted in the urine.&lt;ref name=starkey /&gt;
+
+==Chemistry==
+[[File:(R)- and (S)-salbutamol.svg|thumb|right|(''R'')-(−)-salbutamol (top) and (''S'')-(+)-salbutamol (bottom)]]
+Salbutamol is sold as a [[racemate|racemic mixture]]. The (''R'')-(−)-[[enantiomer]] ([[Cahn–Ingold–Prelog priority rules|CIP nomenclature]]) is shown in the image at right (top), and is responsible for the pharmacologic activity; the (''S'')-(+)-enantiomer (bottom) blocks metabolic pathways associated with elimination of itself and of the pharmacologically active enantiomer (''R'').&lt;ref&gt;{{cite web|url=http://pharmaxchange.info/notes/medicinal_chemistry/adrenergics_cholinergics.html|title=Medicinal Chemistry of the Peripheral Nervous System – Adrenergics and Cholinergics their Biosynthesis, Metabolism, and Structure Activity Relationships| vauthors = Mehta A |archive-url= https://web.archive.org/web/20101104022742/http://pharmaxchange.info/notes/medicinal_chemistry/adrenergics_cholinergics.html |archive-date=4 November 2010|url-status=dead|access-date=20 October 2010}}&lt;/ref&gt; The slower metabolism of the (''S'')-(+)-enantiomer also causes it to accumulate in the lungs, which can cause airway hyperreactivity and inflammation.&lt;ref name=merck&gt;{{Cite web | title=Inhalation Therapy of Airway Disease | work=Merck Veterinary Manual | access-date=22 June 2017 | url=http://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-respiratory-system/inhalation-therapy-of-airway-disease | url-status=live | archive-url=https://web.archive.org/web/20170625203315/http://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-respiratory-system/inhalation-therapy-of-airway-disease | archive-date=25 June 2017 }}&lt;/ref&gt; Potential formulation of the ''R'' form as an [[enantiopure drug]] is complicated by the fact that the stereochemistry is not stable, but rather the compound undergoes racemization within a few days to weeks, depending on [[pH]].&lt;ref&gt;{{cite journal |journal= Biol Pharm Bull |date= 1 September 2017 |volume= 40 |issue= 9 |pages= 1374–1380 |doi= 10.1248/bpb.b17-00067 |title= Study of pH Stability of ''R''-Salbutamol Sulfate Aerosol Solution and Its Antiasthmatic Effects in Guinea Pigs |vauthors= Liu Q, Li Q, Han T, Hu T, Zhang X, Hu J, Hu H, Tan W |pmid= 28652557|doi-access= free }}&lt;/ref&gt;
+
+The direct separation of Salbutamol [[enantiomer]]s and the control of enantiomeric purity has been described by [[thin-layer chromatography]].&lt;ref&gt;[[Ravi Bhushan|Bhushan, R.]]; Tanwar, S. ''[[J. Chromatogr. A]]'' '''2010''', ''1217'', 1395–1398. ({{doi|10.1016/j.chroma.2009.12.071}})&lt;/ref&gt;
+
+==History==
+Salbutamol was discovered in 1966, by a team led by [[David Jack (scientist)|David Jack]] at the [[Allen and Hanburys]] laboratory (a subsidiary of [[GlaxoSmithKline|Glaxo]]) in [[Ware, Hertfordshire]], England, and was launched as Ventolin in 1969.&lt;ref name=SirDavidJack_telegraph&gt;
+{{cite news|title=Sir David Jack, who has died aged 87, was the scientific brain behind the rise of the pharmaceuticals company Glaxo|url=https://www.telegraph.co.uk/news/obituaries/finance-obituaries/8897458/Sir-David-Jack.html|newspaper=The Telegraph|date=17 November 2011|url-status=live|archive-url=https://web.archive.org/web/20111125011155/http://www.telegraph.co.uk/news/obituaries/finance-obituaries/8897458/Sir-David-Jack.html|archive-date=25 November 2011}}&lt;/ref&gt;
+
+The [[1972 Munich Olympics]] were the first Olympics where anti-doping measures were deployed, and at that time β&lt;sub&gt;2&lt;/sub&gt; agonists were considered to be stimulants with high risk of abuse for doping. Inhaled salbutamol was banned from those games, but by 1986 was permitted (although oral β&lt;sub&gt;2&lt;/sub&gt; agonists were not). After a steep rise in the number of athletes taking β&lt;sub&gt;2&lt;/sub&gt; agonists for asthma in the 1990s, Olympic athletes were required to provide proof that they had asthma in order to be allowed to use inhaled β&lt;sub&gt;2&lt;/sub&gt; agonists.&lt;ref name=Fitch2006&gt;{{cite journal | vauthors = Fitch KD | title = beta2-Agonists at the Olympic Games | journal = Clinical Reviews in Allergy &amp; Immunology | volume = 31 | issue = 2–3 | pages = 259–68 | date = 2006 | pmid = 17085798 | doi = 10.1385/CRIAI:31:2:259 | s2cid = 71908898 }}&lt;/ref&gt;
+
+In February 2020, the U.S. [[Food and Drug Administration]] (FDA) approved the first generic of an albuterol sulfate inhalation aerosol for the treatment or prevention of bronchospasm in people four years of age and older with reversible obstructive airway disease and the prevention of exercise-induced bronchospasm in people four years of age and older.&lt;ref name="FDA Albuterol PR"&gt;{{cite press release | title=FDA approves first generic of ProAir HFA | website=U.S. [[Food and Drug Administration]] (FDA) | date=24 February 2020 | url=http://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-proair-hfa | access-date=24 February 2020}} {{PD-notice}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=Albuterol Sulfate: FDA-Approved Drugs | website=U.S. [[Food and Drug Administration]] (FDA) | url=https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=203760 | access-date=26 February 2020}}&lt;/ref&gt; The FDA granted approval of the generic albuterol sulfate inhalation aerosol to Perrigo Pharmaceutical.&lt;ref name="FDA Albuterol PR" /&gt;
+
+In April 2020, the FDA approved the first generic of Proventil HFA (albuterol sulfate) metered dose inhaler, 90 μg per inhalation, for the treatment or prevention of bronchospasm in patients four years of age and older who have reversible obstructive airway disease, as well as the prevention of exercise-induced bronchospasm in this age group.&lt;ref name="FDA Proventil PR"&gt;{{cite press release | title=FDA Approves First Generic of a Commonly Used Albuterol Inhaler to Treat and Prevent Bronchospasm | website=U.S. [[Food and Drug Administration]] (FDA) | date=8 April 2020 | url=https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-commonly-used-albuterol-inhaler-treat-and-prevent-bronchospasm | access-date=10 April 2020}} {{PD-notice}}&lt;/ref&gt; The FDA granted approval of this generic albuterol sulfate inhalation aerosol to Cipla Limited.&lt;ref name="FDA Proventil PR" /&gt;
+
+==Society and culture==
+In 2020, generic versions were approved in the United States.&lt;ref name="FDA Albuterol PR" /&gt;&lt;ref name="FDA Proventil PR" /&gt;
+
+===Names===
+[[File:Ventolin 2mg.JPG|thumb|Ventolin 2 mg tablets made by GSK (Turkey)]]
+Salbutamol is the [[international nonproprietary name]] (INN) while albuterol is the [[United States Adopted Name]] (USAN).&lt;ref&gt;{{cite web |title=Salbutamol |url=https://pubchem.ncbi.nlm.nih.gov/compound/Salbutamol#section=Pharmacology | work = PubChem | publisher = U.S. National Library of Medicine }}&lt;/ref&gt; The drug is usually manufactured and distributed as the [[sulfate]] [[Salt (chemistry)|salt]] (salbutamol sulfate).
+
+It was first sold by [[Allen &amp; Hanburys]] (UK) under the brand name Ventolin, and has been used for the treatment of asthma ever since.&lt;ref&gt;{{cite journal |url= http://www.pharmj.com/pdf/articles/pj_20071013_landmarkdrugs01.pdf |title= Ventolin remains a breath of fresh air for asthma sufferers, after 40 years |journal= The Pharmaceutical Journal |volume= 279 |issue= 7473 |pages= 404–405|archive-url=https://web.archive.org/web/20071015201448/http://www.pharmj.com/pdf/articles/pj_20071013_landmarkdrugs01.pdf|archive-date=15 October 2007}}&lt;/ref&gt; The drug is marketed under many names worldwide.&lt;ref name="brands"&gt;{{Cite web|url=https://www.drugs.com/international/salbutamol.html|title=Salbutamol|website=Drugs.com|archive-url=https://web.archive.org/web/20160330054502/http://www.drugs.com/international/salbutamol.html|archive-date=30 March 2016|url-status=live|access-date=11 April 2016}}&lt;/ref&gt;
+
+===Misuse===
+Albuterol and other beta-2 adrenergic agonists are used by some recreational bodybuilders.&lt;ref&gt;{{cite journal | vauthors = Jessen S, Reitelseder S, Kalsen A, Kreiberg M, Onslev J, Gad A, Ørtenblad N, Backer V, Holm L, Bangsbo J, Hostrup M | display-authors = 6 | title = β&lt;sub&gt;2&lt;/sub&gt;-Adrenergic agonist salbutamol augments hypertrophy in MHCIIa fibers and sprint mean power output but not muscle force during 11 weeks of resistance training in young men | journal = Journal of Applied Physiology | volume = 130 | issue = 3 | pages = 617–626 | date = March 2021 | pmid = 33357007 | doi = 10.1152/japplphysiol.00553.2020 | s2cid = 229695809 | url = https://findresearcher.sdu.dk/ws/files/178570378/japplphysiol.00553.2020.pdf }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Ip EJ, Doroudgar S, Lau B, Barnett MJ | title = Anabolic steroid users' misuse of non-traditional prescription drugs | journal = Research in Social &amp; Administrative Pharmacy | volume = 15 | issue = 8 | pages = 949–952 | date = August 2019 | pmid = 31303195 | doi = 10.1016/j.sapharm.2018.07.003 | s2cid = 81614300 }}&lt;/ref&gt;
+
+===Doping===
+{{As of|2011}} there was no evidence that an increase in physical performance occurs after inhaling salbutamol, but there are various reports for benefit when delivered orally or intravenously.&lt;ref&gt;{{cite journal | vauthors = Pluim BM, de Hon O, Staal JB, Limpens J, Kuipers H, Overbeek SE, Zwinderman AH, Scholten RJ | display-authors = 6 | title = β₂-Agonists and physical performance: a systematic review and meta-analysis of randomized controlled trials | journal = Sports Medicine | volume = 41 | issue = 1 | pages = 39–57 | date = January 2011 | pmid = 21142283 | doi = 10.2165/11537540-000000000-00000 | s2cid = 189906919 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Davis E, Loiacono R, Summers RJ | title = The rush to adrenaline: drugs in sport acting on the beta-adrenergic system | journal = British Journal of Pharmacology | volume = 154 | issue = 3 | pages = 584–97 | date = June 2008 | pmid = 18500380 | pmc = 2439523 | doi = 10.1038/bjp.2008.164 }}&lt;/ref&gt; In spite of this, salbutamol required "a declaration of Use in accordance with the International Standard for Therapeutic Use Exemptions" under the 2010 [[World Anti-Doping Agency|WADA]] prohibited list. This requirement was relaxed when the 2011 list was published to permit the use of "salbutamol (maximum 1600 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers' recommended therapeutic regimen."&lt;ref&gt;{{cite web |url= http://www.wada-ama.org/Documents/World_Anti-Doping_Program/WADP-Prohibited-list/WADA_Prohibited_List_2010_EN.pdf |title= The 2010 Prohibited List International Standard |publisher= WADA |access-date= 20 October 2010 |url-status= dead |archive-url= https://web.archive.org/web/20130911050811/http://www.wada-ama.org/Documents/World_Anti-Doping_Program/WADP-Prohibited-list/WADA_Prohibited_List_2010_EN.pdf |archive-date= 11 September 2013 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.wada-ama.org/Documents/World_Anti-Doping_Program/WADP-Prohibited-list/To_be_effective/WADA_Prohibited_List_2011_EN.pdf |title= The 2011 Prohibited List International Standard |publisher= WADA |access-date= 22 May 2012 |url-status= live |archive-url= https://web.archive.org/web/20120513015917/http://www.wada-ama.org/Documents/World_Anti-Doping_Program/WADP-Prohibited-list/To_be_effective/WADA_Prohibited_List_2011_EN.pdf |archive-date= 13 May 2012 }}&lt;/ref&gt;
+
+Abuse of the drug may be confirmed by detection of its presence in plasma or urine, typically exceeding 1,000&amp;nbsp;ng/mL. The window of detection for urine testing is on the order of just 24 hours, given the relatively short elimination half-life of the drug,&lt;ref name="R. Baselt, 2008, pp. 33-35"&gt;{{cite book |vauthors = Baselt R |title= Disposition of Toxic Drugs and Chemicals in Man |edition= 8th |publisher= Biomedical Publications |year= 2008 |pages= 33–35 |isbn= 978-0-9626523-6-3 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Bergés R, Segura J, Ventura R, Fitch KD, Morton AR, Farré M, Mas M, de La Torre X | display-authors = 6 | title = Discrimination of prohibited oral use of salbutamol from authorized inhaled asthma treatment | journal = Clinical Chemistry | volume = 46 | issue = 9 | pages = 1365–75 | date = September 2000 | doi = 10.1093/clinchem/46.9.1365 | pmid = 10973867 | url = http://www.clinchem.org/cgi/content/abstract/46/9/1365 | archive-url = https://web.archive.org/web/20110717111432/http://www.clinchem.org/cgi/content/abstract/46/9/1365 | url-status = live | archive-date = 17 July 2011 | doi-access = free }}&lt;/ref&gt;&lt;!--{{cite journal | vauthors = Bergés R, Segura J, Ventura R, Fitch KD, Morton AR, Farré M, Mas M, de La Torre X | title = Discrimination of prohibited oral use of salbutamol from authorized inhaled asthma treatment | journal = Clinical Chemistry | volume = 46 | issue = 9 | pages = 1365–75 | date = September 2000 | pmid = 10973867 | doi =  }}--&gt;&lt;ref&gt;{{cite journal | vauthors = Schweizer C, Saugy M, Kamber M | title = Doping test reveals high concentrations of salbutamol in a Swiss track and field athlete | journal = Clinical Journal of Sport Medicine | volume = 14 | issue = 5 | pages = 312–5 | date = September 2004 | pmid = 15377972 | doi = 10.1097/00042752-200409000-00018 | s2cid = 30402521 }}{{closed access}}&lt;/ref&gt; estimated at between 5 and 6 hours following oral administration of 4&amp;nbsp;mg.&lt;ref name=rxlist&gt;{{cite web| title= Albuterol Sulfate| work= Rx List: The Internet Drug Index| url= http://www.rxlist.com/albuterol-sulfate-drug/clinical-pharmacology.htm| access-date= 13 July 2014| url-status= live| archive-url= https://web.archive.org/web/20140718041226/http://www.rxlist.com/albuterol-sulfate-drug/clinical-pharmacology.htm| archive-date= 18 July 2014}}&lt;/ref&gt;
+
+==Research==
+Salbutamol has been studied in subtypes of [[congenital myasthenic syndrome]] associated with mutations in ''[[Dok-7]]''.&lt;ref&gt;{{cite journal | vauthors = Liewluck T, Selcen D, Engel AG | title = Beneficial effects of albuterol in congenital endplate acetylcholinesterase deficiency and Dok-7 myasthenia | journal = Muscle &amp; Nerve | volume = 44 | issue = 5 | pages = 789–94 | date = November 2011 | pmid = 21952943 | pmc = 3196786 | doi = 10.1002/mus.22176   }}&lt;/ref&gt;
+
+It has also been tested in a trial aimed at treatment of [[spinal muscular atrophy]]; it is speculated to modulate the [[alternative splicing]] of the ''[[SMN2]]'' gene, increasing the amount of the [[survival of motor neuron|SMN protein]], the deficiency of which is regarded as a cause of the disease.&lt;ref&gt;{{cite journal | vauthors = Van Meerbeke JP, Sumner CJ | title = Progress and promise: the current status of spinal muscular atrophy therapeutics | journal = Discovery Medicine | volume = 12 | issue = 65 | pages = 291–305 | date = October 2011 | pmid = 22031667 | url = http://www.discoverymedicine.com/James-P-Van-Meerbeke/2011/10/12/progress-and-promise-the-current-status-of-spinal-muscular-atrophy-therapeutics/ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Lewelt A, Newcomb TM, Swoboda KJ | title = New therapeutic approaches to spinal muscular atrophy | journal = Current Neurology and Neuroscience Reports | volume = 12 | issue = 1 | pages = 42–53 | date = February 2012 | pmid = 22134788 | pmc = 3260050 | doi = 10.1007/s11910-011-0240-9 }}&lt;/ref&gt;
+
+Albuterol increases [[energy expenditure]] by 10-15 percent at a therapeutic dose for asthma and around 25 percent at a higher, oral dose. In several human studies, albuterol increased lean body mass, reduced fat mass, and caused [[lipolysis]]; it has been studied for use as an anti-obesity and anti-muscle wasting medication when taken orally.&lt;ref&gt;{{cite journal | vauthors = Hostrup M, Onslev J | title = The beta&lt;sub&gt;2&lt;/sub&gt; -adrenergic receptor - a re-emerging target to combat obesity and induce leanness? | journal = The Journal of Physiology | volume = 600 | issue = 5 | pages = 1209–1227 | date = March 2022 | pmid = 34676534 | doi = 10.1113/JP281819 | s2cid = 239457357 | doi-access = free }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Hostrup M, Jacobson GA, Jessen S, Lemminger AK | title = Anabolic and lipolytic actions of beta&lt;sub&gt;2&lt;/sub&gt; -agonists in humans and antidoping challenges | journal = Drug Testing and Analysis | volume = 12 | issue = 5 | pages = 597–609 | date = May 2020 | pmid = 31960603 | doi = 10.1002/dta.2728 | s2cid = 210842115 }}&lt;/ref&gt;
+
+==Veterinary use==
+Salbutamol's low toxicity makes it safe for other animals and thus is the medication of choice for treating acute airway obstruction in most species.&lt;ref name=merck /&gt; It is usually used to treat bronchospasm or coughs in cats and dogs and used as a bronchodilator in horses with [[recurrent airway obstruction]]; it can also be used in emergencies to treat asthmatic cats.&lt;ref&gt;{{cite book | vauthors = Plumb DC | name-list-style = vanc| title=Plumb's Veterinary Drug Handbook | chapter=Albuterol Sulfate | location=Stockholm, Wisconsin; Ames, Iowa | date=2011 | edition=7th | publisher=Wiley | isbn=9780470959640 | pages=24–25}}&lt;/ref&gt;&lt;ref&gt;{{cite book | vauthors = Clarke KW, Trim CM | title= Veterinary Anaesthesia E-Book | date=28 June 2013 | publisher=Elsevier Health Sciences | isbn=9780702054235 | page=612 | url=https://books.google.com/books?id=hZh5AAAAQBAJ&amp;pg=PA612 | url-status=live | archive-url=https://web.archive.org/web/20170908175627/https://books.google.com/books?id=hZh5AAAAQBAJ&amp;pg=PA612 | archive-date=8 September 2017 }}&lt;/ref&gt;
+
+Toxic effects require an extremely high dose, and most overdoses are due to dogs chewing on and puncturing an inhaler or nebulizer vial.&lt;ref&gt;{{Cite book | vauthors = Cote E | title=Clinical Veterinary Advisor - E-Book: Dogs and Cats | chapter=Albuterol Toxicosis | date=9 December 2014 | publisher=Elsevier Health Sciences | isbn=9780323240741 | pages=45–46 | chapter-url=https://books.google.com/books?id=NmziBQAAQBAJ&amp;pg=PR120 | url-status=live | archive-url=https://web.archive.org/web/20170908175627/https://books.google.com/books?id=NmziBQAAQBAJ&amp;pg=PR120 | archive-date=8 September 2017 }}&lt;/ref&gt;
+
+== See also ==
+* [[Ipratropium/salbutamol]]
+* [[Isoprenaline]]
+* [[Levosalbutamol]] – the (''R'')-(−)-enantiomer
+* [[Salmeterol]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{cite web| url = https://druginfo.nlm.nih.gov/drugportal/name/albuterol | publisher = U.S. National Library of Medicine| work = Drug Information Portal| title = Albuterol }}
+* [http://www.periodicvideos.com/videos/mv_salbutamol.htm Salbutamol] at ''[[The Periodic Table of Videos]]''
+
+{{Adrenergic agonists}}
+{{Asthma_and_copd rx}}
+{{Phenethylamines}}
+{{GlaxoSmithKline}}
+
+{{Portal bar|Medicine}}
+
+[[Category:Antiasthmatic drugs]]
+[[Category:Beta-adrenergic agonists]]
+[[Category:Chemical substances for emergency medicine]]
+[[Category:GSK plc brands]]
+[[Category:Merck &amp; Co. brands]]
+[[Category:Phenols]]
+[[Category:Phenylethanolamines]]
+[[Category:Racemic mixtures]]
+[[Category:Sympathomimetic amines]]
+[[Category:Tert-butyl compounds]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Wikipedia medicine articles ready to translate]]</text>
+      <sha1>eyjentgg6vs5134oi0v5bzsn3b5iygk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Formoterol</title>
+    <ns>0</ns>
+    <id>1269368</id>
+    <revision>
+      <id>1187555032</id>
+      <parentid>1172700461</parentid>
+      <timestamp>2023-11-30T00:07:37Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Clean up spacing errors around ref tags., replaced: /ref&gt;r → /ref&gt; r</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8585" xml:space="preserve">{{Short description|Chemical compound}}
+{{distinguish|Fenoterol}}
+{{Use dmy dates|date=June 2023}}
+{{Infobox drug
+| verifiedrevid = 461113044
+| image = Formoterol.svg
+| width = 230
+| alt =
+| image2 = Formoterol ball-and-stick model.png
+| alt2 =
+| caption = Formoterol (top),&lt;br /&gt;(''R'',''R'')-(−)-formoterol (center) and&lt;br /&gt;(''S'',''S'')-(+)-formoterol (bottom)
+| chirality = [[Racemic mixture]]
+
+&lt;!-- Clinical data --&gt;
+| tradename = Oxeze, Foradil, others
+| Drugs.com = {{drugs.com|monograph|formoterol-fumarate}}
+| pregnancy_AU = B3
+| licence_EU = yes
+| INN_EMA = formoterol fumarate dihydrate
+| legal_AU = S4
+| legal_CA =
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_EU = Rx-only
+| legal_EU_comment = &lt;ref&gt;{{cite web|url=https://www.ema.europa.eu/documents/psusa/formoterol-list-nationally-authorised-medicinal-products-psusa/00001469/202005_en.pdf |title=List of nationally authorised medicinal products|website=ema.europa.eu|access-date=17 June 2023}}&lt;/ref&gt;
+| legal_status = Rx-only
+| routes_of_administration = Inhalation ([[Capsule (pharmacy)|capsules]] for oral inhalation, [[Dry powder inhaler|DPI]], [[Metered-dose inhaler|MDI]])
+
+&lt;!-- Pharmacokinetic data --&gt;
+| bioavailability =
+| protein_bound = 61% to 64%
+| metabolism = [[Liver]] [[demethylation]] and [[glucuronidation]] ([[CYP2D6]], [[CYP2C19]], [[CYP2C9]] and [[CYP2A6]] involved)
+| elimination_half-life = 10 h
+| excretion = [[Kidney]] and fecal
+
+&lt;!-- Identifiers --&gt;
+| index_label =
+| index2_label =
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 73573-87-2
+| ATC_prefix = R03
+| ATC_suffix = AC13
+| ATC_supplemental = {{ATC|R03|CC15}}
+| PubChem = 3083544
+| PubChem2 = 3034756
+| IUPHAR_ligand = 3465
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00983
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2340731
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5ZZ84GCW8B
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07990
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 408174
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1363
+
+&lt;!-- Chemical data --&gt;
+| IUPAC_name = (''RR'',''SS'')-''N''-[2-hydroxy-5-[1-hydroxy-2-[1-(4-methoxyphenyl) propan-2-ylamino]ethyl] phenyl]formamide
+| C=19 | H=24 | N=2 | O=4
+| smiles = O=CNc1cc(ccc1O)[C@@H](O)CN[C@H](C)Cc2ccc(OC)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H24N2O4/c1-13(9-14-3-6-16(25-2)7-4-14)20-11-19(24)15-5-8-18(23)17(10-15)21-12-22/h3-8,10,12-13,19-20,23-24H,9,11H2,1-2H3,(H,21,22)/t13-,19+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BPZSYCZIITTYBL-YJYMSZOUSA-N
+}}
+&lt;!-- Definition and medical uses --&gt;
+'''Formoterol''', also known as '''eformoterol''', is a [[Long-acting beta-adrenoceptor agonist|long-acting β&lt;sub&gt;2&lt;/sub&gt; agonist]] (LABA) used as a [[bronchodilator]] in the management of [[asthma]] and [[chronic obstructive pulmonary disease]] (COPD). Formoterol has an extended duration of action (up to 12&amp;nbsp;h) compared to short-acting β&lt;sub&gt;2&lt;/sub&gt; agonists such as [[salbutamol]] (albuterol), which are effective for 4&amp;nbsp;h to 6&amp;nbsp;h. Formoterol has a relatively rapid onset of action compared to other LABAs, and is effective within 2-3&amp;nbsp;minutes.&lt;ref name="pmid8099696"&gt;{{cite journal| author=Anderson GP| title=Formoterol: pharmacology, molecular basis of agonism, and mechanism of long duration of a highly potent and selective beta 2-adrenoceptor agonist bronchodilator. | journal=Life Sci | year= 1993 | volume= 52 | issue= 26 | pages= 2145–60 | pmid=8099696 | doi=10.1016/0024-3205(93)90729-m | pmc= | url=https://pubmed.ncbi.nlm.nih.gov/8099696  }}&lt;/ref&gt; The 2022 [[Global Initiative for Asthma]] report &lt;ref&gt;{{cite report |author=Global Initiative for Asthma|date=2022 |title=Global Strategy for Asthma Prevention and Management (Updated 2022) |url=https://ginasthma.org/wp-content/uploads/2022/07/GINA-Main-Report-2022-FINAL-22-07-01-WMS.pdf}}&lt;/ref&gt; recommends a combination formoterol/inhaled corticosteroid inhaler as both a preventer and reliever treatment for asthma in adults. In children, a short-actingβ&lt;sub&gt;2&lt;/sub&gt; agonist (e.g., [[salbutamol]]) is still recommended.
+
+&lt;!-- Society and culture --&gt;
+It was patented in 1972 and came into medical use in 1998.&lt;ref name=Fis2006&gt;{{cite book | vauthors = Fischer J, Ganellin CR |title=Analogue-based Drug Discovery |date=2006 |publisher=John Wiley &amp; Sons |isbn=9783527607495 |page=543 |url=https://books.google.com/books?id=FjKfqkaKkAAC&amp;pg=PA543 |language=en}}&lt;/ref&gt; It is available as a [[generic medication]].&lt;ref&gt;{{cite web | title=Competitive Generic Therapy Approvals | website=U.S. [[Food and Drug Administration]] (FDA) | date=29 June 2023 | url=https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals | access-date=29 June 2023 | archive-date=29 June 2023 | archive-url=https://web.archive.org/web/20230629233651/https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals | url-status=live }}&lt;/ref&gt; It is also marketed in the combination formulations [[budesonide/formoterol]] and [[mometasone/formoterol]].
+
+==Side effects==
+In November 2005, the US [[Food and Drug Administration]] (FDA) released a health advisory alerting the public to findings that show the use of long-acting β&lt;sub&gt;2&lt;/sub&gt; agonists could lead to a worsening of wheezing symptoms in some patients.&lt;ref&gt;{{cite web | work=U.S. [[Food and Drug Administration]] (FDA) | title=Advair Diskus, Advair HFA, Brovana, Foradil, Perforomist, Serevent Diskus, and Symbicort Information (Long Acting Beta Agonists) | url=https://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm108111.htm | access-date=2019-12-16 | archive-date=2017-11-01 | archive-url=https://web.archive.org/web/20171101115959/https://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm108111.htm | url-status=dead }}&lt;/ref&gt;
+
+Nowadays, available long-acting β&lt;sub&gt;2&lt;/sub&gt; agonists include [[salmeterol]], formoterol, [[bambuterol]], and sustained-release oral [[salbutamol]].
+
+Combinations of inhaled steroids and long-acting bronchodilators are becoming more widespread – combination preparations include [[fluticasone/salmeterol]] and [[budesonide/formoterol]].
+
+==Mechanism of action==
+Inhaled formoterol works like other [[beta2-adrenergic receptor agonist|β&lt;sub&gt;2&lt;/sub&gt; agonist]]s, causing bronchodilation by relaxing the smooth muscle in the airway so as to treat the exacerbation of asthma.
+
+== Society and culture ==
+
+=== Brand names ===
+[[File:Budesonide and formoterol inhaler.jpg|thumb|200px|Inhaler for a powder based in [[budesonide]] and formoterol]]
+
+It is marketed in three forms: a [[dry-powder inhaler]] (DPI), a [[metered-dose inhaler]] (MDI) and an inhalation solution, under various brand names including Atock, Atimos/Atimos Modulite, Foradil/Foradile, Fostair, Oxeze/Oxis, Perforomist and Symbicort.
+
+* Foradil/Foradile [[Capsule (pharmacy)|capsules]] for oral inhalation ([[Schering-Plough]] in the U.S., [[Novartis]] rest of world)
+* Oxeze/Oxis Turbuhaler [[Dry powder inhaler]] (DPI) ([[AstraZeneca]])
+* Atock ([[Astellas Pharma|Astellas]])
+* Atimos/Atimos Modulite [[Metered-dose inhaler]] (MDI) ([[Chiesi Farmaceutici S.p.A.|Chiesi]])
+* Perforomist inhalation [[Solution (chemistry)|solution]] ([[Mylan|Mylan N.V.]])
+* Symbicort Turbohaler [[Dry powder inhaler]] ([[AstraZeneca]])
+
+==Uses and combinations==
+* [[Arformoterol]] ((''R'',''R'')-(−)-formoterol) — an [[Enantiopure drug|enantiopure]] compound used in the management of [[Chronic obstructive pulmonary disease|COPD]]
+* Combination drugs:
+** [[Aclidinium bromide/formoterol]]
+** [[Budesonide/formoterol]]
+** [[Mometasone/formoterol|Mometasone furoate/formoterol]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/formoterol | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Formoterol }}
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/rn/183814-30-4 | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Formoterol fumarate }}
+
+{{Asthma and copd rx}}
+{{Adrenergic agonists}}
+{{Portal bar | Medicine}}
+
+[[Category:Beta2-adrenergic agonists]]
+[[Category:Phenol ethers]]
+[[Category:Phenols]]
+[[Category:Schering-Plough brands]]
+[[Category:Merck &amp; Co. brands]]
+[[Category:AstraZeneca brands]]
+[[Category:Novartis brands]]
+[[Category:Formamides]]
+[[Category:Substituted amphetamines]]
+[[Category:Phenylethanolamines]]
+
+[[pnb:آمو دریا]]</text>
+      <sha1>qiowgw6dgsakdahbnbzl4c1bmi8lg1a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pulmonary drug delivery</title>
+    <ns>0</ns>
+    <id>70560337</id>
+    <revision>
+      <id>1164408590</id>
+      <parentid>1140194578</parentid>
+      <timestamp>2023-07-09T04:05:16Z</timestamp>
+      <contributor>
+        <username>JCW-CleanerBot</username>
+        <id>31737083</id>
+      </contributor>
+      <minor/>
+      <comment>/* Disadvantages and challenges */[[User:JCW-CleanerBot#Logic|task]], replaced: journal=NPJ → journal=npj</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27857" xml:space="preserve">[[File:2301 Major Respiratory Organs.jpg|thumb|245x245px|Illustration of the respiratory system]]
+'''Pulmonary drug delivery''' is a [[route of administration]] in which patients use an inhaler to inhale their medications and drugs are absorbed into the bloodstream via the lung mucous membrane. This technique is most commonly used in the treatment of lung diseases, for example, [[asthma]] and [[Chronic obstructive pulmonary disease|chronic obstructive pulmonary disease (COPD)]]. Different types of inhalers include [[Metered-dose inhaler|metered-dose inhalers (MDI)]], [[Dry-powder inhaler|dry powder inhalers (DPI)]], soft mist inhalers (SMI) and [[nebulizer]]s. The rate and efficacy of pulmonary drug delivery are affected by drug particle properties, breathing patterns and respiratory tract geometry.
+
+Pulmonary drug delivery minimizes systemic side effects and increases bioavailability owing to the localised absorption through the lung. The disadvantages include possible drug irritation to the lung, limited drug [[Solvation|dissolution]], relatively high drug [[Clearance (pharmacology)|clearance]], and the drug effectiveness depends on the inhaler techniques and patients' [[Adherence (medicine)|compliance]]. Drug formulation can be challenging since the drug has to bypass the [[Respiratory tract antimicrobial defense system|defence mechanisms in the respiratory tract]]. [[Pharmacokinetics]] and [[pharmacodynamics]] of the drug in elderly patients can also be particularly difficult to be predicted due to age-related changes in body composition.
+
+Ongoing developments in inhaler device engineering, technology and drug formulations may improve the efficacy and overcome the challenges of pulmonary drug delivery. Recent advancements involve the utilization of the pulmonary route as an entry to [[Circulatory system|systemic circulation]] for treating different diseases, as well as the development of pulmonary drug formulation and [[Particle technology|particle engineering technology]] to increase the efficacy of pulmonary delivery.
+
+&lt;!-- EDIT BELOW THIS LINE --&gt;
+
+== Application / Clinical use ==
+Pulmonary drug delivery is mainly utilized for topical applications in the lungs, such as the use of inhaled [[Beta-adrenergic agonist|beta-agonists]], [[corticosteroid]]s and [[anticholinergic]] agents for the treatment of asthma and COPD, the use of inhaled [[Mucoactive agent|mucolytics]] and [[antibiotic]]s for the treatment of [[Cystic fibrosis|cystic fibrosis (CT)]] and respiratory viral infections,&lt;ref&gt;{{Cite journal |last1=Liang |first1=Wanling |last2=Pan |first2=Harry W. |last3=Vllasaliu |first3=Driton |last4=Lam |first4=Jenny K. W. |date=2020-10-26 |title=Pulmonary Delivery of Biological Drugs |journal=Pharmaceutics |language=en |volume=12 |issue=11 |pages=1025 |doi=10.3390/pharmaceutics12111025 |issn=1999-4923 |pmc=7693150 |pmid=33114726|doi-access=free }}&lt;/ref&gt; and the use of inhaled [[prostacyclin]] [[Structural analog|analogs]] for the treatment of [[Pulmonary hypertension|pulmonary arterial hypertension (PAH)]].&lt;ref name=":0"&gt;{{Cite journal |last=Newman |first=Stephen P |date=2017 |title=Drug delivery to the lungs: challenges and opportunities |url=https://www.future-science.com/doi/10.4155/tde-2017-0037 |journal=Therapeutic Delivery |language=en |volume=8 |issue=8 |pages=647–661 |doi=10.4155/tde-2017-0037 |pmid=28730933 |issn=2041-5990}}&lt;/ref&gt;
+
+In addition, this technique is employed for systemic application, for example the use of inhaled [[Insulin (medication)|insulin]] for [[diabetes]] management,&lt;ref&gt;{{Cite journal |last1=Chan |first1=Jason |last2=Cheng-Lai |first2=Angela |date=2017 |title=Inhaled Insulin: A Clinical and Historical Review |url=https://journals.lww.com/00045415-201705000-00007 |journal=Cardiology in Review |language=en |volume=25 |issue=3 |pages=140–146 |doi=10.1097/CRD.0000000000000143 |pmid=28379903 |s2cid=22883456 |issn=1061-5377}}&lt;/ref&gt; the use of inhaled [[loxapine]] for treatment of psychiatric disorders. [[Vaccine]]s, such as the [[MMR vaccine|measles-rubella vaccines]], can also be delivered via inhalation.
+
+== Examples of inhalers ==
+[[File:Inhaler1.jpg|thumb|260x260px|Metered-dose inhaler]]
+
+=== Metered-dose inhalers (MDIs) ===
+Metered-dose inhalers include pressurized metered-dose inhalers (pMDIs) and breath-actuated metered-dose inhalers (BAMDIs). pMDIs are the most commonly used inhalers for treating lung diseases. It requires coordination of patients’ inhalation and inhaler actuation. BAMDIs are triggered by patients’ inspiratory flow instead of hand actuation, solving the coordination issue.&lt;ref name=":3"&gt;{{Cite journal |last1=Cataldo |first1=Didier |last2=Hanon |first2=Shane |last3=Peché |first3=Rudi V. |last4=Schuermans |first4=Daniel J. |last5=Degryse |first5=Jean M. |last6=De Wulf |first6=Isabelle A. |last7=Elinck |first7=Karin |last8=Leys |first8=Mathias H. |last9=Rummens |first9=Peter L. |last10=Derom |first10=Eric |date=2022 |title=How to Choose the Right Inhaler Using a Patient-Centric Approach? |journal=Advances in Therapy |language=en |volume=39 |issue=3 |pages=1149–1163 |doi=10.1007/s12325-021-02034-9 |issn=0741-238X |pmc=8790222 |pmid=35080761}}&lt;/ref&gt; MDIs with [[Asthma spacer|spacers]] have similar effectiveness in drug delivery compared to nebulizers, with additional benefits in convenience and cost-effectiveness.&lt;ref name=":5"&gt;{{Cite journal |last1=Roncada |first1=Cristian |last2=Andrade |first2=Julia |last3=Bischoff |first3=Luísa Carolina |last4=Pitrez |first4=Paulo Márcio |date=2018-07-10 |title=COMPARAÇÃO DE DUAS TÉCNICAS INALATÓRIAS PARA ADMINISTRAR BRONCODILATADOR EM CRIANÇAS E ADOLESCENTES COM CRISE AGUDA DE ASMA: METANÁLISE |journal=Revista Paulista de Pediatria |volume=36 |issue=3 |pages=364–371 |doi=10.1590/1984-0462/;2018;36;3;00002 |issn=1984-0462 |pmc=6202895 |pmid=29995144}}&lt;/ref&gt; The use of MDIs together with spacers, valved holding chambers (VHCs) or masks improve the efficacy of drug delivery into the lungs.&lt;ref name=":4"&gt;{{Cite journal |last1=Volerman |first1=Anna |last2=Balachandran |first2=Uma |last3=Siros |first3=Michelle |last4=Akel |first4=Mary |last5=Press |first5=Valerie G. |date=2021 |title=Mask Use with Spacers/Valved Holding Chambers and Metered Dose Inhalers among Children with Asthma |journal=Annals of the American Thoracic Society |language=en |volume=18 |issue=1 |pages=17–22 |doi=10.1513/AnnalsATS.202005-522CME |issn=2329-6933 |pmc=7780969 |pmid=33052700}}&lt;/ref&gt;
+
+==== Advantages ====
+
+* High portability
+* Fixed dose is delivered
+* Efficient aerosolized delivery of drug particles
+* Inexpensive
+* Convenient usage
+* Quiet administration&lt;ref name=":6"&gt;{{Cite journal |last1=Chandel |first1=Akshay |last2=Goyal |first2=Amit K. |last3=Ghosh |first3=Goutam |last4=Rath |first4=Goutam |date=2019 |title=Recent advances in aerosolised drug delivery |journal=Biomedicine &amp; Pharmacotherapy |language=en |volume=112 |pages=108601 |doi=10.1016/j.biopha.2019.108601|pmid=30780107 |s2cid=73456189 |doi-access=free }}&lt;/ref&gt;
+
+==== Disadvantages ====
+
+* Require coordination between inhalation and inhaler actuation&lt;ref name=":6" /&gt;
+
+==== Examples ====
+
+* Pressurized metered-dose inhalers (pMDIs)
+* Breath-actuated metered-dose inhalers (BAMDIs)
+[[File:Dry powder inhalers.jpg|thumb|231x231px|Dry powder inhalers, from left to right: Turbuhaler, Accuhaler, Ellipta]]
+
+=== Dry powder inhalers (DPIs) ===
+The solid drug powders in DPIs are released by the force of the patient's inspiratory flow. Turbulent airflow generated inside the inhaler by the inhalation force is associated with the movement of airflow and the resistance inside the inhaler.&lt;ref name=":7"&gt;{{Cite journal |last1=Lavorini |first1=Federico |last2=Chudek |first2=Jerzy |last3=Gálffy |first3=Gabriella |last4=Pallarés-Sanmartin |first4=Abel |last5=Pelkonen |first5=Anna S. |last6=Rytilä |first6=Paula |last7=Syk |first7=Jörgen |last8=Szilasi |first8=Maria |last9=Tamási |first9=Lilla |last10=Xanthopoulos |first10=Athanasios |last11=Haahtela |first11=Tari |date=2021-12-01 |title=Switching to the Dry-Powder Inhaler Easyhaler®: A Narrative Review of the Evidence |url=https://doi.org/10.1007/s41030-021-00174-5 |journal=Pulmonary Therapy |language=en |volume=7 |issue=2 |pages=409–427 |doi=10.1007/s41030-021-00174-5 |issn=2364-1746 |pmc=8477976 |pmid=34581994}}&lt;/ref&gt; Patients should inhale with adequate inspiratory flow to overcome the resistance of DPIs, leading to drug particle deaggregation for successful pulmonary delivery.&lt;ref name=":8"&gt;{{Cite journal |last1=Ghosh |first1=Sohini |last2=Ohar |first2=Jill A. |last3=Drummond |first3=M. Bradley |date=2017 |title=Peak Inspiratory Flow Rate in Chronic Obstructive Pulmonary Disease: Implications for Dry Powder Inhalers |journal=Journal of Aerosol Medicine and Pulmonary Drug Delivery |language=en |volume=30 |issue=6 |pages=381–387 |doi=10.1089/jamp.2017.1416 |issn=1941-2711 |pmc=5915227 |pmid=28933581}}&lt;/ref&gt;
+
+==== Advantages ====
+
+* High portability
+* Fixed dose is delivered
+* Require minimal coordination between inhalation and inhaler actuation&lt;ref name=":6" /&gt;&lt;ref name=":9"&gt;{{Cite journal |last1=ElKasabgy |first1=Nermeen A. |last2=Adel |first2=Islam M. |last3=Elmeligy |first3=Mohamed F. |date=2020-08-21 |title=Respiratory Tract: Structure and Attractions for Drug Delivery Using Dry Powder Inhalers |url=https://doi.org/10.1208/s12249-020-01757-2 |journal=AAPS PharmSciTech |language=en |volume=21 |issue=7 |pages=238 |doi=10.1208/s12249-020-01757-2 |pmid=32827062 |s2cid=221218042 |issn=1530-9932}}&lt;/ref&gt;
+
+==== Disadvantages ====
+
+* Require adequate inspiratory flow from patients
+* Moisture sensitive&lt;ref name=":6" /&gt;&lt;ref name=":9" /&gt;
+
+==== Examples ====
+
+* Turbuhaler
+* Accuhaler
+* Handihaler
+* Genuair
+* Ellipta
+* Breexhaler
+[[File:Respimat.JPG|thumb|Soft-mist inhaler, Respimat]]
+
+=== Soft-mist inhalers (SMIs) ===
+Soft-mist inhaler aerosolized a fixed dose of liquid drug formulation into inhalable tiny particles through an extremely fine [[nozzle]] system using the energy generated by the lever-compressed spring, without the use of [[propellant]]s.&lt;ref name=":1"&gt;{{Cite journal |last1=Iwanaga |first1=Takashi |last2=Tohda |first2=Yuji |last3=Nakamura |first3=Shuhei |last4=Suga |first4=Yasunori |date=2019-11-01 |title=The Respimat® Soft Mist Inhaler: Implications of Drug Delivery Characteristics for Patients |url=https://doi.org/10.1007/s40261-019-00835-z |journal=Clinical Drug Investigation |language=en |volume=39 |issue=11 |pages=1021–1030 |doi=10.1007/s40261-019-00835-z |issn=1179-1918 |pmc=6800401 |pmid=31377981}}&lt;/ref&gt; The slow and prolonged duration of aerosolization facilitates the patient's coordination between inhaler actuation and inhalation.&lt;ref name=":2"&gt;{{Cite journal |last1=Wachtel |first1=Herbert |last2=Kattenbeck |first2=Sabine |last3=Dunne |first3=Stephen |last4=Disse |first4=Bernd |date=2017 |title=The Respimat® Development Story: Patient-Centered Innovation |journal=Pulmonary Therapy |language=en |volume=3 |issue=1 |pages=19–30 |doi=10.1007/s41030-017-0040-8 |s2cid=51800400 |issn=2364-1754|doi-access=free }}&lt;/ref&gt;
+
+==== Advantages ====
+
+* High portability
+* Require minimal patient's coordination between inhalation and inhaler actuation
+* High drug deposition in lungs&lt;ref name=":10"&gt;{{Cite journal |last1=Sorino |first1=Claudio |last2=Negri |first2=Stefano |last3=Spanevello |first3=Antonio |last4=Visca |first4=Dina |last5=Scichilone |first5=Nicola |date=2020-05-01 |title=Inhalation therapy devices for the treatment of obstructive lung diseases: the history of inhalers towards the ideal inhaler |url=https://www.ejinme.com/article/S0953-6205(20)30068-6/abstract |journal=European Journal of Internal Medicine |language=English |volume=75 |pages=15–18 |doi=10.1016/j.ejim.2020.02.023 |issn=0953-6205 |pmid=32113944|s2cid=211727980 }}&lt;/ref&gt;
+
+==== Disadvantages ====
+
+* Low availability in markets
+* Relatively expensive&lt;ref name=":9" /&gt;
+
+==== Example ====
+
+* Respimat
+
+=== Nebulizers ===
+Nebulizer is mainly used in emergencies, or by patients with poor compliance to other handy inhalers. Nebulizer delivers medication into the lungs by converting water-based liquid drug formulations into inhalable droplets mechanically, such as the use of an ultrasonic system, or thermally.&lt;ref name=":11"&gt;{{Cite journal |last1=Longest |first1=Worth |last2=Spence |first2=Benjamin |last3=Hindle |first3=Michael |date=2019-10-01 |title=Devices for Improved Delivery of Nebulized Pharmaceutical Aerosols to the Lungs |journal=Journal of Aerosol Medicine and Pulmonary Drug Delivery |language=en |volume=32 |issue=5 |pages=317–339 |doi=10.1089/jamp.2018.1508 |issn=1941-2711 |pmc=6781258 |pmid=31287369}}&lt;/ref&gt; Major types of nebulizers include vibrating mesh nebulizers (VMN), jet nebulizers (JN) and ultrasonic nebulizers.&lt;ref name=":12"&gt;{{Cite journal |last1=McCarthy |first1=Sean D. |last2=González |first2=Héctor E. |last3=Higgins |first3=Brendan D. |date=2020 |title=Future Trends in Nebulized Therapies for Pulmonary Disease |journal=Journal of Personalized Medicine |language=en |volume=10 |issue=2 |pages=37 |doi=10.3390/jpm10020037 |issn=2075-4426 |pmc=7354528 |pmid=32397615|doi-access=free }}&lt;/ref&gt;
+
+==== Advantages ====
+
+* Patients' education and coordination are not required.
+* Suitable for older patients and children
+* Better patient satisfaction due to the visible aerosols
+* Easily employed with tidal breathing&lt;ref name=":13"&gt;{{Cite journal |last1=Khairnar |first1=Sakshi V |last2=Jain |first2=Divya D |last3=Tambe |first3=Srushti M |last4=Chavan |first4=Yashashri R |last5=Amin |first5=Purnima D |date=2022 |title=Nebulizer systems: a new frontier for therapeutics and targeted delivery |url=https://www.future-science.com/doi/10.4155/tde-2021-0070 |journal=Therapeutic Delivery |language=en |volume=13 |issue=1 |pages=31–49 |doi=10.4155/tde-2021-0070 |pmid=34766509 |s2cid=244041247 |issn=2041-5990}}&lt;/ref&gt;
+
+==== Disadvantages ====
+
+* Long time of drug delivery
+* Inaccurate drug dosages
+* Bulky device
+* Expensive
+* Require regular maintenance
+* Low drug delivery efficiency to the lungs&lt;ref name=":13" /&gt;
+
+==== Examples ====
+
+* Vibrating mesh nebulizers (VMN)
+* Jet nebulizers (JN)
+* Ultrasound nebulizers
+
+== Factors affecting pulmonary drug delivery ==
+To achieve successful pulmonary drug delivery, a fraction of the inhaled particles should not deposit on the upper respiratory tract since they will be swallowed or expectorated without reaching the lungs, leading to the loss of pharmacological effect or provoking unwanted systemic side effects. Factors affecting the deposition of drug particles in lungs include drug particle properties, breathing patterns and respiratory tract geometry.&lt;ref&gt;{{Cite journal |last1=Martin |first1=Andrew R. |last2=Moore |first2=Charles P. |last3=Finlay |first3=Warren H. |date=2018-12-02 |title=Models of deposition, pharmacokinetics, and intersubject variability in respiratory drug delivery |url=https://www.tandfonline.com/doi/full/10.1080/17425247.2018.1544616 |journal=Expert Opinion on Drug Delivery |language=en |volume=15 |issue=12 |pages=1175–1188 |doi=10.1080/17425247.2018.1544616 |pmid=30388902 |s2cid=53266146 |issn=1742-5247}}&lt;/ref&gt;
+
+=== Drug particle properties ===
+Particle diameter and particle density significantly affect the drug deposition pattern in the respiratory tract, and are the most common considerations for formulation of pulmonary drugs. Drug particles with diameter larger than 5 μm, predominantly deposit on the upper respiratory tract, limiting the amount of drug particles reaching the lung. Moderate-size drug particles with diameter between 2 μm to 5 μm, primarily deposit on the central and small airways. Small drug particles with diameter smaller than 2 μm, predominantly deposit on the alveolar sacs.&lt;ref&gt;{{Cite journal |last=Darquenne |first=Chantal |date=2020-08-01 |title=Deposition Mechanisms |url=https://www.liebertpub.com/doi/10.1089/jamp.2020.29029.cd |journal=Journal of Aerosol Medicine and Pulmonary Drug Delivery |language=en |volume=33 |issue=4 |pages=181–185 |doi=10.1089/jamp.2020.29029.cd |pmid=32598200 |s2cid=220275931 |issn=1941-2711}}&lt;/ref&gt; Other factors affecting deposition of drugs include particle electrostatic charge, particle shape and particle volatility. Electrostatic charge of the drug particles enhances deposition due to the formation of electrostatic force on the wall of the respiratory tract. Non-spherical particle shape has a different entry pathway compared to that of the spherical particles, causing a change in deposition pattern. Particle volatility affects particle diameter due to the change of particle diameter during condensation and evaporation.&lt;ref&gt;{{Cite journal |last=Finlay |first=Warren H. |date=2021-08-01 |title=Deposition of Aerosols in the Lungs: Particle Characteristics |url=https://www.liebertpub.com/doi/10.1089/jamp.2021.29040.whf |journal=Journal of Aerosol Medicine and Pulmonary Drug Delivery |language=en |volume=34 |issue=4 |pages=213–216 |doi=10.1089/jamp.2021.29040.whf |pmid=34264776 |s2cid=235959447 |issn=1941-2711}}&lt;/ref&gt;
+
+=== Breathing patterns ===
+Drug particle deposition is associated with mean [[residence time]] and [[tidal volume]]. An increase in mean residence time or tidal volume enhances drug deposition in lungs, while an increase in air flow decreases the mean residence time, resulting in the decrease of total deposition of drug particles.&lt;ref name="Rangaraj 2019 1–21"&gt;{{Cite journal |last1=Rangaraj |first1=Nagarjun |last2=Pailla |first2=Sravanthi Reddy |last3=Sampathi |first3=Sunitha |date=2019 |title=Insight into pulmonary drug delivery: Mechanism of drug deposition to device characterization and regulatory requirements |url=https://linkinghub.elsevier.com/retrieve/pii/S1094553918301895 |journal=Pulmonary Pharmacology &amp; Therapeutics |language=en |volume=54 |pages=1–21 |doi=10.1016/j.pupt.2018.11.004|pmid=30447295 |s2cid=53670288 }}&lt;/ref&gt;
+
+=== Respiratory tract geometry ===
+The [[bifurcation of trachea]] into bronchi with smaller diameter increases turbulent flow, leading to an increase in deposition in the large respiratory tract by impaction.&lt;ref name="Rangaraj 2019 1–21"/&gt;
+
+== Advantages ==
+Several advantages are associated with the pulmonary route of administration. For respiratory diseases, drug can be delivered directly to the disease site to perform topical relief, thus rapid [[onset of action]] can be achieved and there is less systemic side effects.&lt;ref name=":14"&gt;{{Cite journal |last1=Labiris |first1=N. R. |last2=Dolovich |first2=M. B. |date=2003 |title=Pulmonary drug delivery. Part I: Physiological factors affecting therapeutic effectiveness of aerosolized medications: Physiological factors affecting the effectiveness of inhaled drugs |journal=British Journal of Clinical Pharmacology |language=en |volume=56 |issue=6 |pages=588–599 |doi=10.1046/j.1365-2125.2003.01892.x |pmc=1884307 |pmid=14616418}}&lt;/ref&gt; Less dosage of drug can also achieve similar therapeutic effect compared to other routes of administration. For drugs designed to exert systemic effect through the lung as a drug target, the drug can reach the circulation bypassing poor gastrointestinal absorption and [[First pass effect|hepatic first pass metabolism]] which improve drug bioavailability.&lt;ref name=":14" /&gt; The large absorptive surface area, highly permeable membrane with rich blood supply also enable rapid onset of action and increase [[bioavailability]] of the drug.&lt;ref name=":14" /&gt;
+
+== Disadvantages and challenges ==
+Despite a number of advantages in the pulmonary route compared to other routes of administration, numerous disadvantages are associated with the pulmonary route. As the drug needs to be delivered through the respiratory tract to the lungs, drug formulation can be challenging due to the defense mechanisms which intend to remove or inactivate the exogenous chemicals. [[Bronchoconstriction|Airway constriction]] and [[mucus]] secretion with [[cilia]]ry movement prevent drugs from reaching the lungs, while [[enzyme]]s, [[macrophage]]s and [[surfactant]] in the lungs may also inactivate the drugs leading to less drug being absorbed.&lt;ref name=":0" /&gt; Studies show that only around 20% of drug reaches the lung for each inhalation and drug loss is mainly due to the accumulation in the oropharynx in terms of pMDIs and DPIs and drug retention in the device for nebulisers.&lt;ref name=":0" /&gt;
+
+Some irritating drug particles may also cause local side effects at the respiratory tract, for example inhaled corticosteroid accumulating in the oropharynx can result in [[Hoarse voice|dysphonia]] and [[Oral candidiasis|oral thrush]]. Besides, drug dosing may be inaccurate due to the variations of breathing patterns between individuals and the presence of numerous factors affecting the deposition and absorption of drug particles in the lungs.&lt;ref name="Rangaraj 2019 1–21"/&gt; In particular, elder patients may not have enough strength to generate sufficient inspiratory flow, resulting in less drug inhalation and hence low drug bioavailability. Finally, inhalers, especially nebulizers, require regular maintenance and cleaning. The inhaler devices are relatively expensive compared to oral tablets,&lt;ref&gt;{{Cite journal |last1=Khan |first1=Muhammad Suleman |last2=Roberts |first2=Michael S. |date=2018 |title=Challenges and innovations of drug delivery in older age |url=https://linkinghub.elsevier.com/retrieve/pii/S0169409X18302230 |journal=Advanced Drug Delivery Reviews |language=en |volume=135 |pages=3–38 |doi=10.1016/j.addr.2018.09.003|pmid=30217519 |s2cid=52276293 }}&lt;/ref&gt; which may not be affordable to low income patients.
+
+The effectiveness of drug delivery highly depends on the patient's compliance and proper inhaler technique with no significant error in using the inhalers. Poor compliance may lead to uncontrolled or poorly controlled disease status.&lt;ref name=":15" /&gt; For instance, a patient may feel recovered and discontinue the treatment, or a patient may forget to take the medication, resulting in suboptimal disease management. Reducing the amount of puffs by combination inhalers delivering two or more drugs in one breath or the use of electronic data loggers can improve compliance.&lt;ref name=":15" /&gt;
+
+Incorrect inhaler techniques, such as poor coordination, no exhalation before inhaling the drug aerosol or not holding breath for a few seconds after inhalation may lead to medication depositing inside the respiratory tract instead of the lungs, resulting in inefficient and inadequate treatment.&lt;ref name=":15"&gt;{{Cite journal |last1=Chrystyn |first1=Henry |last2=van der Palen |first2=Job |last3=Sharma |first3=Raj |last4=Barnes |first4=Neil |last5=Delafont |first5=Bruno |last6=Mahajan |first6=Anadi |last7=Thomas |first7=Mike |date=2017 |title=Device errors in asthma and COPD: systematic literature review and meta-analysis |journal=npj Primary Care Respiratory Medicine |language=en |volume=27 |issue=1 |pages=22 |doi=10.1038/s41533-017-0016-z |issn=2055-1010 |pmc=5434773 |pmid=28373682}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal |last=Melani |first=Andrea S. |date=2021 |title=Inhaler technique in asthma and COPD: challenges and unmet knowledge that can contribute to suboptimal use in real life |url=https://doi.org/10.1080/17512433.2021.1929922 |journal=Expert Review of Clinical Pharmacology |volume=14 |issue=8 |pages=991–1003 |doi=10.1080/17512433.2021.1929922 |issn=1751-2433 |pmid=33983092|s2cid=234486685 }}&lt;/ref&gt; Practical demonstration instead of verbal instruction, education and rechecking on the inhaler technique after a period of time can reduce error and enhance true compliance.
+
+== Ongoing development ==
+The use of the pulmonary route as an entry into the systemic circulation is constantly developing due to the additional benefits of bypassing the hepatic first pass metabolism, rapid systemic absorption, higher patients compliance and its non-invasive nature. Potent drugs with the ability to penetrate the lung mucosa into the blood circulation may be available for treating diseases requiring systemic drug delivery.&lt;ref&gt;{{Cite journal |last=Hickey |first=Anthony J. |date=2020 |title=Emerging trends in inhaled drug delivery |journal=Advanced Drug Delivery Reviews |language=en |volume=157 |pages=63–70 |doi=10.1016/j.addr.2020.07.006 |pmc=7354278 |pmid=32663488}}&lt;/ref&gt; The ongoing researches include the use of inhaled [[nicotine]] for smoking cessation,&lt;ref&gt;{{Cite journal |last1=Jackson |first1=Asti |last2=Grobman |first2=Ben |last3=Krishnan-Sarin |first3=Suchitra |date=2020 |title=Recent findings in the pharmacology of inhaled nicotine: Preclinical and clinical in vivo studies |journal=Neuropharmacology |language=en |volume=176 |pages=108218 |doi=10.1016/j.neuropharm.2020.108218 |pmc=7529934 |pmid=32592708}}&lt;/ref&gt; the use of inhaled [[L-DOPA|levodopa]] for the treatment of [[Parkinson's disease]],&lt;ref&gt;{{Cite journal |last=Paik |first=Julia |date=2020 |title=Levodopa Inhalation Powder: A Review in Parkinson's Disease |url=https://link.springer.com/10.1007/s40265-020-01307-x |journal=Drugs |language=en |volume=80 |issue=8 |pages=821–828 |doi=10.1007/s40265-020-01307-x |pmid=32319076 |s2cid=216033034 |issn=0012-6667}}&lt;/ref&gt; and the pulmonary delivery of various [[Biopharmaceutical|biologics]].&lt;ref&gt;{{Cite journal |last1=Anselmo |first1=Aaron C. |last2=Gokarn |first2=Yatin |last3=Mitragotri |first3=Samir |date=2019 |title=Non-invasive delivery strategies for biologics |url=http://www.nature.com/articles/nrd.2018.183 |journal=Nature Reviews Drug Discovery |language=en |volume=18 |issue=1 |pages=19–40 |doi=10.1038/nrd.2018.183 |pmid=30498202 |s2cid=54166853 |issn=1474-1776}}&lt;/ref&gt;
+
+In addition to the development of new pulmonary drugs, the drug formulation and particle engineering technology is advancing, such as the use of Ultrasound Mediated Amorphous to Crystalline transition (UMAX) process to micronize drug into inhalable drug particles with better performance,&lt;ref&gt;{{Cite journal |last1=Biddiscombe |first1=Martyn F. |last2=Usmani |first2=Omar S. |date=2018 |title=Is there room for further innovation in inhaled therapy for airways disease? |journal=Breathe |language=en |volume=14 |issue=3 |pages=216–224 |doi=10.1183/20734735.020318 |issn=1810-6838 |pmc=6118889 |pmid=30186519}}&lt;/ref&gt; the use of drug [[nanoparticle]]s to minimize unwanted drug adverse effects and increase drug bioavailability at the target site,&lt;ref&gt;{{Cite journal |last1=García-Fernández |first1=Alba |last2=Sancenón |first2=Félix |last3=Martínez-Máñez |first3=Ramón |date=2021 |title=Mesoporous silica nanoparticles for pulmonary drug delivery |url=https://linkinghub.elsevier.com/retrieve/pii/S0169409X2100346X |journal=Advanced Drug Delivery Reviews |language=en |volume=177 |pages=113953 |doi=10.1016/j.addr.2021.113953|pmid=34474094 }}&lt;/ref&gt; and the use of porous drug particles to improve pulmonary delivery efficacy.&lt;ref&gt;{{Cite journal |last1=Duong |first1=Thoa |last2=López-Iglesias |first2=Clara |last3=Szewczyk |first3=Piotr K. |last4=Stachewicz |first4=Urszula |last5=Barros |first5=Joana |last6=Alvarez-Lorenzo |first6=Carmen |last7=Alnaief |first7=Mohammad |last8=García-González |first8=Carlos A. |date=2021-05-04 |title=A Pathway From Porous Particle Technology Toward Tailoring Aerogels for Pulmonary Drug Administration |journal=Frontiers in Bioengineering and Biotechnology |volume=9 |pages=671381 |doi=10.3389/fbioe.2021.671381 |issn=2296-4185 |pmc=8129550 |pmid=34017828|doi-access=free }}&lt;/ref&gt;
+
+== See also ==
+
+* [[Route of administration]]
+* [[Inhaler]]
+* [[Metered-dose inhaler]]
+* [[Dry-powder inhaler|Dry powder inhaler]]
+* [[Nebulizer]]
+* [[Respiratory tract]]
+* [[Respiratory system]]
+* [[Lung]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Routes of administration]]
+[[Category:Medical terminology]]</text>
+      <sha1>af33g9mepaix92i9atm3tba6g09fu4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bronchodilator</title>
+    <ns>0</ns>
+    <id>66388</id>
+    <revision>
+      <id>1190297228</id>
+      <parentid>1190282893</parentid>
+      <timestamp>2023-12-17T02:48:10Z</timestamp>
+      <contributor>
+        <username>AManWithNoPlan</username>
+        <id>12416903</id>
+      </contributor>
+      <comment>better ur</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13376" xml:space="preserve">{{Short description|Substance that decreases resistance in respiratory airways and increases airflow to the lungs}}
+{{Infobox medical intervention
+| name         = Bronchodilator
+| synonym      =
+| image        =
+| caption      =
+| alt          =
+| pronounce    =
+| specialty    = [[Pulmonology]]
+| synonyms     =
+| ICD10        =
+| ICD9         =
+| ICD9unlinked =
+| CPT          =
+| MeshID       =
+| LOINC        =
+| other_codes  =
+| MedlinePlus  =
+| eMedicine    =
+}}
+A '''bronchodilator''' or broncholytic&lt;ref&gt;{{Cite book | url=https://books.google.com/books?id=OA37DQAAQBAJ&amp;q=broncholytic+bronchodilator+dictionary&amp;pg=PA320 | title=Taber's Cyclopedic Medical Dictionary| isbn=9780803659407| last1=Venes| first1=Donald| date=2017-01-25| publisher=F.A. Davis}}&lt;/ref&gt; (although the latter occasionally includes [[Mucus#Mucus hypersecretion|secretory]] inhibition as well) is a substance that dilates the [[Bronchus|bronchi]] and [[bronchiole]]s, decreasing resistance in the [[respiratory system|respiratory airway]] and increasing airflow to the [[lung]]s. Bronchodilators may be [[endogenous|originating naturally within the body]], or they may be [[medication]]s administered for the treatment of breathing difficulties, usually in the form of [[inhaler]]s. They are most useful in [[obstructive lung disease]]s, of which [[asthma]] and [[chronic obstructive pulmonary disease]] are the most common conditions. Although this remains somewhat controversial, they might be useful in [[bronchiolitis]] and [[bronchiectasis]]. They are often prescribed but of unproven significance in [[restrictive lung disease]]s.&lt;ref name="SatheKrishnaswami2015"&gt;{{cite journal | vauthors = Sathe NA, Krishnaswami S, Andrews J, Ficzere C, McPheeters ML | title = Pharmacologic Agents That Promote Airway Clearance in Hospitalized Subjects: A Systematic Review | journal = Respiratory Care | volume = 60 | issue = 7 | pages = 1061–70 | date = July 2015 | pmid = 25944943 | doi = 10.4187/respcare.04086 | s2cid = 7017557 | url = http://rc.rcjournal.com/content/respcare/60/7/1061.full.pdf | doi-access = free }}&lt;/ref&gt;
+
+Bronchodilators are either short-acting or long-acting. Short-acting medications provide quick or "rescue" relief from acute [[bronchoconstriction]]. Long-acting bronchodilators help to control and prevent symptoms. The three types of prescription bronchodilating drugs are [[beta2-adrenergic agonist]]s (short- and long-acting), [[anticholinergics]] (short- and long-acting), and [[theophylline]] (long-acting).
+
+==Short-acting β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonists==
+These are quick-relief or "rescue" medications that provide quick, temporary relief from asthma symptoms or flare-ups. These medications usually take effect within 20 minutes or less, and can last from four to six hours. These inhaled medications are best for treating sudden and severe or new asthma symptoms. Taken 15 to 20 minutes ahead of time, these medications can also prevent asthma symptoms triggered by exercise or exposure to cold air. Some short-acting β-agonists, such as [[salbutamol]], are specific to the lungs; they are called β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonists and can relieve bronchospasms without unwanted [[cardiac]] side effects of nonspecific β-agonists (for example, [[ephedrine]] or [[epinephrine]]). Patients who regularly or frequently need to take a short-acting β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonist should consult their doctor, as such usage indicates uncontrolled asthma, and their routine medications may need adjustment.{{citation needed|date=February 2022}}
+
+==Long-acting β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonists==
+{{main article|Long-acting beta-adrenoceptor agonist}}
+These are long-term medications taken routinely in order to control and prevent bronchoconstriction. They are not intended for fast relief. These medications may take longer to begin working, but relieve airway constriction for up to 12 hours.
+Commonly taken twice a day with an anti-inflammatory medication, they maintain open airways and prevent asthma symptoms, particularly at night.{{citation needed|date=February 2022}}
+
+[[Salmeterol]] and [[formoterol]] are examples of these.
+
+==Anticholinergics==
+{{main article|Anticholinergics}}
+
+Some examples of anticholinergics are [[tiotropium]] (Spiriva) and [[ipratropium|ipratropium bromide]].{{citation needed|date=February 2022}}
+
+Tiotropium is a long-acting, 24-hour, anticholinergic bronchodilator used in the management of [[chronic obstructive pulmonary disease]] (COPD).
+
+Only available as an inhalant, ipratropium bromide is used in the treatment of asthma and COPD. As a short-acting anticholinergic, it improves lung function and reduces the risk of exacerbation in people with symptomatic asthma.&lt;ref&gt;{{cite journal | vauthors = Price D, Fromer L, Kaplan A, van der Molen T, Román-Rodríguez M | title = Is there a rationale and role for long-acting anticholinergic bronchodilators in asthma? | journal = npj Primary Care Respiratory Medicine | volume = 24 | issue = 1 | pages = 14023 | date = July 2014 | pmid = 25030457 | doi = 10.1038/npjpcrm.2014.23 | pmc = 4373380 }}&lt;/ref&gt; However, it will not stop an asthma attack already in progress. Because it has no effect on asthma symptoms when used alone, it is most often paired with a short-acting β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonist. While it is considered a relief or rescue medication, it can take a full hour to begin working. For this reason, it plays a secondary role in acute asthma treatment. Dry throat is the most common side effect. If the medication gets in contact with the eyes, it may cause blurred vision for a brief time.
+
+The use of anticholinergics in combination with short-acting β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonists has been shown to reduce hospital admissions in children and adults with acute asthma exacerbations.&lt;ref&gt;{{cite journal | vauthors = Rodrigo GJ, Castro-Rodriguez JA | title = Anticholinergics in the treatment of children and adults with acute asthma: a systematic review with meta-analysis | journal = Thorax | volume = 60 | issue = 9 | pages = 740–6 | date = September 2005 | pmid = 16055613 | pmc = 1747524 | doi = 10.1136/thx.2005.040444 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Griffiths B, Ducharme FM | title = Combined inhaled anticholinergics and short-acting beta2-agonists for initial treatment of acute asthma in children | journal = Paediatric Respiratory Reviews | volume = 14 | issue = 4 | pages = 234–5 | date = December 2013 | pmid = 24070913 | doi = 10.1016/j.prrv.2013.08.002 }}&lt;/ref&gt;
+
+==Other==
+Available in oral and injectable form, [[theophylline]] is a long-acting bronchodilator that prevents asthma episodes. It belongs to the chemical class [[methylxanthine]]s (along with caffeine). It is prescribed in severe cases of asthma or those that are difficult to control. It must be taken 1–4 times daily, and doses cannot be missed. Blood tests are required to monitor therapy and to indicate when dosage adjustment is necessary. Side effects can include nausea, vomiting, diarrhea, stomach or headache, rapid or irregular heart beat, muscle cramps, nervous or jittery feelings, and hyperactivity. These symptoms may signal the need for an adjustment in medication. It may promote [[Gastroesophageal reflux disease|acid reflux]], also known as GERD, by relaxing the lower esophageal sphincter muscle. Some medications, such as seizure and ulcer medications and antibiotics containing [[erythromycin]], can interfere with the way theophylline works. Coffee, tea, colas, cigarette-smoking, and viral illnesses can all affect the action of theophylline and change its effectiveness. A physician should monitor dosage levels to meet each patient's profile and needs.
+
+Additionally, some [[psychostimulant]] drugs that have an amphetamine like mode of action, such as [[amphetamine]],&lt;ref&gt;[https://web.archive.org/web/20080720082430/http://www.medic8.com/medicines/Amphetamine.html Amphetamine] is listed as having medical uses as bronchodilator. Medic8&lt;/ref&gt; [[methamphetamine]], and [[cocaine]],&lt;ref&gt;{{cite book | first = Dominic | last = Streatfeild | name-list-style = vanc | title = Cocaine: An Unauthorized Biography | url = https://books.google.com/books?id=9ceLzaeHsZAC&amp;pg=PA110 | access-date = 14 February 2011 | date = 17 June 2003 | publisher = Macmillan | isbn = 978-0-312-42226-4 | pages = 110 }}&lt;/ref&gt; have bronchodilating effects and were used often for [[asthma]] due to the lack of effective β&lt;sub&gt;2&lt;/sub&gt;-adrenergic agonists for use as bronchodilator, but are now rarely, if ever, used medically for their bronchodilatory effects.
+
+Gaseous [[carbon dioxide]] also relaxes airway musculature: [[hypocapnia]] caused by deliberate [[hyperventilation]] increases respiratory resistance while [[hypercapnia]] induced by carbon dioxide inhalation reduces it;&lt;ref&gt;{{Cite journal |last1=van den Elshout |first1=F. J. |last2=van Herwaarden |first2=C. L. |last3=Folgering |first3=H. T. |date=January 1991 |title=Effects of hypercapnia and hypocapnia on respiratory resistance in normal and asthmatic subjects. |journal=Thorax |volume=46 |issue=1 |pages=28–32 |doi=10.1136/thx.46.1.28 |issn=0040-6376 |pmc=1020910 |pmid=1908137}}&lt;/ref&gt; however, this bronchodilating effect of carbon dioxide inhalation only lasts 4 to 5 minutes.&lt;ref&gt;{{Cite journal |last1=Fisher |first1=H. K. |last2=Hansen |first2=T. A. |date=November 1976 |title=Site of action of inhaled 6 per cent carbon dioxide in the lungs of asthmatic subjects before and after exercise |url=https://www.atsjournals.org/doi/10.1164/arrd.1976.114.5.86 |journal=The American Review of Respiratory Disease |volume=114 |issue=5 |pages=861–870 |doi=10.1164/arrd.1976.114.5.861 |doi-broken-date=2023-12-17 |issn=0003-0805 |pmid=984580}}&lt;/ref&gt; Nonetheless, this observation has inspired the development of [[S-1226]], carbon dioxide-enriched air formulated with [[Nebulizer|nebulized]] [[perflubron]].&lt;ref&gt;{{Cite journal |last1=Green |first1=Francis H. Y. |last2=Leigh |first2=Richard |last3=Fadayomi |first3=Morenike |last4=Lalli |first4=Gurkeet |last5=Chiu |first5=Andrea |last6=Shrestha |first6=Grishma |last7=ElShahat |first7=Sharif G. |last8=Nelson |first8=David Evan |last9=El Mays |first9=Tamer Y. |last10=Pieron |first10=Cora A. |last11=Dennis |first11=John H. |date=2016-07-28 |title=A phase I, placebo-controlled, randomized, double-blind, single ascending dose-ranging study to evaluate the safety and tolerability of a novel biophysical bronchodilator (S-1226) administered by nebulization in healthy volunteers |journal=Trials |volume=17 |pages=361 |doi=10.1186/s13063-016-1489-8 |issn=1745-6215 |pmc=4964056 |pmid=27464582 |doi-access=free }}&lt;/ref&gt;
+
+==Common bronchodilators==
+The bronchodilators are divided into short- and long-acting groups. Short-acting bronchodilators are used for relief of bronchoconstriction, while long-acting bronchodilators are predominantly used for prevention.
+
+Short-acting bronchodilators include:
+* [[Salbutamol]]/albuterol (Proventil or Ventolin)
+* [[Levosalbutamol]]/levalbuterol (Xopenex)
+* [[Pirbuterol]] (Maxair)
+* [[Epinephrine]] (Primatene Mist)
+* [[Racemic epinephrine|Racemic Epinephrine]] (Asthmanefrin, Primatene Mist Replacement)
+* [[Ephedrine]] (Bronkaid)
+* [[Terbutaline]]
+
+Long-acting bronchodilators include
+* [[Salmeterol]] (Serevent or Seretide)
+* [[Clenbuterol]] (Spiropent)
+* [[Formoterol]]
+* [[Bambuterol]]
+* [[Indacaterol]]
+
+== Experimental bronchodilator ==
+From among 6000 compounds that relax the smooth muscle cells of the lungs' airways and open up the airways in asthmatic lung tissues, researchers have identified a drug called TSG12. TSG12 is a specific transgelin-2 (TG2)-agonist that relaxes airway smooth muscle cells and reduces asthmatic pulmonary resistance. The authors claim that "TSG12 is both non-toxic and more effective in reducing pulmonary resistance than current bronchodilators and could be a promising therapeutic approach for treating asthma without losing effectiveness over time."&lt;ref&gt;[https://www.eurekalert.org/pub_releases/2018-02/ru-nti020618.php  New drug therapy could lead to more effective treatment for millions with asthma]&lt;/ref&gt;&lt;ref&gt;{{cite journal | doi=10.1126/scitranslmed.aam8604 | title=Transgelin-2 as a therapeutic target for asthmatic pulmonary resistance | year=2018 | last1=Yin | first1=Lei-Miao | last2=Xu | first2=Yu-Dong | last3=Peng | first3=Ling-Ling | last4=Duan | first4=Ting-Ting | last5=Liu | first5=Jia-Yuan | last6=Xu | first6=Zhijian | last7=Wang | first7=Wen-Qian | last8=Guan | first8=Nan | last9=Han | first9=Xiao-Jie | last10=Li | first10=Hai-Yan | last11=Pang | first11=Yu | last12=Wang | first12=Yu | last13=Chen | first13=Zhaoqiang | last14=Zhu | first14=Weiliang | last15=Deng | first15=Linhong | last16=Wu | first16=Ying-Li | last17=Ge | first17=Guang-Bo | last18=Huang | first18=Shuang | last19=Ulloa | first19=Luis | last20=Yang | first20=Yong-Qing | journal=Science Translational Medicine | volume=10 | issue=427 | pmid=29437149 | pmc=6310021 }}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.nlm.nih.gov/medlineplus/druginformation.html Drug information]
+
+{{Major Drug Groups}}
+{{Drugs for obstructive airway diseases}}
+{{Respiratory physiology}}
+{{Authority control}}
+
+[[Category:Bronchodilators| ]]
+[[Category:Respiratory physiology]]
+[[Category:Respiratory therapy]]
+[[Category:Pulmonary function testing]]</text>
+      <sha1>pmeunzvqtj9p9zjg7i7yaqztfclapsp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Budesonide/formoterol</title>
+    <ns>0</ns>
+    <id>1269350</id>
+    <revision>
+      <id>1183569212</id>
+      <parentid>1183569198</parentid>
+      <timestamp>2023-11-05T03:36:25Z</timestamp>
+      <contributor>
+        <username>Buidhe</username>
+        <id>16680171</id>
+      </contributor>
+      <minor/>
+      <comment>Moving from [[Category:Combination drugs]] to [[Category:Combination asthma drugs]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17430" xml:space="preserve">{{Short description|Management of asthma &amp; chronic obstructive pulmonary disease}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox drug
+| verifiedrevid = 448962189
+| drug_name =
+| INN =
+| type = combo
+| image = Budesonide and formoterol.svg
+| width =
+| alt=
+| caption=
+
+&lt;!--Combo data--&gt;
+| component1 = Budesonide
+| class1 = [[Glucocorticoids]]
+| component2 = Formoterol
+| class2 = [[Long-acting beta-adrenoceptor agonist]]
+
+&lt;!-- Clinical data --&gt;
+| pronounce         =
+| tradename         = Symbicort, DuoResp Spiromax, BiResp Spiromax, others
+| Drugs.com         = {{drugs.com|ppa|budesonide-and-formoterol}}
+| MedlinePlus       =
+| licence_CA        = &lt;!-- Health Canada may use generic or brand name (generic name preferred) --&gt;
+| licence_EU        = yes
+| DailyMedID        = Budesonide_and_formoterol
+| licence_US        = Symbicort
+| pregnancy_AU      = B3
+| pregnancy_AU_comment = &lt;ref name="Drugs.com Pregnancy"&gt;{{cite web | title=Budesonide / formoterol (Symbicort) Use During Pregnancy | website=Drugs.com | date=28 August 2019 | url=https://www.drugs.com/pregnancy/budesonide-formoterol.html | access-date=13 April 2020}}&lt;/ref&gt;
+| pregnancy_category=
+| routes_of_administration = [[Inhalation administration|Inhalation]]&lt;ref name="Symbicort FDA label" /&gt;
+| class             =
+| ATCvet            =
+| ATC_prefix        = R03
+| ATC_suffix        = AK07
+| ATC_supplemental  =
+
+&lt;!-- Legal status --&gt;
+| legal_AU = S4
+| legal_AU_comment =
+| legal_BR =  &lt;!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F--&gt;
+| legal_BR_comment =
+| legal_CA = &lt;!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII --&gt;
+| legal_CA_comment =
+| legal_DE = &lt;!-- Anlage I, II, III or Unscheduled--&gt;
+| legal_DE_comment =
+| legal_NZ = &lt;!-- Class A, B, C --&gt;
+| legal_NZ_comment =
+| legal_UK = POM
+| legal_UK_comment = &lt;ref name="EMC symbicort"&gt;{{cite web | title=Symbicort Turbohaler 200/6 Inhalation powder - Summary of Product Characteristics (SmPC) | website=(emc) | date=30 August 2019 | url=https://www.medicines.org.uk/emc/product/1327/smpc | access-date=13 April 2020}}&lt;/ref&gt;
+| legal_US = Rx-only
+| legal_US_comment = &lt;ref name="Symbicort FDA label" /&gt;
+| legal_EU = Rx-only
+| legal_EU_comment = &lt;ref name="BiResp Spiromax EPAR" /&gt;
+| legal_UN = &lt;!-- N I, II, III, IV / P I, II, III, IV--&gt;
+| legal_UN_comment =
+| legal_status      = Rx-only
+
+&lt;!-- Identifiers --&gt;
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 150693-37-1
+| CAS_supplemental  =
+| PubChem =
+| PubChemSubstance  =
+| IUPHAR_ligand     =
+| DrugBank_Ref =
+| DrugBank =
+| ChemSpiderID      =
+| UNII              =
+| KEGG              = D09595
+| ChEBI             =
+| ChEMBL            =
+| NIAID_ChemDB      =
+| PDB_ligand        =
+| synonyms          =
+
+&lt;!-- Chemical and physical data --&gt;
+| IUPAC_name        =
+| C=44 | H=58 | N=2 | O=10
+| SMILES            = CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C.CC(CC1=CC=C(C=C1)OC)NCC(C2=CC(=C(C=C2)O)NC=O)O
+| StdInChI          = 1S/C25H34O6.C19H24N2O4/c1-4-5-21-30-20-11-17-16-7-6-14-10-15(27)8-9-23(14,2)22(16)18(28)12-24(17,3)25(20,31-21)19(29)13-26;1-13(9-14-3-6-16(25-2)7-4-14)20-11-19(24)15-5-8-18(23)17(10-15)21-12-22/h8-10,16-18,20-22,26,28H,4-7,11-13H2,1-3H3;3-8,10,12-13,19-20,23-24H,9,11H2,1-2H3,(H,21,22)/t16-,17-,18-,20+,21?,22+,23-,24-,25+;13-,19+/m00/s1
+| StdInChI_comment  =
+| StdInChIKey       = PJFHZKIDENOSJB-JIVDDGRNSA-N
+| density           =
+| density_notes     =
+| melting_point     =
+| melting_high      =
+| melting_notes     =
+| boiling_point     =
+| boiling_notes     =
+| solubility        =
+| sol_units         =
+| specific_rotation =
+}}
+
+&lt;!-- Definition and medical uses --&gt;
+'''Budesonide/formoterol''', sold under the brand name '''Symbicort''' among others, is a [[fixed-dose combination]] medication used in the management of [[asthma]] or [[chronic obstructive pulmonary disease]] (COPD).&lt;ref name="Symbicort FDA label" /&gt; It contains [[budesonide]], a [[corticosteroid|steroid]] and [[formoterol]], a [[Long-acting beta-adrenoceptor agonist|long-acting β&lt;small&gt;2&lt;/small&gt;-agonist]] (LABA).&lt;ref name="Symbicort FDA label" /&gt; The product [[Monograph#In United States Food and Drug Administration regulation|monograph]] does not support its use for sudden worsening or treatment of active [[bronchospasm]].&lt;ref name="Symbicort FDA label" /&gt;&lt;!-- Quote = is NOT indicated for the relief of acute bronchospasm. --&gt; However, a 2020 review of the literature does support such use.&lt;ref name=Jen2020&gt;{{cite journal | vauthors = Jenkins CR, Bateman ED, Sears MR, O'Byrne PM | title = What have we learnt about asthma control from trials of budesonide/formoterol as maintenance and reliever? | journal = Respirology | volume = 25 | issue = 8 | pages = 804–815 | date = August 2020 | pmid = 32237004 | doi = 10.1111/resp.13804 | doi-access = free }}&lt;/ref&gt; It is used by [[inhalation|breathing in the medication]].&lt;ref name="Symbicort FDA label"&gt;{{cite web | title=Symbicort- budesonide and formoterol fumarate dihydrate aerosol | website=DailyMed | date=24 July 2019 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fafa4cf1-99c2-43d5-73ad-51f256de3be0 | access-date=29 April 2020}}&lt;/ref&gt;
+
+&lt;!-- Side effects and mechanism --&gt;
+Common (≥1/100 to &lt;1/10) side effects include [[candidiasis]], [[headache]], [[tremor]], [[palpitations]], throat irritation, coughing, and [[dysphonia]].&lt;ref&gt;{{cite web |url=https://www.medicines.ie/medicines/symbicort-turbohaler-100-6-33890/spc |title=Symbicort Turbohaler 100/6 Summary of Product Characteristics |author=&lt;!--Not stated--&gt; |date=2 February 2021 |website=Medicines.ie |publisher=Irish Pharmaceutical Healthcare Association |access-date=2 July 2021 |quote=}}&lt;/ref&gt; Pneumonia is a common side effect in people with COPD, and other, less common side effects have been documented.&lt;ref name="Symbicort FDA label" /&gt;&lt;ref name="EMC symbicort"/&gt; There were concerns that the LABA component increases the risk of death in children with asthma, however these concerns were removed in 2017.&lt;ref name=FDA2017Dec&gt;{{cite web|title=Safety Alerts for Human Medical Products - Long-Acting Beta agonists (LABAs) and Inhaled Corticosteroids (ICS): Drug Safety Communication - Boxed Warning About Asthma-Related Death Removed|url=https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm590001.htm|website=FDA|access-date=23 December 2017}}&lt;/ref&gt; Therefore, this combination is only recommended in those who are not controlled on an [[inhaled steroid]] alone.&lt;ref name="Symbicort FDA label" /&gt; There is tentative evidence that typical doses of inhaled steroids and LABAs are safe in pregnancy.&lt;ref&gt;{{Cite web|title=Global Strategy for Asthma Management and Prevention|url=https://ginasthma.org/wp-content/uploads/2020/04/GINA-2020-full-report_-final-_wms.pdf|date=2020|website=Ginasthma.org|page=90|access-date=9 May 2020|quote=evidence for safety of usual doses of ICS and LABA}}&lt;/ref&gt; Both formoterol and budesonide are excreted in breast-milk.&lt;ref name="Drugs.com Pregnancy"&gt;{{cite web | title=Budesonide / formoterol (Symbicort) Use During Pregnancy | website=Drugs.com | date=28 August 2019 | url=https://www.drugs.com/pregnancy/budesonide-formoterol.html | access-date=13 April 2020}}&lt;/ref&gt;
+
+&lt;!-- History and culture --&gt;
+Budesonide/formoterol was approved for medical use in the United States in 2006.&lt;ref name="Symbicort FDA label" /&gt;&lt;ref name="FDA approval" /&gt; It is on the [[WHO Model List of Essential Medicines|World Health Organization's List of Essential Medicines]].&lt;ref name="WHO21st"&gt;{{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 21st list 2019 | year = 2019 | hdl = 10665/325771 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MVP/EMP/IAU/2019.06. License: CC BY-NC-SA 3.0 IGO | hdl-access=free }}&lt;/ref&gt;&lt;ref name="WHO22nd"&gt;{{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 22nd list (2021) | year = 2021 | hdl = 10665/345533 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MHP/HPS/EML/2021.02 | hdl-access=free }}&lt;/ref&gt;  It is available as a [[generic medication]].&lt;ref&gt;{{cite press release | title=FDA Approves First Generic of Symbicort to Treat Asthma and COPD | website=U.S. Food and Drug Administration | date=15 March 2022 | url=https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-symbicort-treat-asthma-and-copd | access-date=15 March 2022}}&lt;/ref&gt; In 2020, it was the 61st most commonly prescribed medication in the United States, with more than 11{{nbsp}}million prescriptions.&lt;ref&gt;{{cite web |title=The Top 300 of 2020 |url=https://clincalc.com/DrugStats/Top300Drugs.aspx |website=ClinCalc |access-date=7 October 2022}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=Budesonide; Formoterol - Drug Usage Statistics | website=ClinCalc | url=https://clincalc.com/DrugStats/Drugs/BudesonideFormoterol | access-date=7 October 2022}}&lt;/ref&gt;
+
+==Medical uses==
+===Maintenance===
+Budesonide/formoterol has shown efficacy to prevent asthma attacks.&lt;ref name="Jen2020"/&gt; It is unclear if the efficacy of budesonide/formoterol differs from that of [[Fluticasone/salmeterol|fluticasone and salmeterol]] in chronic asthma.&lt;ref&gt;{{cite journal | vauthors = Lasserson TJ, Ferrara G, Casali L | title = Combination fluticasone and salmeterol versus fixed dose combination budesonide and formoterol for chronic asthma in adults and children | journal = The Cochrane Database of Systematic Reviews | issue = 12 | pages = CD004106 | date = December 2011 | pmid = 22161385 | doi = 10.1002/14651858.CD004106.pub4 | collaboration = Cochrane Airways Group }}&lt;/ref&gt;
+
+===Exacerbation===
+The combination is approved in the United States only as a maintenance medication in asthma and chronic obstructive pulmonary disease (COPD).&lt;ref name="Symbicort FDA label" /&gt; However, a 2020 review of the literature does support use as needed during acute worsening in those with mild disease, and as maintenance followed by extra doses during worsening.&lt;ref name=Jen2020/&gt;
+
+Use for both maintenance and as-needed treatment is also known as single maintenance and reliever therapy (SMART) and is a well-established treatment.&lt;ref name=Kew2013&gt;{{cite journal | vauthors = Kew KM, Karner C, Mindus SM, Ferrara G | title = Combination formoterol and budesonide as maintenance and reliever therapy versus combination inhaler maintenance for chronic asthma in adults and children | journal = The Cochrane Database of Systematic Reviews | volume = 2013 | issue = 12 | pages = CD009019 | date = December 2013 | pmid = 24343671 | pmc = 8949777 | doi = 10.1002/14651858.CD009019.pub2 | collaboration = Cochrane Airways Group }}&lt;/ref&gt;&lt;ref name=Sob2018&gt;{{cite journal | vauthors = Sobieraj DM, Weeda ER, Nguyen E, Coleman CI, White CM, Lazarus SC, Blake KV, Lang JE, Baker WL | display-authors = 6 | title = Association of Inhaled Corticosteroids and Long-Acting β-Agonists as Controller and Quick Relief Therapy With Exacerbations and Symptom Control in Persistent Asthma: A Systematic Review and Meta-analysis | journal = JAMA | volume = 319 | issue = 14 | pages = 1485–1496 | date = April 2018 | pmid = 29554195 | pmc = 5876810 | doi = 10.1001/jama.2018.2769 }}&lt;/ref&gt; It has been shown to, 1) reduce asthma exacerbations that require oral corticosteroids, 2) reduce hospital visits better than maintenance on inhaled corticosteroids alone at a higher dose, or 3) inhaled corticosteroid at the same or higher dose together with a long-acting bronchodilator (LABA), with a short-acting bronchodilator (SABA) as a reliever.&lt;ref name=Kew2013 /&gt;&lt;ref name=Sob2018 /&gt;
+
+==Side effects==
+
+===Common (up to 1 in 10 people)===
+*Mild [[throat irritation]]
+*[[Cough]]ing
+*[[Hoarse voice|Hoarseness]]
+*Oral [[candidiasis]] (thrush. significantly less likely if the patient rinses their mouth out with water after inhalations)
+*[[Headache]]
+
+Often mild, and usually disappear as the medication continues to be used:
+
+* [[Palpitations|Heart palpitations]]
+* [[Tremor|Trembling]]
+
+===Uncommon (up to 1 in 100 people)===
+
+*Feeling restlessness, nervous, or agitated
+*Disturbed sleep
+*Feeling dizzy
+*[[Nausea]]
+*[[Tachycardia]] (fast heart rate)
+*[[Bruise|Bruising]] of the skin
+*[[Muscle cramps]]
+
+===Rare (up to 1 in 1,000 people)===
+
+*[[Rash]]
+*[[Itch]]iness
+*[[Bronchospasm]] (tightening of the muscles in the airways causing wheezing immediately after use of the medication, which is possibly sign of an allergic reaction and should be met with immediate medical attention)
+*[[Hypokalemia]] (low levels of potassium in the blood)
+*[[Heart arrhythmia]]
+
+===Very rare (up to 1 in 10,000 people)===
+
+*[[Depression (mood)|Depression]]
+*Changes in behaviour, especially in children
+*[[Chest pain]] or tightness in chest
+*Increase in [[Blood sugar level|blood glucose levels]]
+*Taste changes, such as an unpleasant taste in the mouth
+*Changes in [[blood pressure]]
+
+===Other===
+With high doses for a long period of time.
+
+* Reduced bone mineral density, causing [[osteoporosis]]
+* [[Cataract]]s
+* [[Glaucoma]]
+* [[Delayed milestone|Slowed rate of growth]] in children and adolescents
+* [[Adrenal gland disorder|Dysfunction of the adrenal gland]], which affects the production of various hormones
+&lt;ref&gt;{{cite web|url=https://www.medicines.org.uk/emc/product/1326/pil|work=[[Electronic Medicines Compendium]]|title=Symbicort Turbohaler 100/6, Inhalation powder - Patient Information Leaflet|date=September 2020|access-date=9 September 2021}}&lt;/ref&gt;
+
+=== Allergic reaction ===
+
+* [[Angioedema]] (swelling of the face, mouth, tongue, and/or throat. Difficulty swallowing. Hives. Difficulty breathing. Feeling of faintness)
+* [[Bronchospasm]] (sudden acute wheezing or shortness of breath immediately after use of medication. The patient should use their reliever medication immediately.)&lt;ref&gt;{{Cite web|url=https://www.hpra.ie/img/uploaded/swedocuments/2164676.PPA1463_051_001.43ee9e2e-b98a-4451-891a-77d7c0b9f5be.000001Product%20Leaflet%20Approved%20(IP).150727.pdf|title=PACKAGE LEAFLET:INFORMATION FOR THE USER Symbicort® Turbohaler® 200 micrograms/6 micrograms/inhalation, inhalation powder budesonide, formoterol fumarate dihydrate|date=July 2015|website=hpra.ie - Health Products Regulatory Authority (Irish state agency)|archive-url=https://web.archive.org/web/20180809190546/https://www.hpra.ie/img/uploaded/swedocuments/2164676.PPA1463_051_001.43ee9e2e-b98a-4451-891a-77d7c0b9f5be.000001Product%20Leaflet%20Approved%20(IP).150727.pdf|archive-date=9 August 2018|url-status=live}}&lt;/ref&gt;
+
+==Society and culture==
+
+===Legal status===
+It was approved for use in the United States in July 2006.&lt;ref name="FDA approval"&gt;{{cite web | title=Drug Approval Package: Symbicort (budesonide/formoterol fumarate dihydrate) NDA #021929 | website=U.S. [[Food and Drug Administration]] (FDA) | date=30 October 2008 | url=https://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021929_symbicort_toc.cfm | access-date=29 April 2020}}&lt;/ref&gt;&lt;ref&gt;{{cite news | vauthors = Haber G | title = AstraZeneca banking on asthma inhaler | url = http://www.delawareonline.com/apps/pbcs.dll/article?AID=/20061119/BUSINESS/611190331/1003/NLETTER01 | publisher = Delaware News-Journal (delawareonline) | date = 19 November 2006 | access-date = 9 July 2020 | archive-url = https://web.archive.org/web/20070930171657/http://www.delawareonline.com/apps/pbcs.dll/article?AID=%2F20061119%2FBUSINESS%2F611190331%2F1003%2FNLETTER01 | archive-date = 30 September 2007 | url-status = dead }}&lt;/ref&gt;
+
+Budesonide/formoterol was approved for use in the European Union in April 2014.&lt;ref name="BiResp Spiromax EPAR"&gt;{{cite web | title=BiResp Spiromax EPAR | website=[[European Medicines Agency]] (EMA) | date=17 September 2018 | url=https://www.ema.europa.eu/en/medicines/human/EPAR/biresp-spiromax | access-date=29 April 2020}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=DuoResp Spiromax EPAR | website=[[European Medicines Agency]] (EMA) | date=17 September 2018 | url=https://www.ema.europa.eu/en/medicines/human/EPAR/duoresp-spiromax | access-date=29 April 2020}}&lt;/ref&gt;
+
+There are several patents related to the drug; some of which have expired.&lt;ref&gt;{{cite web | title = Has a generic version of Symbicort been approved? | url = https://www.drugs.com/availability/generic-symbicort.html | work = Drugs.com }}&lt;/ref&gt; It was initially marketed by [[AstraZeneca]].
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{cite web| url = https://druginfo.nlm.nih.gov/drugportal/name/budesonide%20mixture%20with%20formoterol | publisher = U.S. National Library of Medicine| work = Drug Information Portal| title = Budesonide mixture with formoterol }}
+* {{cite web | title=Budesonide Oral Inhalation | website=MedlinePlus | url=https://medlineplus.gov/druginfo/meds/a699056.html }}
+* {{cite web | title=Formoterol Oral Inhalation | website=MedlinePlus | url=https://medlineplus.gov/druginfo/meds/a602023.html }}
+
+{{Asthma and copd rx}}
+{{AstraZeneca}}
+{{Portal bar|Medicine}}
+
+{{DEFAULTSORT:Budesonide Formoterol}}
+[[Category:Combination asthma drugs]]
+[[Category:Combination COPD drugs]]
+[[Category:Respiratory agents]]
+[[Category:AstraZeneca brands]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Wikipedia medicine articles ready to translate]]</text>
+      <sha1>jiemigdsfpkt63xjuv57u12ek6yxftw</sha1>
+    </revision>
+  </page>
 </mediawiki>
