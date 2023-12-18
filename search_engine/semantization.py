@@ -4,7 +4,7 @@ from search_engine.parameters import SEMANTIZATOR, NUM_TOPICS
 
 
 def semanticize(vectors, method=SEMANTIZATOR, num_topics=NUM_TOPICS):
-    if method == 'lda':
+    if method == 'ldia':
         semantizator = LatentDirichletAllocation(n_components=num_topics)
     elif method == 'pca':
         semantizator = PCA(n_components=num_topics)

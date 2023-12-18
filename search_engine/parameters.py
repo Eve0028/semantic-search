@@ -28,8 +28,8 @@ SEMANTIZATOR = SEMANTIZATORS[0]
 NUMS_TOPICS = [3, 5, 7]
 NUM_TOPICS = NUMS_TOPICS[0]
 
-SIMILARITY_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
-SIMILARITY_METRIC = SIMILARITY_METRICS[0]
+DISTANCES_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
+DISTANCE_METRIC = DISTANCES_METRICS[0]
 
 DIR_FILES = 'DataManager'
 XML_FILE = 'asthma_40.xml'

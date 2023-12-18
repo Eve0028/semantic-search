@@ -3,8 +3,8 @@ import dearpygui.dearpygui as dpg
 
 from DataManager.tempParser import get_parsed_articles, parse_articles_to_csv
 from search_engine.semantic_search import search
-from search_engine.parameters import TOKENIZERS, VECTORIZERS, SEMANTIZATORS, NUM_TOPICS, SIMILARITY_METRICS, TOKENIZER, \
-    VECTORIZER, SEMANTIZATOR, SIMILARITY_METRIC, XML_FILE, CSV_FILE
+from search_engine.parameters import TOKENIZERS, VECTORIZERS, SEMANTIZATORS, NUM_TOPICS, DISTANCES_METRICS, TOKENIZER, \
+    VECTORIZER, SEMANTIZATOR, DISTANCE_METRIC, XML_FILE, CSV_FILE
 
 # Read articles
 # TODO: Read articles from the database - Jakub
@@ -12,7 +12,7 @@ from search_engine.parameters import TOKENIZERS, VECTORIZERS, SEMANTIZATORS, NUM
 # - ich wczytanie, preprocessing i wczytanie do bazy;
 # - w bazie mogą być już gotowe artykuły od początku (nie musi się odpalać skrypt preprocessignu przy każdym odpaleniu)
 
-# articles = pd.DataFrame(get_parsed_articles(file))
+    # articles = pd.DataFrame(get_parsed_articles(file))
 articles = pd.read_csv(CSV_FILE)
 
 user_query = 'asthma in children'
@@ -23,7 +23,7 @@ similarities = search(
         tokenizer=TOKENIZER,
         vector_method=VECTORIZER,
         semantic_method=SEMANTIZATOR,
-        similarity_metric=SIMILARITY_METRIC,
+        similarity_metric=DISTANCE_METRIC,
         num_topics=NUM_TOPICS,
     )
 articles["similarity"] = similarities
