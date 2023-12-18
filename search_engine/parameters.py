@@ -16,7 +16,7 @@ SYNONYMS = {}
 STEMMERS = ['porter', 'snowball']
 STEMMER = STEMMERS[0]
 
-TOKENIZERS = ['regexp', 'treebank', 'casual']
+TOKENIZERS = ['treebank', 'casual', 'biobert', 'punkt']
 TOKENIZER = TOKENIZERS[2]
 
 VECTORIZERS = ['tfidf', 'bow']
@@ -25,7 +25,9 @@ VECTORIZER = VECTORIZERS[0]
 SEMANTIZATORS = ['pca', 'ldia', 'svd']
 SEMANTIZATOR = SEMANTIZATORS[0]
 
-NUM_TOPICS = 4
+NUM_TOPICS = 5
 
-SIMILARITY_METRICS = ['cosine']
+SIMILARITY_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
 SIMILARITY_METRIC = SIMILARITY_METRICS[0]
+
+FILE = 'asthma_40.xml'
