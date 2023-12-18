@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import re
 import csv
 
+from DataManager.MongoDBManager import MongoDBManager
 from search_engine.parameters import XML_FILE, DIR_FILES, CSV_FILE
 
 NAMESPACE = {'mw': 'http://www.mediawiki.org/xml/export-0.10/'}
@@ -71,7 +72,6 @@ def preprocess_article(text):
 # cleaned_text = preprocess_article(article_text)
 # print(cleaned_text)
 
-
 def get_parsed_articles(xml_file_path):
     parsed_articles = parse_wikipedia_xml(xml_file_path)
     for parsed_article in parsed_articles:
@@ -80,6 +80,16 @@ def get_parsed_articles(xml_file_path):
     return parsed_articles
 
 
+def parse_articles_to_mongodb(xml_file, database_name, collection_name, host='localhost', port=27017):
+    mongo_db_manager = MongoDBManager(database_name, collection_name, host, port)
+    parsed_articles = get_parsed_articles(xml_file)
+
+    for parsed_article in parsed_articles:
+        mongo_db_manager.insert_data(parsed_article['title'], parsed_article['content'], parsed_article['clean_content'])
+
+    #mongo_db_manager.close_connection()
+
+'''
 def dicts_to_csv(dicts, name_of_file):
     exclude_key = 'content'
     [dicti.pop(exclude_key, None) for dicti in dicts]
@@ -96,6 +106,13 @@ def parse_articles_to_csv(xml_file=f'{DIR_FILES}/{XML_FILE}', csv_file=f'{DIR_FI
     parsed = get_parsed_articles(xml_file)
     dicts_to_csv(parsed, csv_file)
 
-
+'''
 # Parse and save new articles
-parse_articles_to_csv()
+#parse_articles_to_csv()
+
+
+xml_file_path = 'asthma_40.xml'
+database_name = 'semantic_search'
+collection_name = 'articles'
+
+parse_articles_to_mongodb(xml_file_path, database_name, collection_name)
