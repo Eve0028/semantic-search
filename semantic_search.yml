@@ -11,3 +11,4 @@ dependencies:
   - pip:
       - dearpygui=1.10.*
       - pymongo=4.6.*
+      - transformers=4.36.*

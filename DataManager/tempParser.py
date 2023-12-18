@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET
 import re
 
-
 NAMESPACE = {'mw': 'http://www.mediawiki.org/xml/export-0.10/'}
 
 
@@ -23,11 +22,6 @@ def parse_wikipedia_xml(xml_file):
     return articles
 
 
-# Przykład użycia
-xml_file_path = 'asthma_7.xml'
-parsed_articles = parse_wikipedia_xml(xml_file_path)
-
-
 def preprocess_article(text):
     # Usuń referencje w <ref></<ref> tags
     text = re.sub(r"<ref>.*?</ref>", '', text)
@@ -38,11 +32,16 @@ def preprocess_article(text):
     # Usuń tagi HTML
     text = re.sub(r'<.*?>', '', text)
 
+    # Usuń wszystko po References, See also, External links
+    text = re.sub(r'==\s*References\s*==.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'==\s*External links\s*==.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'==\s*See also\s*==.*', '', text, flags=re.DOTALL)
+
     # Usuń sekcje kategorii
     text = re.sub(r'\[\[Category:.*?\]\]', '', text)
 
     # Usuń == z tytułów
-    text = re.sub(r'==', '', text, flags=re.DOTALL)
+    text = re.sub(r'=', '', text, flags=re.DOTALL)
 
     # Usuń oznaczenia w formie [[...]], zachowując tytuł i opis zdjęcia
     text = re.sub(r'\[\[File:(?P<title>.*?)\(\d+\).jpg\|thumb\|\[(?P<description>.*?)\]\]',
@@ -65,6 +64,14 @@ def preprocess_article(text):
 
 
 # Przykład użycia
-article_text = parsed_articles[0]['content']
-cleaned_text = preprocess_article(article_text)
-print(cleaned_text)
+# article_text = parsed_articles[0]['content']
+# cleaned_text = preprocess_article(article_text)
+# print(cleaned_text)
+
+
+def get_parsed_articles(xml_file_path):
+    parsed_articles = parse_wikipedia_xml(xml_file_path)
+    for parsed_article in parsed_articles:
+        parsed_article['clean_content'] = preprocess_article(parsed_article['content'])
+    # cleaned_articles = [preprocess_article(parsed_article['content']) for parsed_article in parsed_articles]
+    return parsed_articles
