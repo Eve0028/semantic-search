@@ -1988,28 +1988,6 @@ In adults, it has been demonstrated that limiting minute ventilation is the key 
     </revision>
   </page>
   <page>
-    <title>Cough-variant asthma</title>
-    <ns>0</ns>
-    <id>34449517</id>
-    <redirect title="Asthma" />
-    <revision>
-      <id>472514287</id>
-      <parentid>472513988</parentid>
-      <timestamp>2012-01-21T22:56:23Z</timestamp>
-      <contributor>
-        <username>LadyofShalott</username>
-        <id>991331</id>
-      </contributor>
-      <comment>added [[Category:Asthma]] using [[WP:HC|HotCat]]</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="41" xml:space="preserve">#redirect [[Asthma]]
-
-[[Category:Asthma]]</text>
-      <sha1>hy6cgedt4ygf5fhcec2rr862kpyf9m4</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Bronchospasm</title>
     <ns>0</ns>
     <id>646151</id>
@@ -2404,28 +2382,6 @@ Between 2014-15 and 2019-20 more than 5,100 women in the United Kingdom died fro
 [[Category:Asthma]]
 [[Category:Epidemiology|Asthma]]</text>
       <sha1>8ywm35s814h1s060ls2r46toxof6ri0</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Baker's asthma</title>
-    <ns>0</ns>
-    <id>38669235</id>
-    <redirect title="Wheat allergy" />
-    <revision>
-      <id>541326807</id>
-      <timestamp>2013-02-28T20:01:17Z</timestamp>
-      <contributor>
-        <username>WhatamIdoing</username>
-        <id>1998764</id>
-      </contributor>
-      <comment>[[WP:AES|←]]Redirected page to [[Wheat allergy]]</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="69" xml:space="preserve">#REDIRECT[[Wheat allergy]]
-{{R from other name}}
-
-[[Category:Asthma]]</text>
-      <sha1>sf68aex2tocvkrjkx8xa1aj6hgg5i6y</sha1>
     </revision>
   </page>
   <page>
