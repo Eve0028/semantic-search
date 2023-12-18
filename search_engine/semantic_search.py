@@ -1,4 +1,3 @@
-# TODO: Builder implementation
 import pandas as pd
 
 from search_engine.parameters import TOKENIZER, VECTORIZER, SEMANTIZATOR, NUM_TOPICS, SIMILARITY_METRIC
