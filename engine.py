@@ -1,21 +1,36 @@
 import pandas as pd
 import dearpygui.dearpygui as dpg
 
+from DataManager.tempParser import get_parsed_articles
 from search_engine.semantic_search import search
-from search_engine.parameters import TOKENIZERS, VECTORIZERS, SEMANTIZATORS, NUM_TOPICS, SIMILARITY_METRICS
+from search_engine.parameters import TOKENIZERS, VECTORIZERS, SEMANTIZATORS, NUM_TOPICS, SIMILARITY_METRICS, TOKENIZER, \
+    VECTORIZER, SEMANTIZATOR, SIMILARITY_METRIC, FILE
 
 # Read articles
 # TODO: Read articles from the database - Jakub
 # - W osobnym katalogu (lub od razu w bazie w osobnej kolumnie) mogą być surowe pliki html lub xml
 # - ich wczytanie, preprocessing i wczytanie do bazy;
 # - w bazie mogą być już gotowe artykuły od początku (nie musi się odpalać skrypt preprocessignu przy każdym odpaleniu)
-articles = pd.DataFrame(
-    {'content': ['Tutaj jest artykuł 1', 'A to artykuł numer 2', 'Trzeci artykuł', 'Bla lbabla']})
 
-tokenizer_choice = TOKENIZERS[0]
-vectorizer_choice = VECTORIZERS[0]
-semantic_method_choice = SEMANTIZATORS[0]
-similarity_metric_choice = SIMILARITY_METRICS[0]
+file = f'DataManager/{FILE}'
+articles = pd.DataFrame(get_parsed_articles(file))
+# articles = pd.DataFrame(
+#     {'content': ['Tutaj jest artykuł 1', 'A to artykuł numer 2', 'Trzeci artykuł', 'Bla lbabla']})
+
+user_query = 'asthma in children'
+
+similarities = search(
+        user_query,
+        articles,
+        tokenizer=TOKENIZER,
+        vector_method=VECTORIZER,
+        semantic_method=SEMANTIZATOR,
+        similarity_metric=SIMILARITY_METRIC,
+        num_topics=NUM_TOPICS,
+    )
+articles["similarity"] = similarities
+articles_sorted = articles.sort_values(by="similarity", ascending=False)
+print(articles_sorted)
 
 
 def search_callback():
@@ -56,23 +71,24 @@ def search_callback():
 # print("Najbardziej pasujący artykuł: ")
 # print(best_match_article)
 
-dpg.create_context()
-dpg.create_viewport(title='Semantic Search', width=600, height=300)
 
-with dpg.window(label="Search Engine", width=600, height=300):
-    dpg.add_input_text(label="Query", tag="QueryInput", width=200)
-    dpg.add_combo(label="Tokenizer", items=TOKENIZERS, default_value=tokenizer_choice, tag="TokenizerChoice")
-    dpg.add_combo(label="Vectorizer", items=VECTORIZERS, default_value=vectorizer_choice, tag="VectorizerChoice")
-    dpg.add_combo(label="Semantizator", items=SEMANTIZATORS, default_value=semantic_method_choice,
-                  tag="SemantizatorChoice")
-    dpg.add_combo(label="Similarity Metric", items=SIMILARITY_METRICS, default_value=similarity_metric_choice,
-                  tag="SimilarityMetricChoice")
-    dpg.add_button(label="Search", callback=search_callback)
-    dpg.add_text("Results:")
-    dpg.add_text("", tag="ResultsOutput", wrap=500)
-
-# Run Dear PyGui
-dpg.setup_dearpygui()
-dpg.show_viewport()
-dpg.start_dearpygui()
-dpg.destroy_context()
+# dpg.create_context()
+# dpg.create_viewport(title='Semantic Search', width=600, height=300)
+#
+# with dpg.window(label="Search Engine", width=600, height=300):
+#     dpg.add_input_text(label="Query", tag="QueryInput", width=200)
+#     dpg.add_combo(label="Tokenizer", items=TOKENIZERS, default_value=tokenizer_choice, tag="TokenizerChoice")
+#     dpg.add_combo(label="Vectorizer", items=VECTORIZERS, default_value=vectorizer_choice, tag="VectorizerChoice")
+#     dpg.add_combo(label="Semantizator", items=SEMANTIZATORS, default_value=semantic_method_choice,
+#                   tag="SemantizatorChoice")
+#     dpg.add_combo(label="Similarity Metric", items=SIMILARITY_METRICS, default_value=similarity_metric_choice,
+#                   tag="SimilarityMetricChoice")
+#     dpg.add_button(label="Search", callback=search_callback)
+#     dpg.add_text("Results:")
+#     dpg.add_text("", tag="ResultsOutput", wrap=500)
+#
+# # Run Dear PyGui
+# dpg.setup_dearpygui()
+# dpg.show_viewport()
+# dpg.start_dearpygui()
+# dpg.destroy_context()
