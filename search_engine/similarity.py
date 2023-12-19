@@ -1,5 +1,4 @@
-from sklearn.metrics import DistanceMetric
-from sklearn.metrics.pairwise import cosine_similarity, pairwise_distances
+from sklearn.metrics.pairwise import pairwise_distances
 
 from search_engine.parameters import DISTANCE_METRIC, DISTANCES_METRICS
 

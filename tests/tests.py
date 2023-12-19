@@ -55,7 +55,7 @@ def calculate_metrics_for_parameters(queries, labels, articles: pd.Series, outpu
                                     distances = search(query, articles, tokenizer=tokenizer,
                                                        vector_method=vectorizer,
                                                        semantic_method=semantizator, num_topics=num_topics,
-                                                       similarity_metric=similarity_metric)
+                                                       distance_metric=similarity_metric)
 
                                     sorted_distances = sorted(distances)
 
@@ -122,14 +122,7 @@ for result in google_results:
         'labels': labels
     })
 
-# print(query_results[0]['titles'])
 df_query_results = pd.DataFrame(query_results)
-
-# df_google_results = pd.DataFrame(google_results)
-# queries = df_google_results['query'].tolist()
-# google_titles = df_google_results['titles'].tolist()
-# articles = pd.read_csv(f'{DIR_FILES}/{CSV_FILE}')
-# articles = articles['clean_content']
 
 # Wywołaj funkcję do obliczania metryk dla różnych parametrów
 # calculate_metrics_for_parameters(df_query_results['query'].tolist(),

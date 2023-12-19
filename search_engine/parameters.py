@@ -15,7 +15,7 @@ SYNONYMS = {}
 
 # STEMMERS = [None, 'porter', 'snowball']
 STEMMERS = [None]
-# STEMMER = STEMMERS[0]
+STEMMER = STEMMERS[0]
 
 # TOKENIZERS = ['treebank', 'casual', 'biobert', 'punkt']
 TOKENIZERS = ['treebank', 'biobert', 'punkt']
@@ -25,8 +25,8 @@ TOKENIZER = TOKENIZERS[2]
 VECTORIZERS = ['tfidf']
 VECTORIZER = VECTORIZERS[0]
 
-SEMANTIZATORS = ['pca', 'ldia', 'svd']
-# SEMANTIZATORS = ['pca', 'svd']
+# SEMANTIZATORS = ['pca', 'ldia', 'svd']
+SEMANTIZATORS = ['pca', 'svd']
 SEMANTIZATOR = SEMANTIZATORS[0]
 
 # NUMS_TOPICS = [3, 5, 7, 10, 12]
@@ -41,5 +41,3 @@ DIR_FILES = 'DataManager'
 XML_FILE = 'asthma_40.xml'
 CSV_FILE = 'parsed_articles.csv'
 TEST_RESULTS_DIR = 'tests'
-
-

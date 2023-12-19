@@ -3,7 +3,6 @@ import pandas as pd
 
 from search_engine.parameters import TOKENIZER, VECTORIZER
 from search_engine.tokenizer import get_tokenizer
-# from search_engine.tokenizer import tokenize
 
 
 def vectorize(texts: pd.Series, method=VECTORIZER, tokenizer=TOKENIZER):
@@ -14,9 +13,7 @@ def vectorize(texts: pd.Series, method=VECTORIZER, tokenizer=TOKENIZER):
         vectorizer = TfidfVectorizer(tokenizer=tokenizer)
     else:
         raise ValueError("Incorrect vectorizer")
-    # Add other methods
 
     texts = texts.str.lower()
-    # texts = [text.lower() for text in texts]
     vectors = vectorizer.fit_transform(texts).toarray()
     return vectors, vectorizer

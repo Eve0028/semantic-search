@@ -67,11 +67,6 @@ def preprocess_article(text):
     return text.strip()
 
 
-# Przykład użycia
-# article_text = parsed_articles[0]['content']
-# cleaned_text = preprocess_article(article_text)
-# print(cleaned_text)
-
 def get_parsed_articles(xml_file_path):
     parsed_articles = parse_wikipedia_xml(xml_file_path)
     for parsed_article in parsed_articles:
@@ -89,7 +84,7 @@ def parse_articles_to_mongodb(xml_file, database_name, collection_name, host='lo
 
     #mongo_db_manager.close_connection()
 
-'''
+
 def dicts_to_csv(dicts, name_of_file):
     exclude_key = 'content'
     [dicti.pop(exclude_key, None) for dicti in dicts]
@@ -106,13 +101,14 @@ def parse_articles_to_csv(xml_file=f'{DIR_FILES}/{XML_FILE}', csv_file=f'{DIR_FI
     parsed = get_parsed_articles(xml_file)
     dicts_to_csv(parsed, csv_file)
 
-'''
-# Parse and save new articles
-#parse_articles_to_csv()
+
+# Parse and save new articles to csv
+# parse_articles_to_csv()
 
 
 xml_file_path = 'asthma_40.xml'
 database_name = 'semantic_search'
 collection_name = 'articles'
 
+# Parse and save new articles to Mongo
 parse_articles_to_mongodb(xml_file_path, database_name, collection_name)
