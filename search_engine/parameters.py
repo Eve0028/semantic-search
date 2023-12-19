@@ -13,25 +13,33 @@ STOPWORDS = []
 #     'i i  i  i    i   i    bird    bird birds bird   turtle   turtle turtle  turtle    not'.split())))
 SYNONYMS = {}
 
-STEMMERS = ['porter', 'snowball']
-STEMMER = STEMMERS[0]
+# STEMMERS = [None, 'porter', 'snowball']
+STEMMERS = [None]
+# STEMMER = STEMMERS[0]
 
-TOKENIZERS = ['treebank', 'casual', 'biobert', 'punkt']
+# TOKENIZERS = ['treebank', 'casual', 'biobert', 'punkt']
+TOKENIZERS = ['treebank', 'biobert', 'punkt']
 TOKENIZER = TOKENIZERS[2]
 
-VECTORIZERS = ['tfidf', 'bow']
+# VECTORIZERS = ['tfidf', 'bow']
+VECTORIZERS = ['tfidf']
 VECTORIZER = VECTORIZERS[0]
 
 SEMANTIZATORS = ['pca', 'ldia', 'svd']
+# SEMANTIZATORS = ['pca', 'svd']
 SEMANTIZATOR = SEMANTIZATORS[0]
 
-NUMS_TOPICS = [3, 5, 7]
+# NUMS_TOPICS = [3, 5, 7, 10, 12]
+NUMS_TOPICS = [i for i in range(5, 29)]
 NUM_TOPICS = NUMS_TOPICS[0]
 
-DISTANCES_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
+# DISTANCES_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
+DISTANCES_METRICS = ['cosine', 'manhattan']
 DISTANCE_METRIC = DISTANCES_METRICS[0]
 
 DIR_FILES = 'DataManager'
 XML_FILE = 'asthma_40.xml'
 CSV_FILE = 'parsed_articles.csv'
-TEST_FILE = 'results.csv'
+TEST_RESULTS_DIR = 'tests'
+
+

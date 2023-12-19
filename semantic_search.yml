@@ -12,3 +12,5 @@ dependencies:
       - dearpygui=1.10.*
       - pymongo=4.6.*
       - transformers=4.36.*
+      - matplotlib=3.8.*
+      - numpy=1.24.*
