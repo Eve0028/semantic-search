@@ -5,7 +5,7 @@ import csv
 from DataManager.MongoDBManager import MongoDBManager
 from search_engine.parameters import XML_FILE, DIR_FILES, CSV_FILE
 
-NAMESPACE = {'mw': 'http://www.mediawiki.org/xml/export-0.10/'}
+WIKI = {'mw': 'http://www.mediawiki.org/xml/export-0.10/'}
 
 
 def parse_wikipedia_xml(xml_file):
@@ -14,9 +14,9 @@ def parse_wikipedia_xml(xml_file):
 
     articles = []
 
-    for page in root.findall('.//mw:page', NAMESPACE):
-        title = page.find('.//mw:title', NAMESPACE).text
-        content = page.find('.//mw:text', NAMESPACE).text
+    for page in root.findall('.//mw:page', WIKI):
+        title = page.find('.//mw:title', WIKI).text
+        content = page.find('.//mw:text', WIKI).text
 
         articles.append({
             'title': title,
@@ -45,7 +45,7 @@ def preprocess_article(text):
     text = re.sub(r'\[\[Category:.*?\]\]', '', text)
 
     # Usuń == z tytułów
-    text = re.sub(r'=', '', text, flags=re.DOTALL)
+    text = re.sub(r'==', '', text, flags=re.DOTALL)
 
     # Usuń oznaczenia w formie [[...]], zachowując tytuł i opis zdjęcia
     text = re.sub(r'\[\[File:(?P<title>.*?)\(\d+\).jpg\|thumb\|\[(?P<description>.*?)\]\]',
@@ -103,7 +103,7 @@ def parse_articles_to_csv(xml_file=f'{DIR_FILES}/{XML_FILE}', csv_file=f'{DIR_FI
 
 
 # Parse and save new articles to csv
-# parse_articles_to_csv()
+parse_articles_to_csv()
 
 
 xml_file_path = 'asthma_40.xml'
@@ -111,4 +111,4 @@ database_name = 'semantic_search'
 collection_name = 'articles'
 
 # Parse and save new articles to Mongo
-parse_articles_to_mongodb(xml_file_path, database_name, collection_name)
+# parse_articles_to_mongodb(xml_file_path, database_name, collection_name)

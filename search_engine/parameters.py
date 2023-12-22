@@ -27,15 +27,15 @@ VECTORIZER = VECTORIZERS[0]
 
 # SEMANTIZATORS = ['pca', 'ldia', 'svd']
 SEMANTIZATORS = ['pca', 'svd']
-SEMANTIZATOR = SEMANTIZATORS[0]
+SEMANTIZATOR = SEMANTIZATORS[1]
 
 # NUMS_TOPICS = [3, 5, 7, 10, 12]
 NUMS_TOPICS = [i for i in range(5, 29)]
-NUM_TOPICS = NUMS_TOPICS[0]
+NUM_TOPICS = 22
 
 # DISTANCES_METRICS = ['cosine', 'chebyshev', 'manhattan', 'euclidean']
 DISTANCES_METRICS = ['cosine', 'manhattan']
-DISTANCE_METRIC = DISTANCES_METRICS[0]
+DISTANCE_METRIC = DISTANCES_METRICS[1]
 
 DIR_FILES = 'DataManager'
 XML_FILE = 'asthma_40.xml'
