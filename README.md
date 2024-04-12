@@ -1,6 +1,18 @@
 # semantic-search
 Semantic search engine with a database based on Wikipedia
 
+### Tested methods
+- Tokenization: treebank, casual tokenizer, biobert, punkt.
+- Vectorization: bag of words, tf-idf.
+- Semantization: PCA, LDiA, SVD.
+- Distance/similarity metrics: euclidean distance, cosine similarity, chebyshev distance, manhattan distance.
+
+### Tools/libraries
+- nltk (tokenization),
+- transformers (tokenization),
+- sklearn (vectorization, semantization and vector similarity metrics),
+- pandas, numpy, matplotlib, pymongo, dearpygui. <br><br>
+
 ### Create environment
 - Conda <br>
 `conda env create -n semantic-search --file semantic-search.yml`
