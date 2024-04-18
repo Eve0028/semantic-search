@@ -13,6 +13,9 @@ Semantic search engine with a database based on Wikipedia
 - sklearn (vectorization, semantization and vector similarity metrics),
 - pandas, numpy, matplotlib, pymongo, dearpygui. <br><br>
 
+### GUI
+<img src="search_GUI.png" alt="search engine GUI" width="600"/>
+
 ### Create environment
 - Conda <br>
 `conda env create -n semantic-search --file semantic-search.yml`
